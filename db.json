@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "id": "0c066e77-a183-49df-88a5-fa1bf55b1992",
-      "name": "Griffin Murazik",
+      "id": "1fc8f0eb-5776-4ecd-a065-02b2e4b71882",
+      "name": "Deondre Schowalter",
       "roles": [
         {
           "name": "MAKER"
@@ -10,8 +10,8 @@
       ]
     },
     {
-      "id": "91f68e27-969c-4f94-bc71-d62769acc276",
-      "name": "Fidel Kunze",
+      "id": "2d42b32b-f907-47b0-bfdc-9da00421460c",
+      "name": "Anibal Huels",
       "roles": [
         {
           "name": "MAKER"
@@ -19,8 +19,8 @@
       ]
     },
     {
-      "id": "983ce47d-9450-4728-be5d-eb326239da79",
-      "name": "Bryana Herzog",
+      "id": "0ac58c6c-9f6f-47eb-888f-9045bd80268d",
+      "name": "Annamarie McClure",
       "roles": [
         {
           "name": "MAKER"
@@ -28,8 +28,8 @@
       ]
     },
     {
-      "id": "c28040bc-e5c1-4844-87bb-71dab6baa6ee",
-      "name": "Mylene Sporer",
+      "id": "923bb084-08f5-46e2-9a6b-78d84bf0b232",
+      "name": "Ernestina Sanford",
       "roles": [
         {
           "name": "MAKER"
@@ -37,8 +37,8 @@
       ]
     },
     {
-      "id": "99340ec1-a8a4-412f-b5a5-a3d20365cebb",
-      "name": "Adella Collier",
+      "id": "3f99844f-fb95-4043-a443-d7dbb718fbf4",
+      "name": "Paxton Gaylord",
       "roles": [
         {
           "name": "MAKER"
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "id": "f5bb62ac-5086-46a8-8e91-5a9efec069ea",
-      "name": "Esteban Hamill",
+      "id": "b547abde-a90a-47a1-b28c-8291a9175183",
+      "name": "Eriberto Watsica",
       "roles": [
         {
           "name": "MAKER"
@@ -55,8 +55,8 @@
       ]
     },
     {
-      "id": "5dcb6841-0592-4f35-b1fe-5b8bb3e2fff4",
-      "name": "Cleveland Will",
+      "id": "f858ac7e-2183-4886-8b2c-e1505820b5cf",
+      "name": "Guiseppe Lindgren",
       "roles": [
         {
           "name": "MAKER"
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "id": "cf6b82eb-98fe-4826-a0fc-0edc8a24d237",
-      "name": "Missouri Aufderhar",
+      "id": "fb5962c6-2a31-4afa-bc86-164e12b59fe2",
+      "name": "Hubert Dietrich",
       "roles": [
         {
           "name": "MAKER"
@@ -73,8 +73,8 @@
       ]
     },
     {
-      "id": "197d332a-e4b1-40fc-bc86-ea2e60fa7515",
-      "name": "Arnold Auer",
+      "id": "f2ca81d4-adc9-4915-9c97-7117e48025f2",
+      "name": "Sterling Bergstrom",
       "roles": [
         {
           "name": "MAKER"
@@ -82,8 +82,8 @@
       ]
     },
     {
-      "id": "951b87e9-8ea7-470d-9cc8-dddacb8aea4a",
-      "name": "Emery Walsh",
+      "id": "606a1930-f4e5-463d-9909-4325c6a482c7",
+      "name": "Tre Marquardt",
       "roles": [
         {
           "name": "MAKER"
@@ -93,44 +93,39 @@
   ],
   "tenants": [
     {
-      "id": "417e06c0-8876-473e-a638-a65fc1108b6b",
-      "name": "Beer Group",
-      "shortCode": "BEE"
+      "id": "a30fff4d-4920-426f-ba47-bda946e33eb2",
+      "name": "Discover",
+      "shortCode": "DN"
     },
     {
-      "id": "1d4a7d4f-304e-4892-8f3a-169c0b4af657",
-      "name": "Hessel, Jacobs and Champlin",
-      "shortCode": "HES"
-    },
-    {
-      "id": "29315b99-1176-42d7-b8a3-4621d06ea189",
-      "name": "Schiller - Watsica",
-      "shortCode": "SCH"
+      "id": "64dde065-2fff-4dda-aed6-61f13f846505",
+      "name": "Diners Club",
+      "shortCode": "DCI"
     }
   ],
   "parties": [
     {
-      "id": "c167809e-6bfc-47d7-bd1e-f8e504cd5f4c",
-      "tenantId": "417e06c0-8876-473e-a638-a65fc1108b6b",
-      "partyName": "Bernier, Johnston and Hauck",
+      "id": "d5baf128-33e5-4c66-bc45-2ecf0700189a",
+      "networkId": "DN",
+      "partyName": "Cole - Borer",
       "contactDetails": {
-        "contactType": "CHANGE_CHANGE_CHANGE",
+        "contactType": "Preffered",
         "postalAddress": {
-          "postalAddressLine1": "039 Gleichner Stream",
-          "city": "New Clare",
-          "state": "NM",
-          "postalCode": "85048-3337",
-          "country": "MW"
+          "postalAddressLine1": "4259 Hansen Cape",
+          "city": "East Laneshire",
+          "state": "CA",
+          "postalCode": "57191-2927",
+          "country": "PW"
         },
         "eAddress": [
           {
-            "address": "Sydni.Douglas40@yahoo.com",
+            "address": "Estrella85@yahoo.com",
             "addressType": "email"
           }
         ],
         "teleAddress": [
           {
-            "telecommunicationNumber": "433-249-9666",
+            "telecommunicationNumber": "388-390-1478",
             "telecomType": "phone",
             "extension": ""
           }
@@ -138,27 +133,27 @@
       }
     },
     {
-      "id": "9266c186-90c4-4e7d-82f9-a139bf6e5c4a",
-      "tenantId": "417e06c0-8876-473e-a638-a65fc1108b6b",
-      "partyName": "Dibbert, Jones and Wunsch",
+      "id": "f0c793f8-a3e7-44aa-8b99-9c9331f91369",
+      "networkId": "DN",
+      "partyName": "Bosco - Wilkinson",
       "contactDetails": {
-        "contactType": "CHANGE_CHANGE_CHANGE",
+        "contactType": "Preffered",
         "postalAddress": {
-          "postalAddressLine1": "37089 Mayer Road",
-          "city": "South Harrisonberg",
-          "state": "IA",
-          "postalCode": "99322",
-          "country": "HR"
+          "postalAddressLine1": "9850 Sawayn Keys",
+          "city": "Juvenalside",
+          "state": "OH",
+          "postalCode": "74587",
+          "country": "GR"
         },
         "eAddress": [
           {
-            "address": "Jabari36@gmail.com",
+            "address": "Sabrina22@yahoo.com",
             "addressType": "email"
           }
         ],
         "teleAddress": [
           {
-            "telecommunicationNumber": "891-532-7292",
+            "telecommunicationNumber": "033-292-3597",
             "telecomType": "phone",
             "extension": ""
           }
@@ -166,27 +161,27 @@
       }
     },
     {
-      "id": "db1dcbc9-6b7b-4ed0-84ba-343143d1b581",
-      "tenantId": "1d4a7d4f-304e-4892-8f3a-169c0b4af657",
-      "partyName": "Fritsch, Harris and Johnson",
+      "id": "68e47858-2d2e-43de-bdcc-c198781a73b2",
+      "networkId": "DN",
+      "partyName": "Vandervort - Will",
       "contactDetails": {
-        "contactType": "CHANGE_CHANGE_CHANGE",
+        "contactType": "Preffered",
         "postalAddress": {
-          "postalAddressLine1": "8518 Haley Corners",
-          "city": "Kadenview",
-          "state": "AL",
-          "postalCode": "64400-7106",
-          "country": "GD"
+          "postalAddressLine1": "00862 Abbott Centers",
+          "city": "Haleyberg",
+          "state": "HI",
+          "postalCode": "66860",
+          "country": "PN"
         },
         "eAddress": [
           {
-            "address": "Teresa_Prosacco@yahoo.com",
+            "address": "Blake_Bailey@gmail.com",
             "addressType": "email"
           }
         ],
         "teleAddress": [
           {
-            "telecommunicationNumber": "023-806-2097",
+            "telecommunicationNumber": "545-854-5685",
             "telecomType": "phone",
             "extension": ""
           }
@@ -194,27 +189,27 @@
       }
     },
     {
-      "id": "12c3ca1c-1a07-4d95-a913-fcfc74afaf4e",
-      "tenantId": "1d4a7d4f-304e-4892-8f3a-169c0b4af657",
-      "partyName": "Spencer, Gerlach and Gerlach",
+      "id": "7a0b3e35-56d5-4cc0-9b70-08b9fc50a4eb",
+      "networkId": "DN",
+      "partyName": "Lang - Robel",
       "contactDetails": {
-        "contactType": "CHANGE_CHANGE_CHANGE",
+        "contactType": "Preffered",
         "postalAddress": {
-          "postalAddressLine1": "7821 Waters Common",
-          "city": "Heaneyland",
-          "state": "GA",
-          "postalCode": "40665",
-          "country": "WF"
+          "postalAddressLine1": "1633 Manley Harbors",
+          "city": "Orlandoville",
+          "state": "AZ",
+          "postalCode": "00248",
+          "country": "YE"
         },
         "eAddress": [
           {
-            "address": "Sister_Bins@yahoo.com",
+            "address": "Della.Bergstrom@yahoo.com",
             "addressType": "email"
           }
         ],
         "teleAddress": [
           {
-            "telecommunicationNumber": "041-590-8814",
+            "telecommunicationNumber": "693-338-3896",
             "telecomType": "phone",
             "extension": ""
           }
@@ -222,27 +217,27 @@
       }
     },
     {
-      "id": "fe00c56b-7e29-4ca7-a233-c4f67dabc496",
-      "tenantId": "1d4a7d4f-304e-4892-8f3a-169c0b4af657",
-      "partyName": "Grimes, Langworth and Denesik",
+      "id": "badd794b-df63-4119-a7d8-4c3f8f610fd0",
+      "networkId": "DCI",
+      "partyName": "Lowe Inc",
       "contactDetails": {
-        "contactType": "CHANGE_CHANGE_CHANGE",
+        "contactType": "Preffered",
         "postalAddress": {
-          "postalAddressLine1": "53565 Zechariah Mills",
-          "city": "Narcisoport",
-          "state": "TX",
-          "postalCode": "01747-4263",
-          "country": "BY"
+          "postalAddressLine1": "831 Lacey Field",
+          "city": "Gloverside",
+          "state": "WI",
+          "postalCode": "42220-5151",
+          "country": "SB"
         },
         "eAddress": [
           {
-            "address": "Austin.Jacobi@yahoo.com",
+            "address": "Amie.Davis38@hotmail.com",
             "addressType": "email"
           }
         ],
         "teleAddress": [
           {
-            "telecommunicationNumber": "099-698-1801",
+            "telecommunicationNumber": "473-340-0897",
             "telecomType": "phone",
             "extension": ""
           }
