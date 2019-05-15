@@ -2,7 +2,7 @@
   "name": "discover-local-mocks",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "json-server -c ./config.json ./index.js"
   },
