@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "json-server -c ./config.json ./index.js"
+    "start": "node server.js",
+    "dev": "json-server -c ./config.json ./index.js"
   },
   "author": "Damien McMahon",
   "license": "ISC",
