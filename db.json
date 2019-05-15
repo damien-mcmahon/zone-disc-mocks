@@ -1,0 +1,253 @@
+{
+  "users": [
+    {
+      "id": "0c066e77-a183-49df-88a5-fa1bf55b1992",
+      "name": "Griffin Murazik",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    },
+    {
+      "id": "91f68e27-969c-4f94-bc71-d62769acc276",
+      "name": "Fidel Kunze",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    },
+    {
+      "id": "983ce47d-9450-4728-be5d-eb326239da79",
+      "name": "Bryana Herzog",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    },
+    {
+      "id": "c28040bc-e5c1-4844-87bb-71dab6baa6ee",
+      "name": "Mylene Sporer",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    },
+    {
+      "id": "99340ec1-a8a4-412f-b5a5-a3d20365cebb",
+      "name": "Adella Collier",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    },
+    {
+      "id": "f5bb62ac-5086-46a8-8e91-5a9efec069ea",
+      "name": "Esteban Hamill",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    },
+    {
+      "id": "5dcb6841-0592-4f35-b1fe-5b8bb3e2fff4",
+      "name": "Cleveland Will",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    },
+    {
+      "id": "cf6b82eb-98fe-4826-a0fc-0edc8a24d237",
+      "name": "Missouri Aufderhar",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    },
+    {
+      "id": "197d332a-e4b1-40fc-bc86-ea2e60fa7515",
+      "name": "Arnold Auer",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    },
+    {
+      "id": "951b87e9-8ea7-470d-9cc8-dddacb8aea4a",
+      "name": "Emery Walsh",
+      "roles": [
+        {
+          "name": "MAKER"
+        }
+      ]
+    }
+  ],
+  "tenants": [
+    {
+      "id": "417e06c0-8876-473e-a638-a65fc1108b6b",
+      "name": "Beer Group",
+      "shortCode": "BEE"
+    },
+    {
+      "id": "1d4a7d4f-304e-4892-8f3a-169c0b4af657",
+      "name": "Hessel, Jacobs and Champlin",
+      "shortCode": "HES"
+    },
+    {
+      "id": "29315b99-1176-42d7-b8a3-4621d06ea189",
+      "name": "Schiller - Watsica",
+      "shortCode": "SCH"
+    }
+  ],
+  "parties": [
+    {
+      "id": "c167809e-6bfc-47d7-bd1e-f8e504cd5f4c",
+      "tenantId": "417e06c0-8876-473e-a638-a65fc1108b6b",
+      "partyName": "Bernier, Johnston and Hauck",
+      "contactDetails": {
+        "contactType": "CHANGE_CHANGE_CHANGE",
+        "postalAddress": {
+          "postalAddressLine1": "039 Gleichner Stream",
+          "city": "New Clare",
+          "state": "NM",
+          "postalCode": "85048-3337",
+          "country": "MW"
+        },
+        "eAddress": [
+          {
+            "address": "Sydni.Douglas40@yahoo.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "433-249-9666",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "9266c186-90c4-4e7d-82f9-a139bf6e5c4a",
+      "tenantId": "417e06c0-8876-473e-a638-a65fc1108b6b",
+      "partyName": "Dibbert, Jones and Wunsch",
+      "contactDetails": {
+        "contactType": "CHANGE_CHANGE_CHANGE",
+        "postalAddress": {
+          "postalAddressLine1": "37089 Mayer Road",
+          "city": "South Harrisonberg",
+          "state": "IA",
+          "postalCode": "99322",
+          "country": "HR"
+        },
+        "eAddress": [
+          {
+            "address": "Jabari36@gmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "891-532-7292",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "db1dcbc9-6b7b-4ed0-84ba-343143d1b581",
+      "tenantId": "1d4a7d4f-304e-4892-8f3a-169c0b4af657",
+      "partyName": "Fritsch, Harris and Johnson",
+      "contactDetails": {
+        "contactType": "CHANGE_CHANGE_CHANGE",
+        "postalAddress": {
+          "postalAddressLine1": "8518 Haley Corners",
+          "city": "Kadenview",
+          "state": "AL",
+          "postalCode": "64400-7106",
+          "country": "GD"
+        },
+        "eAddress": [
+          {
+            "address": "Teresa_Prosacco@yahoo.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "023-806-2097",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "12c3ca1c-1a07-4d95-a913-fcfc74afaf4e",
+      "tenantId": "1d4a7d4f-304e-4892-8f3a-169c0b4af657",
+      "partyName": "Spencer, Gerlach and Gerlach",
+      "contactDetails": {
+        "contactType": "CHANGE_CHANGE_CHANGE",
+        "postalAddress": {
+          "postalAddressLine1": "7821 Waters Common",
+          "city": "Heaneyland",
+          "state": "GA",
+          "postalCode": "40665",
+          "country": "WF"
+        },
+        "eAddress": [
+          {
+            "address": "Sister_Bins@yahoo.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "041-590-8814",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe00c56b-7e29-4ca7-a233-c4f67dabc496",
+      "tenantId": "1d4a7d4f-304e-4892-8f3a-169c0b4af657",
+      "partyName": "Grimes, Langworth and Denesik",
+      "contactDetails": {
+        "contactType": "CHANGE_CHANGE_CHANGE",
+        "postalAddress": {
+          "postalAddressLine1": "53565 Zechariah Mills",
+          "city": "Narcisoport",
+          "state": "TX",
+          "postalCode": "01747-4263",
+          "country": "BY"
+        },
+        "eAddress": [
+          {
+            "address": "Austin.Jacobi@yahoo.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "099-698-1801",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    }
+  ]
+}
