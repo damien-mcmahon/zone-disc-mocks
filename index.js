@@ -1,13 +1,18 @@
 const { createUsers } = require('./user');
-const { createTenants } = require('./tenant');
+const { getTenants } = require('./tenant');
 const { createParties } = require('./party');
+const currencies = require('./json/currencies');
+const countries = require('./json/countries');
 
 module.exports = () => {
-  const tenants = createTenants(3);
+  const tenants = getTenants();
   const data = {
     users: createUsers(10),
     tenants,
-    parties: createParties(5, tenants)
+    parties: createParties(10, tenants),
+    currencies,
+    countries,
+    queue: createParties(5, tenants),
   };
 
   return data;

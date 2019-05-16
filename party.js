@@ -1,13 +1,17 @@
 const Faker = require('faker');
-const { range } = require('./utils');
+const { range, randomInt } = require('./utils');
+
+const STATUSES = ['Active', 'Rejected', 'Awaiting Approval'];
 
 module.exports =  {
   createParties: (count, tenants) => range(0,count).map(() => {
-      const randTenant = Math.max(0, Math.floor(Math.random() * tenants.length -1));
+      const randTenant = Math.max(0, randomInt(0, tenants.length - 1));
       const tenant = tenants[randTenant];
       const partyName = Faker.company.companyName();
+      const statusName = STATUSES[randomInt(0, STATUSES.length - 1)];
+
       const contactDetails = {
-        contactType: 'CHANGE_CHANGE_CHANGE',
+        contactType: 'preffered',
         postalAddress: {
           postalAddressLine1: Faker.address.streetAddress(),
           city: Faker.address.city(),
@@ -28,10 +32,10 @@ module.exports =  {
 
       return {
         id: Faker.random.uuid(),
-        tenantId: tenant.id,
+        networkId: tenant.shortCode,
         partyName,
+        statusName,
         contactDetails
       };
   })
 };
-
