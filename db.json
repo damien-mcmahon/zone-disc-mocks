@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "id": "1fc8f0eb-5776-4ecd-a065-02b2e4b71882",
-      "name": "Deondre Schowalter",
+      "id": "8d7d4aed-2c0a-427f-b208-ec20de48a19b",
+      "name": "Jean Baumbach",
       "roles": [
         {
           "name": "MAKER"
@@ -10,8 +10,8 @@
       ]
     },
     {
-      "id": "2d42b32b-f907-47b0-bfdc-9da00421460c",
-      "name": "Anibal Huels",
+      "id": "35277bc5-b174-424b-a4db-11a8452f7140",
+      "name": "Shemar Johnson",
       "roles": [
         {
           "name": "MAKER"
@@ -19,8 +19,8 @@
       ]
     },
     {
-      "id": "0ac58c6c-9f6f-47eb-888f-9045bd80268d",
-      "name": "Annamarie McClure",
+      "id": "f2801f5a-c04a-4e0d-9d83-31bff91b997b",
+      "name": "Jamey McLaughlin",
       "roles": [
         {
           "name": "MAKER"
@@ -28,8 +28,8 @@
       ]
     },
     {
-      "id": "923bb084-08f5-46e2-9a6b-78d84bf0b232",
-      "name": "Ernestina Sanford",
+      "id": "522a071e-d39d-4b3b-868b-ba14688de147",
+      "name": "Orrin Olson",
       "roles": [
         {
           "name": "MAKER"
@@ -37,8 +37,8 @@
       ]
     },
     {
-      "id": "3f99844f-fb95-4043-a443-d7dbb718fbf4",
-      "name": "Paxton Gaylord",
+      "id": "14a34c20-e43e-4c85-80bb-aef8dc46e560",
+      "name": "Frederick Fay",
       "roles": [
         {
           "name": "MAKER"
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "id": "b547abde-a90a-47a1-b28c-8291a9175183",
-      "name": "Eriberto Watsica",
+      "id": "513e5dd5-be60-47be-9793-f4d5bd10dad3",
+      "name": "Hershel Hilpert",
       "roles": [
         {
           "name": "MAKER"
@@ -55,8 +55,8 @@
       ]
     },
     {
-      "id": "f858ac7e-2183-4886-8b2c-e1505820b5cf",
-      "name": "Guiseppe Lindgren",
+      "id": "b9c3068b-946b-469d-b88d-c099e382423d",
+      "name": "Daniela Fadel",
       "roles": [
         {
           "name": "MAKER"
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "id": "fb5962c6-2a31-4afa-bc86-164e12b59fe2",
-      "name": "Hubert Dietrich",
+      "id": "941927bb-c8ed-431c-8520-392b9caca2b0",
+      "name": "Elmore Green",
       "roles": [
         {
           "name": "MAKER"
@@ -73,8 +73,8 @@
       ]
     },
     {
-      "id": "f2ca81d4-adc9-4915-9c97-7117e48025f2",
-      "name": "Sterling Bergstrom",
+      "id": "168cd3c4-5426-4967-9309-7d782583a567",
+      "name": "Sadye Mitchell",
       "roles": [
         {
           "name": "MAKER"
@@ -82,8 +82,8 @@
       ]
     },
     {
-      "id": "606a1930-f4e5-463d-9909-4325c6a482c7",
-      "name": "Tre Marquardt",
+      "id": "b53e9885-c4b2-4758-8a0d-df0d34fc5091",
+      "name": "Vena Huels",
       "roles": [
         {
           "name": "MAKER"
@@ -93,39 +93,40 @@
   ],
   "tenants": [
     {
-      "id": "a30fff4d-4920-426f-ba47-bda946e33eb2",
+      "id": "9fd5a50d-e1da-42c4-b40a-eecb95da0e15",
       "name": "Discover",
       "shortCode": "DN"
     },
     {
-      "id": "64dde065-2fff-4dda-aed6-61f13f846505",
+      "id": "a90b6578-adb4-4f3e-95b2-be0dac841610",
       "name": "Diners Club",
       "shortCode": "DCI"
     }
   ],
   "parties": [
     {
-      "id": "d5baf128-33e5-4c66-bc45-2ecf0700189a",
+      "id": "ab1cb037-852c-4229-8ef7-a95163eaf9ba",
       "networkId": "DN",
-      "partyName": "Cole - Borer",
+      "partyName": "Bauch, Thiel and Ullrich",
+      "statusName": "Awaiting Approval",
       "contactDetails": {
-        "contactType": "Preffered",
+        "contactType": "preffered",
         "postalAddress": {
-          "postalAddressLine1": "4259 Hansen Cape",
-          "city": "East Laneshire",
-          "state": "CA",
-          "postalCode": "57191-2927",
-          "country": "PW"
+          "postalAddressLine1": "111 Kemmer Ville",
+          "city": "East Santaview",
+          "state": "AL",
+          "postalCode": "57691",
+          "country": "VE"
         },
         "eAddress": [
           {
-            "address": "Estrella85@yahoo.com",
+            "address": "Emerald43@gmail.com",
             "addressType": "email"
           }
         ],
         "teleAddress": [
           {
-            "telecommunicationNumber": "388-390-1478",
+            "telecommunicationNumber": "465-039-5169",
             "telecomType": "phone",
             "extension": ""
           }
@@ -133,111 +134,2445 @@
       }
     },
     {
-      "id": "f0c793f8-a3e7-44aa-8b99-9c9331f91369",
-      "networkId": "DN",
-      "partyName": "Bosco - Wilkinson",
-      "contactDetails": {
-        "contactType": "Preffered",
-        "postalAddress": {
-          "postalAddressLine1": "9850 Sawayn Keys",
-          "city": "Juvenalside",
-          "state": "OH",
-          "postalCode": "74587",
-          "country": "GR"
-        },
-        "eAddress": [
-          {
-            "address": "Sabrina22@yahoo.com",
-            "addressType": "email"
-          }
-        ],
-        "teleAddress": [
-          {
-            "telecommunicationNumber": "033-292-3597",
-            "telecomType": "phone",
-            "extension": ""
-          }
-        ]
-      }
-    },
-    {
-      "id": "68e47858-2d2e-43de-bdcc-c198781a73b2",
-      "networkId": "DN",
-      "partyName": "Vandervort - Will",
-      "contactDetails": {
-        "contactType": "Preffered",
-        "postalAddress": {
-          "postalAddressLine1": "00862 Abbott Centers",
-          "city": "Haleyberg",
-          "state": "HI",
-          "postalCode": "66860",
-          "country": "PN"
-        },
-        "eAddress": [
-          {
-            "address": "Blake_Bailey@gmail.com",
-            "addressType": "email"
-          }
-        ],
-        "teleAddress": [
-          {
-            "telecommunicationNumber": "545-854-5685",
-            "telecomType": "phone",
-            "extension": ""
-          }
-        ]
-      }
-    },
-    {
-      "id": "7a0b3e35-56d5-4cc0-9b70-08b9fc50a4eb",
-      "networkId": "DN",
-      "partyName": "Lang - Robel",
-      "contactDetails": {
-        "contactType": "Preffered",
-        "postalAddress": {
-          "postalAddressLine1": "1633 Manley Harbors",
-          "city": "Orlandoville",
-          "state": "AZ",
-          "postalCode": "00248",
-          "country": "YE"
-        },
-        "eAddress": [
-          {
-            "address": "Della.Bergstrom@yahoo.com",
-            "addressType": "email"
-          }
-        ],
-        "teleAddress": [
-          {
-            "telecommunicationNumber": "693-338-3896",
-            "telecomType": "phone",
-            "extension": ""
-          }
-        ]
-      }
-    },
-    {
-      "id": "badd794b-df63-4119-a7d8-4c3f8f610fd0",
+      "id": "908bae70-4ad7-4f69-b0c2-2521ece09c91",
       "networkId": "DCI",
-      "partyName": "Lowe Inc",
+      "partyName": "Zieme - Ryan",
+      "statusName": "Awaiting Approval",
       "contactDetails": {
-        "contactType": "Preffered",
+        "contactType": "preffered",
         "postalAddress": {
-          "postalAddressLine1": "831 Lacey Field",
-          "city": "Gloverside",
-          "state": "WI",
-          "postalCode": "42220-5151",
-          "country": "SB"
+          "postalAddressLine1": "776 Cornelius Walks",
+          "city": "Borermouth",
+          "state": "LA",
+          "postalCode": "77822",
+          "country": "TZ"
         },
         "eAddress": [
           {
-            "address": "Amie.Davis38@hotmail.com",
+            "address": "Nikita_Sipes@gmail.com",
             "addressType": "email"
           }
         ],
         "teleAddress": [
           {
-            "telecommunicationNumber": "473-340-0897",
+            "telecommunicationNumber": "492-735-1552",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb864795-87d1-4150-9306-64ffd7851795",
+      "networkId": "DCI",
+      "partyName": "Cole, Price and Friesen",
+      "statusName": "Rejected",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "3306 Dach Wall",
+          "city": "North Nadiaside",
+          "state": "GA",
+          "postalCode": "28137",
+          "country": "CZ"
+        },
+        "eAddress": [
+          {
+            "address": "Delfina93@yahoo.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "121-124-1663",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "7a9d02a1-e8d6-4711-8dbf-2db2605e061b",
+      "networkId": "DN",
+      "partyName": "Witting LLC",
+      "statusName": "Rejected",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "56321 Dariana Highway",
+          "city": "South Gracetown",
+          "state": "KS",
+          "postalCode": "57744-0777",
+          "country": "GW"
+        },
+        "eAddress": [
+          {
+            "address": "Sally_Howe@hotmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "611-435-9235",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "67075fa7-e6f6-475b-9734-13d869745d87",
+      "networkId": "DCI",
+      "partyName": "Langworth LLC",
+      "statusName": "Awaiting Approval",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "662 Jaskolski Mill",
+          "city": "Zelmafurt",
+          "state": "VA",
+          "postalCode": "87728-8861",
+          "country": "PH"
+        },
+        "eAddress": [
+          {
+            "address": "Cristobal_Nikolaus95@yahoo.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "571-925-9384",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "6e8369c4-bc68-44a1-815d-a93e21681e58",
+      "networkId": "DCI",
+      "partyName": "Hegmann, Grimes and Baumbach",
+      "statusName": "Awaiting Approval",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "444 Gulgowski Way",
+          "city": "Shieldsport",
+          "state": "PA",
+          "postalCode": "87905-9459",
+          "country": "US"
+        },
+        "eAddress": [
+          {
+            "address": "Leonie.Romaguera97@hotmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "328-159-9024",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "3250e9b6-3298-4e80-b440-646ca79661a2",
+      "networkId": "DCI",
+      "partyName": "Koelpin Group",
+      "statusName": "Active",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "38237 Delia Village",
+          "city": "Kilbackland",
+          "state": "NH",
+          "postalCode": "38809-4767",
+          "country": "PE"
+        },
+        "eAddress": [
+          {
+            "address": "Mathias.Yost8@hotmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "155-563-9363",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "d12285c6-c3ac-4f14-b6f4-b4aa1c19cd21",
+      "networkId": "DCI",
+      "partyName": "Huel - Schmitt",
+      "statusName": "Rejected",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "439 Lula Islands",
+          "city": "Thompsonshire",
+          "state": "WV",
+          "postalCode": "85320-0993",
+          "country": "YT"
+        },
+        "eAddress": [
+          {
+            "address": "Kayden_Romaguera@hotmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "470-840-5034",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "e2e42c85-d7c9-488f-b2e1-03268ffabc8d",
+      "networkId": "DN",
+      "partyName": "Greenholt, Littel and Conroy",
+      "statusName": "Active",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "1619 Freda Mission",
+          "city": "Gretchenchester",
+          "state": "SC",
+          "postalCode": "82102",
+          "country": "BV"
+        },
+        "eAddress": [
+          {
+            "address": "Antonio84@gmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "506-751-4917",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "63c0e250-d7fe-4975-abae-a3faf6e63a60",
+      "networkId": "DCI",
+      "partyName": "Herzog LLC",
+      "statusName": "Rejected",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "9735 Stiedemann Plain",
+          "city": "South Roy",
+          "state": "MN",
+          "postalCode": "87592",
+          "country": "AU"
+        },
+        "eAddress": [
+          {
+            "address": "Ulises_Stiedemann60@gmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "575-301-8231",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    }
+  ],
+  "currencies": {
+    "USD": {
+      "symbol": "$",
+      "name": "US Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "USD",
+      "name_plural": "US dollars"
+    },
+    "CAD": {
+      "symbol": "CA$",
+      "name": "Canadian Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "CAD",
+      "name_plural": "Canadian dollars"
+    },
+    "EUR": {
+      "symbol": "€",
+      "name": "Euro",
+      "symbol_native": "€",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "EUR",
+      "name_plural": "euros"
+    },
+    "AED": {
+      "symbol": "AED",
+      "name": "United Arab Emirates Dirham",
+      "symbol_native": "د.إ.‏",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "AED",
+      "name_plural": "UAE dirhams"
+    },
+    "AFN": {
+      "symbol": "Af",
+      "name": "Afghan Afghani",
+      "symbol_native": "؋",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "AFN",
+      "name_plural": "Afghan Afghanis"
+    },
+    "ALL": {
+      "symbol": "ALL",
+      "name": "Albanian Lek",
+      "symbol_native": "Lek",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "ALL",
+      "name_plural": "Albanian lekë"
+    },
+    "AMD": {
+      "symbol": "AMD",
+      "name": "Armenian Dram",
+      "symbol_native": "դր.",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "AMD",
+      "name_plural": "Armenian drams"
+    },
+    "ARS": {
+      "symbol": "AR$",
+      "name": "Argentine Peso",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "ARS",
+      "name_plural": "Argentine pesos"
+    },
+    "AUD": {
+      "symbol": "AU$",
+      "name": "Australian Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "AUD",
+      "name_plural": "Australian dollars"
+    },
+    "AZN": {
+      "symbol": "man.",
+      "name": "Azerbaijani Manat",
+      "symbol_native": "ман.",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "AZN",
+      "name_plural": "Azerbaijani manats"
+    },
+    "BAM": {
+      "symbol": "KM",
+      "name": "Bosnia-Herzegovina Convertible Mark",
+      "symbol_native": "KM",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "BAM",
+      "name_plural": "Bosnia-Herzegovina convertible marks"
+    },
+    "BDT": {
+      "symbol": "Tk",
+      "name": "Bangladeshi Taka",
+      "symbol_native": "৳",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "BDT",
+      "name_plural": "Bangladeshi takas"
+    },
+    "BGN": {
+      "symbol": "BGN",
+      "name": "Bulgarian Lev",
+      "symbol_native": "лв.",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "BGN",
+      "name_plural": "Bulgarian leva"
+    },
+    "BHD": {
+      "symbol": "BD",
+      "name": "Bahraini Dinar",
+      "symbol_native": "د.ب.‏",
+      "decimal_digits": 3,
+      "rounding": 0,
+      "code": "BHD",
+      "name_plural": "Bahraini dinars"
+    },
+    "BIF": {
+      "symbol": "FBu",
+      "name": "Burundian Franc",
+      "symbol_native": "FBu",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "BIF",
+      "name_plural": "Burundian francs"
+    },
+    "BND": {
+      "symbol": "BN$",
+      "name": "Brunei Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "BND",
+      "name_plural": "Brunei dollars"
+    },
+    "BOB": {
+      "symbol": "Bs",
+      "name": "Bolivian Boliviano",
+      "symbol_native": "Bs",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "BOB",
+      "name_plural": "Bolivian bolivianos"
+    },
+    "BRL": {
+      "symbol": "R$",
+      "name": "Brazilian Real",
+      "symbol_native": "R$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "BRL",
+      "name_plural": "Brazilian reals"
+    },
+    "BWP": {
+      "symbol": "BWP",
+      "name": "Botswanan Pula",
+      "symbol_native": "P",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "BWP",
+      "name_plural": "Botswanan pulas"
+    },
+    "BYR": {
+      "symbol": "BYR",
+      "name": "Belarusian Ruble",
+      "symbol_native": "BYR",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "BYR",
+      "name_plural": "Belarusian rubles"
+    },
+    "BZD": {
+      "symbol": "BZ$",
+      "name": "Belize Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "BZD",
+      "name_plural": "Belize dollars"
+    },
+    "CDF": {
+      "symbol": "CDF",
+      "name": "Congolese Franc",
+      "symbol_native": "FrCD",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "CDF",
+      "name_plural": "Congolese francs"
+    },
+    "CHF": {
+      "symbol": "CHF",
+      "name": "Swiss Franc",
+      "symbol_native": "CHF",
+      "decimal_digits": 2,
+      "rounding": 0.05,
+      "code": "CHF",
+      "name_plural": "Swiss francs"
+    },
+    "CLP": {
+      "symbol": "CL$",
+      "name": "Chilean Peso",
+      "symbol_native": "$",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "CLP",
+      "name_plural": "Chilean pesos"
+    },
+    "CNY": {
+      "symbol": "CN¥",
+      "name": "Chinese Yuan",
+      "symbol_native": "CN¥",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "CNY",
+      "name_plural": "Chinese yuan"
+    },
+    "COP": {
+      "symbol": "CO$",
+      "name": "Colombian Peso",
+      "symbol_native": "$",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "COP",
+      "name_plural": "Colombian pesos"
+    },
+    "CRC": {
+      "symbol": "₡",
+      "name": "Costa Rican Colón",
+      "symbol_native": "₡",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "CRC",
+      "name_plural": "Costa Rican colóns"
+    },
+    "CVE": {
+      "symbol": "CV$",
+      "name": "Cape Verdean Escudo",
+      "symbol_native": "CV$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "CVE",
+      "name_plural": "Cape Verdean escudos"
+    },
+    "CZK": {
+      "symbol": "Kč",
+      "name": "Czech Republic Koruna",
+      "symbol_native": "Kč",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "CZK",
+      "name_plural": "Czech Republic korunas"
+    },
+    "DJF": {
+      "symbol": "Fdj",
+      "name": "Djiboutian Franc",
+      "symbol_native": "Fdj",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "DJF",
+      "name_plural": "Djiboutian francs"
+    },
+    "DKK": {
+      "symbol": "Dkr",
+      "name": "Danish Krone",
+      "symbol_native": "kr",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "DKK",
+      "name_plural": "Danish kroner"
+    },
+    "DOP": {
+      "symbol": "RD$",
+      "name": "Dominican Peso",
+      "symbol_native": "RD$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "DOP",
+      "name_plural": "Dominican pesos"
+    },
+    "DZD": {
+      "symbol": "DA",
+      "name": "Algerian Dinar",
+      "symbol_native": "د.ج.‏",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "DZD",
+      "name_plural": "Algerian dinars"
+    },
+    "EEK": {
+      "symbol": "Ekr",
+      "name": "Estonian Kroon",
+      "symbol_native": "kr",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "EEK",
+      "name_plural": "Estonian kroons"
+    },
+    "EGP": {
+      "symbol": "EGP",
+      "name": "Egyptian Pound",
+      "symbol_native": "ج.م.‏",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "EGP",
+      "name_plural": "Egyptian pounds"
+    },
+    "ERN": {
+      "symbol": "Nfk",
+      "name": "Eritrean Nakfa",
+      "symbol_native": "Nfk",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "ERN",
+      "name_plural": "Eritrean nakfas"
+    },
+    "ETB": {
+      "symbol": "Br",
+      "name": "Ethiopian Birr",
+      "symbol_native": "Br",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "ETB",
+      "name_plural": "Ethiopian birrs"
+    },
+    "GBP": {
+      "symbol": "£",
+      "name": "British Pound Sterling",
+      "symbol_native": "£",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "GBP",
+      "name_plural": "British pounds sterling"
+    },
+    "GEL": {
+      "symbol": "GEL",
+      "name": "Georgian Lari",
+      "symbol_native": "GEL",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "GEL",
+      "name_plural": "Georgian laris"
+    },
+    "GHS": {
+      "symbol": "GH₵",
+      "name": "Ghanaian Cedi",
+      "symbol_native": "GH₵",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "GHS",
+      "name_plural": "Ghanaian cedis"
+    },
+    "GNF": {
+      "symbol": "FG",
+      "name": "Guinean Franc",
+      "symbol_native": "FG",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "GNF",
+      "name_plural": "Guinean francs"
+    },
+    "GTQ": {
+      "symbol": "GTQ",
+      "name": "Guatemalan Quetzal",
+      "symbol_native": "Q",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "GTQ",
+      "name_plural": "Guatemalan quetzals"
+    },
+    "HKD": {
+      "symbol": "HK$",
+      "name": "Hong Kong Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "HKD",
+      "name_plural": "Hong Kong dollars"
+    },
+    "HNL": {
+      "symbol": "HNL",
+      "name": "Honduran Lempira",
+      "symbol_native": "L",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "HNL",
+      "name_plural": "Honduran lempiras"
+    },
+    "HRK": {
+      "symbol": "kn",
+      "name": "Croatian Kuna",
+      "symbol_native": "kn",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "HRK",
+      "name_plural": "Croatian kunas"
+    },
+    "HUF": {
+      "symbol": "Ft",
+      "name": "Hungarian Forint",
+      "symbol_native": "Ft",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "HUF",
+      "name_plural": "Hungarian forints"
+    },
+    "IDR": {
+      "symbol": "Rp",
+      "name": "Indonesian Rupiah",
+      "symbol_native": "Rp",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "IDR",
+      "name_plural": "Indonesian rupiahs"
+    },
+    "ILS": {
+      "symbol": "₪",
+      "name": "Israeli New Sheqel",
+      "symbol_native": "₪",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "ILS",
+      "name_plural": "Israeli new sheqels"
+    },
+    "INR": {
+      "symbol": "Rs",
+      "name": "Indian Rupee",
+      "symbol_native": "টকা",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "INR",
+      "name_plural": "Indian rupees"
+    },
+    "IQD": {
+      "symbol": "IQD",
+      "name": "Iraqi Dinar",
+      "symbol_native": "د.ع.‏",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "IQD",
+      "name_plural": "Iraqi dinars"
+    },
+    "IRR": {
+      "symbol": "IRR",
+      "name": "Iranian Rial",
+      "symbol_native": "﷼",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "IRR",
+      "name_plural": "Iranian rials"
+    },
+    "ISK": {
+      "symbol": "Ikr",
+      "name": "Icelandic Króna",
+      "symbol_native": "kr",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "ISK",
+      "name_plural": "Icelandic krónur"
+    },
+    "JMD": {
+      "symbol": "J$",
+      "name": "Jamaican Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "JMD",
+      "name_plural": "Jamaican dollars"
+    },
+    "JOD": {
+      "symbol": "JD",
+      "name": "Jordanian Dinar",
+      "symbol_native": "د.أ.‏",
+      "decimal_digits": 3,
+      "rounding": 0,
+      "code": "JOD",
+      "name_plural": "Jordanian dinars"
+    },
+    "JPY": {
+      "symbol": "¥",
+      "name": "Japanese Yen",
+      "symbol_native": "￥",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "JPY",
+      "name_plural": "Japanese yen"
+    },
+    "KES": {
+      "symbol": "Ksh",
+      "name": "Kenyan Shilling",
+      "symbol_native": "Ksh",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "KES",
+      "name_plural": "Kenyan shillings"
+    },
+    "KHR": {
+      "symbol": "KHR",
+      "name": "Cambodian Riel",
+      "symbol_native": "៛",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "KHR",
+      "name_plural": "Cambodian riels"
+    },
+    "KMF": {
+      "symbol": "CF",
+      "name": "Comorian Franc",
+      "symbol_native": "FC",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "KMF",
+      "name_plural": "Comorian francs"
+    },
+    "KRW": {
+      "symbol": "₩",
+      "name": "South Korean Won",
+      "symbol_native": "₩",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "KRW",
+      "name_plural": "South Korean won"
+    },
+    "KWD": {
+      "symbol": "KD",
+      "name": "Kuwaiti Dinar",
+      "symbol_native": "د.ك.‏",
+      "decimal_digits": 3,
+      "rounding": 0,
+      "code": "KWD",
+      "name_plural": "Kuwaiti dinars"
+    },
+    "KZT": {
+      "symbol": "KZT",
+      "name": "Kazakhstani Tenge",
+      "symbol_native": "тңг.",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "KZT",
+      "name_plural": "Kazakhstani tenges"
+    },
+    "LBP": {
+      "symbol": "LB£",
+      "name": "Lebanese Pound",
+      "symbol_native": "ل.ل.‏",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "LBP",
+      "name_plural": "Lebanese pounds"
+    },
+    "LKR": {
+      "symbol": "SLRs",
+      "name": "Sri Lankan Rupee",
+      "symbol_native": "SL Re",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "LKR",
+      "name_plural": "Sri Lankan rupees"
+    },
+    "LTL": {
+      "symbol": "Lt",
+      "name": "Lithuanian Litas",
+      "symbol_native": "Lt",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "LTL",
+      "name_plural": "Lithuanian litai"
+    },
+    "LVL": {
+      "symbol": "Ls",
+      "name": "Latvian Lats",
+      "symbol_native": "Ls",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "LVL",
+      "name_plural": "Latvian lati"
+    },
+    "LYD": {
+      "symbol": "LD",
+      "name": "Libyan Dinar",
+      "symbol_native": "د.ل.‏",
+      "decimal_digits": 3,
+      "rounding": 0,
+      "code": "LYD",
+      "name_plural": "Libyan dinars"
+    },
+    "MAD": {
+      "symbol": "MAD",
+      "name": "Moroccan Dirham",
+      "symbol_native": "د.م.‏",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "MAD",
+      "name_plural": "Moroccan dirhams"
+    },
+    "MDL": {
+      "symbol": "MDL",
+      "name": "Moldovan Leu",
+      "symbol_native": "MDL",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "MDL",
+      "name_plural": "Moldovan lei"
+    },
+    "MGA": {
+      "symbol": "MGA",
+      "name": "Malagasy Ariary",
+      "symbol_native": "MGA",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "MGA",
+      "name_plural": "Malagasy Ariaries"
+    },
+    "MKD": {
+      "symbol": "MKD",
+      "name": "Macedonian Denar",
+      "symbol_native": "MKD",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "MKD",
+      "name_plural": "Macedonian denari"
+    },
+    "MMK": {
+      "symbol": "MMK",
+      "name": "Myanma Kyat",
+      "symbol_native": "K",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "MMK",
+      "name_plural": "Myanma kyats"
+    },
+    "MOP": {
+      "symbol": "MOP$",
+      "name": "Macanese Pataca",
+      "symbol_native": "MOP$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "MOP",
+      "name_plural": "Macanese patacas"
+    },
+    "MUR": {
+      "symbol": "MURs",
+      "name": "Mauritian Rupee",
+      "symbol_native": "MURs",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "MUR",
+      "name_plural": "Mauritian rupees"
+    },
+    "MXN": {
+      "symbol": "MX$",
+      "name": "Mexican Peso",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "MXN",
+      "name_plural": "Mexican pesos"
+    },
+    "MYR": {
+      "symbol": "RM",
+      "name": "Malaysian Ringgit",
+      "symbol_native": "RM",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "MYR",
+      "name_plural": "Malaysian ringgits"
+    },
+    "MZN": {
+      "symbol": "MTn",
+      "name": "Mozambican Metical",
+      "symbol_native": "MTn",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "MZN",
+      "name_plural": "Mozambican meticals"
+    },
+    "NAD": {
+      "symbol": "N$",
+      "name": "Namibian Dollar",
+      "symbol_native": "N$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "NAD",
+      "name_plural": "Namibian dollars"
+    },
+    "NGN": {
+      "symbol": "₦",
+      "name": "Nigerian Naira",
+      "symbol_native": "₦",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "NGN",
+      "name_plural": "Nigerian nairas"
+    },
+    "NIO": {
+      "symbol": "C$",
+      "name": "Nicaraguan Córdoba",
+      "symbol_native": "C$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "NIO",
+      "name_plural": "Nicaraguan córdobas"
+    },
+    "NOK": {
+      "symbol": "Nkr",
+      "name": "Norwegian Krone",
+      "symbol_native": "kr",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "NOK",
+      "name_plural": "Norwegian kroner"
+    },
+    "NPR": {
+      "symbol": "NPRs",
+      "name": "Nepalese Rupee",
+      "symbol_native": "नेरू",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "NPR",
+      "name_plural": "Nepalese rupees"
+    },
+    "NZD": {
+      "symbol": "NZ$",
+      "name": "New Zealand Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "NZD",
+      "name_plural": "New Zealand dollars"
+    },
+    "OMR": {
+      "symbol": "OMR",
+      "name": "Omani Rial",
+      "symbol_native": "ر.ع.‏",
+      "decimal_digits": 3,
+      "rounding": 0,
+      "code": "OMR",
+      "name_plural": "Omani rials"
+    },
+    "PAB": {
+      "symbol": "B/.",
+      "name": "Panamanian Balboa",
+      "symbol_native": "B/.",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "PAB",
+      "name_plural": "Panamanian balboas"
+    },
+    "PEN": {
+      "symbol": "S/.",
+      "name": "Peruvian Nuevo Sol",
+      "symbol_native": "S/.",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "PEN",
+      "name_plural": "Peruvian nuevos soles"
+    },
+    "PHP": {
+      "symbol": "₱",
+      "name": "Philippine Peso",
+      "symbol_native": "₱",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "PHP",
+      "name_plural": "Philippine pesos"
+    },
+    "PKR": {
+      "symbol": "PKRs",
+      "name": "Pakistani Rupee",
+      "symbol_native": "₨",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "PKR",
+      "name_plural": "Pakistani rupees"
+    },
+    "PLN": {
+      "symbol": "zł",
+      "name": "Polish Zloty",
+      "symbol_native": "zł",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "PLN",
+      "name_plural": "Polish zlotys"
+    },
+    "PYG": {
+      "symbol": "₲",
+      "name": "Paraguayan Guarani",
+      "symbol_native": "₲",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "PYG",
+      "name_plural": "Paraguayan guaranis"
+    },
+    "QAR": {
+      "symbol": "QR",
+      "name": "Qatari Rial",
+      "symbol_native": "ر.ق.‏",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "QAR",
+      "name_plural": "Qatari rials"
+    },
+    "RON": {
+      "symbol": "RON",
+      "name": "Romanian Leu",
+      "symbol_native": "RON",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "RON",
+      "name_plural": "Romanian lei"
+    },
+    "RSD": {
+      "symbol": "din.",
+      "name": "Serbian Dinar",
+      "symbol_native": "дин.",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "RSD",
+      "name_plural": "Serbian dinars"
+    },
+    "RUB": {
+      "symbol": "RUB",
+      "name": "Russian Ruble",
+      "symbol_native": "руб.",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "RUB",
+      "name_plural": "Russian rubles"
+    },
+    "RWF": {
+      "symbol": "RWF",
+      "name": "Rwandan Franc",
+      "symbol_native": "FR",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "RWF",
+      "name_plural": "Rwandan francs"
+    },
+    "SAR": {
+      "symbol": "SR",
+      "name": "Saudi Riyal",
+      "symbol_native": "ر.س.‏",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "SAR",
+      "name_plural": "Saudi riyals"
+    },
+    "SDG": {
+      "symbol": "SDG",
+      "name": "Sudanese Pound",
+      "symbol_native": "SDG",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "SDG",
+      "name_plural": "Sudanese pounds"
+    },
+    "SEK": {
+      "symbol": "Skr",
+      "name": "Swedish Krona",
+      "symbol_native": "kr",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "SEK",
+      "name_plural": "Swedish kronor"
+    },
+    "SGD": {
+      "symbol": "S$",
+      "name": "Singapore Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "SGD",
+      "name_plural": "Singapore dollars"
+    },
+    "SOS": {
+      "symbol": "Ssh",
+      "name": "Somali Shilling",
+      "symbol_native": "Ssh",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "SOS",
+      "name_plural": "Somali shillings"
+    },
+    "SYP": {
+      "symbol": "SY£",
+      "name": "Syrian Pound",
+      "symbol_native": "ل.س.‏",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "SYP",
+      "name_plural": "Syrian pounds"
+    },
+    "THB": {
+      "symbol": "฿",
+      "name": "Thai Baht",
+      "symbol_native": "฿",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "THB",
+      "name_plural": "Thai baht"
+    },
+    "TND": {
+      "symbol": "DT",
+      "name": "Tunisian Dinar",
+      "symbol_native": "د.ت.‏",
+      "decimal_digits": 3,
+      "rounding": 0,
+      "code": "TND",
+      "name_plural": "Tunisian dinars"
+    },
+    "TOP": {
+      "symbol": "T$",
+      "name": "Tongan Paʻanga",
+      "symbol_native": "T$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "TOP",
+      "name_plural": "Tongan paʻanga"
+    },
+    "TRY": {
+      "symbol": "TL",
+      "name": "Turkish Lira",
+      "symbol_native": "TL",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "TRY",
+      "name_plural": "Turkish Lira"
+    },
+    "TTD": {
+      "symbol": "TT$",
+      "name": "Trinidad and Tobago Dollar",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "TTD",
+      "name_plural": "Trinidad and Tobago dollars"
+    },
+    "TWD": {
+      "symbol": "NT$",
+      "name": "New Taiwan Dollar",
+      "symbol_native": "NT$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "TWD",
+      "name_plural": "New Taiwan dollars"
+    },
+    "TZS": {
+      "symbol": "TSh",
+      "name": "Tanzanian Shilling",
+      "symbol_native": "TSh",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "TZS",
+      "name_plural": "Tanzanian shillings"
+    },
+    "UAH": {
+      "symbol": "₴",
+      "name": "Ukrainian Hryvnia",
+      "symbol_native": "₴",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "UAH",
+      "name_plural": "Ukrainian hryvnias"
+    },
+    "UGX": {
+      "symbol": "USh",
+      "name": "Ugandan Shilling",
+      "symbol_native": "USh",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "UGX",
+      "name_plural": "Ugandan shillings"
+    },
+    "UYU": {
+      "symbol": "$U",
+      "name": "Uruguayan Peso",
+      "symbol_native": "$",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "UYU",
+      "name_plural": "Uruguayan pesos"
+    },
+    "UZS": {
+      "symbol": "UZS",
+      "name": "Uzbekistan Som",
+      "symbol_native": "UZS",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "UZS",
+      "name_plural": "Uzbekistan som"
+    },
+    "VEF": {
+      "symbol": "Bs.F.",
+      "name": "Venezuelan Bolívar",
+      "symbol_native": "Bs.F.",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "VEF",
+      "name_plural": "Venezuelan bolívars"
+    },
+    "VND": {
+      "symbol": "₫",
+      "name": "Vietnamese Dong",
+      "symbol_native": "₫",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "VND",
+      "name_plural": "Vietnamese dong"
+    },
+    "XAF": {
+      "symbol": "FCFA",
+      "name": "CFA Franc BEAC",
+      "symbol_native": "FCFA",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "XAF",
+      "name_plural": "CFA francs BEAC"
+    },
+    "XOF": {
+      "symbol": "CFA",
+      "name": "CFA Franc BCEAO",
+      "symbol_native": "CFA",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "XOF",
+      "name_plural": "CFA francs BCEAO"
+    },
+    "YER": {
+      "symbol": "YR",
+      "name": "Yemeni Rial",
+      "symbol_native": "ر.ي.‏",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "YER",
+      "name_plural": "Yemeni rials"
+    },
+    "ZAR": {
+      "symbol": "R",
+      "name": "South African Rand",
+      "symbol_native": "R",
+      "decimal_digits": 2,
+      "rounding": 0,
+      "code": "ZAR",
+      "name_plural": "South African rand"
+    },
+    "ZMK": {
+      "symbol": "ZK",
+      "name": "Zambian Kwacha",
+      "symbol_native": "ZK",
+      "decimal_digits": 0,
+      "rounding": 0,
+      "code": "ZMK",
+      "name_plural": "Zambian kwachas"
+    }
+  },
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "code": "AF"
+    },
+    {
+      "name": "Åland Islands",
+      "code": "AX"
+    },
+    {
+      "name": "Albania",
+      "code": "AL"
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ"
+    },
+    {
+      "name": "American Samoa",
+      "code": "AS"
+    },
+    {
+      "name": "AndorrA",
+      "code": "AD"
+    },
+    {
+      "name": "Angola",
+      "code": "AO"
+    },
+    {
+      "name": "Anguilla",
+      "code": "AI"
+    },
+    {
+      "name": "Antarctica",
+      "code": "AQ"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR"
+    },
+    {
+      "name": "Armenia",
+      "code": "AM"
+    },
+    {
+      "name": "Aruba",
+      "code": "AW"
+    },
+    {
+      "name": "Australia",
+      "code": "AU"
+    },
+    {
+      "name": "Austria",
+      "code": "AT"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ"
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS"
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD"
+    },
+    {
+      "name": "Barbados",
+      "code": "BB"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE"
+    },
+    {
+      "name": "Belize",
+      "code": "BZ"
+    },
+    {
+      "name": "Benin",
+      "code": "BJ"
+    },
+    {
+      "name": "Bermuda",
+      "code": "BM"
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT"
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA"
+    },
+    {
+      "name": "Botswana",
+      "code": "BW"
+    },
+    {
+      "name": "Bouvet Island",
+      "code": "BV"
+    },
+    {
+      "name": "Brazil",
+      "code": "BR"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "code": "IO"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "code": "BN"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG"
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF"
+    },
+    {
+      "name": "Burundi",
+      "code": "BI"
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH"
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM"
+    },
+    {
+      "name": "Canada",
+      "code": "CA"
+    },
+    {
+      "name": "Cape Verde",
+      "code": "CV"
+    },
+    {
+      "name": "Cayman Islands",
+      "code": "KY"
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF"
+    },
+    {
+      "name": "Chad",
+      "code": "TD"
+    },
+    {
+      "name": "Chile",
+      "code": "CL"
+    },
+    {
+      "name": "China",
+      "code": "CN"
+    },
+    {
+      "name": "Christmas Island",
+      "code": "CX"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "code": "CC"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO"
+    },
+    {
+      "name": "Comoros",
+      "code": "KM"
+    },
+    {
+      "name": "Congo",
+      "code": "CG"
+    },
+    {
+      "name": "Congo, The Democratic Republic of the",
+      "code": "CD"
+    },
+    {
+      "name": "Cook Islands",
+      "code": "CK"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR"
+    },
+    {
+      "name": "Cote D'Ivoire",
+      "code": "CI"
+    },
+    {
+      "name": "Croatia",
+      "code": "HR"
+    },
+    {
+      "name": "Cuba",
+      "code": "CU"
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "CZ"
+    },
+    {
+      "name": "Denmark",
+      "code": "DK"
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ"
+    },
+    {
+      "name": "Dominica",
+      "code": "DM"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO"
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG"
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ"
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER"
+    },
+    {
+      "name": "Estonia",
+      "code": "EE"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET"
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "code": "FK"
+    },
+    {
+      "name": "Faroe Islands",
+      "code": "FO"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ"
+    },
+    {
+      "name": "Finland",
+      "code": "FI"
+    },
+    {
+      "name": "France",
+      "code": "FR"
+    },
+    {
+      "name": "French Guiana",
+      "code": "GF"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF"
+    },
+    {
+      "name": "French Southern Territories",
+      "code": "TF"
+    },
+    {
+      "name": "Gabon",
+      "code": "GA"
+    },
+    {
+      "name": "Gambia",
+      "code": "GM"
+    },
+    {
+      "name": "Georgia",
+      "code": "GE"
+    },
+    {
+      "name": "Germany",
+      "code": "DE"
+    },
+    {
+      "name": "Ghana",
+      "code": "GH"
+    },
+    {
+      "name": "Gibraltar",
+      "code": "GI"
+    },
+    {
+      "name": "Greece",
+      "code": "GR"
+    },
+    {
+      "name": "Greenland",
+      "code": "GL"
+    },
+    {
+      "name": "Grenada",
+      "code": "GD"
+    },
+    {
+      "name": "Guadeloupe",
+      "code": "GP"
+    },
+    {
+      "name": "Guam",
+      "code": "GU"
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT"
+    },
+    {
+      "name": "Guernsey",
+      "code": "GG"
+    },
+    {
+      "name": "Guinea",
+      "code": "GN"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW"
+    },
+    {
+      "name": "Guyana",
+      "code": "GY"
+    },
+    {
+      "name": "Haiti",
+      "code": "HT"
+    },
+    {
+      "name": "Heard Island and Mcdonald Islands",
+      "code": "HM"
+    },
+    {
+      "name": "Holy See (Vatican City State)",
+      "code": "VA"
+    },
+    {
+      "name": "Honduras",
+      "code": "HN"
+    },
+    {
+      "name": "Hong Kong",
+      "code": "HK"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU"
+    },
+    {
+      "name": "Iceland",
+      "code": "IS"
+    },
+    {
+      "name": "India",
+      "code": "IN"
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID"
+    },
+    {
+      "name": "Iran, Islamic Republic Of",
+      "code": "IR"
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE"
+    },
+    {
+      "name": "Isle of Man",
+      "code": "IM"
+    },
+    {
+      "name": "Israel",
+      "code": "IL"
+    },
+    {
+      "name": "Italy",
+      "code": "IT"
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM"
+    },
+    {
+      "name": "Japan",
+      "code": "JP"
+    },
+    {
+      "name": "Jersey",
+      "code": "JE"
+    },
+    {
+      "name": "Jordan",
+      "code": "JO"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ"
+    },
+    {
+      "name": "Kenya",
+      "code": "KE"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI"
+    },
+    {
+      "name": "Korea, Democratic People'S Republic of",
+      "code": "KP"
+    },
+    {
+      "name": "Korea, Republic of",
+      "code": "KR"
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG"
+    },
+    {
+      "name": "Lao People'S Democratic Republic",
+      "code": "LA"
+    },
+    {
+      "name": "Latvia",
+      "code": "LV"
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB"
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS"
+    },
+    {
+      "name": "Liberia",
+      "code": "LR"
+    },
+    {
+      "name": "Libyan Arab Jamahiriya",
+      "code": "LY"
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT"
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU"
+    },
+    {
+      "name": "Macao",
+      "code": "MO"
+    },
+    {
+      "name": "Macedonia, The Former Yugoslav Republic of",
+      "code": "MK"
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG"
+    },
+    {
+      "name": "Malawi",
+      "code": "MW"
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV"
+    },
+    {
+      "name": "Mali",
+      "code": "ML"
+    },
+    {
+      "name": "Malta",
+      "code": "MT"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH"
+    },
+    {
+      "name": "Martinique",
+      "code": "MQ"
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR"
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU"
+    },
+    {
+      "name": "Mayotte",
+      "code": "YT"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX"
+    },
+    {
+      "name": "Micronesia, Federated States of",
+      "code": "FM"
+    },
+    {
+      "name": "Moldova, Republic of",
+      "code": "MD"
+    },
+    {
+      "name": "Monaco",
+      "code": "MC"
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN"
+    },
+    {
+      "name": "Montserrat",
+      "code": "MS"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA"
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ"
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM"
+    },
+    {
+      "name": "Namibia",
+      "code": "NA"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR"
+    },
+    {
+      "name": "Nepal",
+      "code": "NP"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL"
+    },
+    {
+      "name": "Netherlands Antilles",
+      "code": "AN"
+    },
+    {
+      "name": "New Caledonia",
+      "code": "NC"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI"
+    },
+    {
+      "name": "Niger",
+      "code": "NE"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG"
+    },
+    {
+      "name": "Niue",
+      "code": "NU"
+    },
+    {
+      "name": "Norfolk Island",
+      "code": "NF"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "code": "MP"
+    },
+    {
+      "name": "Norway",
+      "code": "NO"
+    },
+    {
+      "name": "Oman",
+      "code": "OM"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK"
+    },
+    {
+      "name": "Palau",
+      "code": "PW"
+    },
+    {
+      "name": "Palestinian Territory, Occupied",
+      "code": "PS"
+    },
+    {
+      "name": "Panama",
+      "code": "PA"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY"
+    },
+    {
+      "name": "Peru",
+      "code": "PE"
+    },
+    {
+      "name": "Philippines",
+      "code": "PH"
+    },
+    {
+      "name": "Pitcairn",
+      "code": "PN"
+    },
+    {
+      "name": "Poland",
+      "code": "PL"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT"
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR"
+    },
+    {
+      "name": "Qatar",
+      "code": "QA"
+    },
+    {
+      "name": "Reunion",
+      "code": "RE"
+    },
+    {
+      "name": "Romania",
+      "code": "RO"
+    },
+    {
+      "name": "Russian Federation",
+      "code": "RU"
+    },
+    {
+      "name": "RWANDA",
+      "code": "RW"
+    },
+    {
+      "name": "Saint Helena",
+      "code": "SH"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN"
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "code": "PM"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC"
+    },
+    {
+      "name": "Samoa",
+      "code": "WS"
+    },
+    {
+      "name": "San Marino",
+      "code": "SM"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "code": "ST"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA"
+    },
+    {
+      "name": "Senegal",
+      "code": "SN"
+    },
+    {
+      "name": "Serbia and Montenegro",
+      "code": "CS"
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC"
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL"
+    },
+    {
+      "name": "Singapore",
+      "code": "SG"
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK"
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI"
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB"
+    },
+    {
+      "name": "Somalia",
+      "code": "SO"
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "code": "GS"
+    },
+    {
+      "name": "Spain",
+      "code": "ES"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK"
+    },
+    {
+      "name": "Sudan",
+      "code": "SD"
+    },
+    {
+      "name": "Suriname",
+      "code": "SR"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "code": "SJ"
+    },
+    {
+      "name": "Swaziland",
+      "code": "SZ"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH"
+    },
+    {
+      "name": "Syrian Arab Republic",
+      "code": "SY"
+    },
+    {
+      "name": "Taiwan, Province of China",
+      "code": "TW"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ"
+    },
+    {
+      "name": "Tanzania, United Republic of",
+      "code": "TZ"
+    },
+    {
+      "name": "Thailand",
+      "code": "TH"
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL"
+    },
+    {
+      "name": "Togo",
+      "code": "TG"
+    },
+    {
+      "name": "Tokelau",
+      "code": "TK"
+    },
+    {
+      "name": "Tonga",
+      "code": "TO"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT"
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "code": "TC"
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV"
+    },
+    {
+      "name": "Uganda",
+      "code": "UG"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB"
+    },
+    {
+      "name": "United States",
+      "code": "US"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "code": "UM"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY"
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ"
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU"
+    },
+    {
+      "name": "Venezuela",
+      "code": "VE"
+    },
+    {
+      "name": "Viet Nam",
+      "code": "VN"
+    },
+    {
+      "name": "Virgin Islands, British",
+      "code": "VG"
+    },
+    {
+      "name": "Virgin Islands, U.S.",
+      "code": "VI"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "code": "WF"
+    },
+    {
+      "name": "Western Sahara",
+      "code": "EH"
+    },
+    {
+      "name": "Yemen",
+      "code": "YE"
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW"
+    }
+  ],
+  "queue": [
+    {
+      "id": "201a90b4-be45-433a-a7ad-c738be912886",
+      "networkId": "DN",
+      "partyName": "Ritchie LLC",
+      "statusName": "Active",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "03656 Hand Crescent",
+          "city": "Lake Jazmin",
+          "state": "NY",
+          "postalCode": "49932",
+          "country": "BV"
+        },
+        "eAddress": [
+          {
+            "address": "Ericka_Jerde@hotmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "999-466-4219",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "020dad71-ca43-48db-b8c5-c3f8f4f99fc0",
+      "networkId": "DN",
+      "partyName": "Hermann, Lehner and Franecki",
+      "statusName": "Active",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "653 Hudson Rue",
+          "city": "Leolabury",
+          "state": "OH",
+          "postalCode": "31361",
+          "country": "UY"
+        },
+        "eAddress": [
+          {
+            "address": "Francis54@hotmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "771-698-5332",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe2a245d-c4c4-4be4-bda3-c0e04fda3c68",
+      "networkId": "DN",
+      "partyName": "Hartmann, Willms and Heller",
+      "statusName": "Active",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "715 Regan Cliff",
+          "city": "South Deanfurt",
+          "state": "HI",
+          "postalCode": "96520-1575",
+          "country": "AD"
+        },
+        "eAddress": [
+          {
+            "address": "Christop28@gmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "259-895-7594",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "6250556f-5a8b-4fff-931f-0fa0d252ae19",
+      "networkId": "DN",
+      "partyName": "Kemmer, Ernser and Denesik",
+      "statusName": "Rejected",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "00378 Rice Hollow",
+          "city": "New Lavadachester",
+          "state": "WA",
+          "postalCode": "26163",
+          "country": "MH"
+        },
+        "eAddress": [
+          {
+            "address": "Michael_Sauer43@hotmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "078-992-3288",
+            "telecomType": "phone",
+            "extension": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "d1878cce-6e34-4be5-9616-15e32dbb1c0b",
+      "networkId": "DN",
+      "partyName": "Gottlieb Inc",
+      "statusName": "Active",
+      "contactDetails": {
+        "contactType": "preffered",
+        "postalAddress": {
+          "postalAddressLine1": "4808 Benjamin Spurs",
+          "city": "Davonport",
+          "state": "CO",
+          "postalCode": "46955",
+          "country": "KW"
+        },
+        "eAddress": [
+          {
+            "address": "Valentina13@hotmail.com",
+            "addressType": "email"
+          }
+        ],
+        "teleAddress": [
+          {
+            "telecommunicationNumber": "164-153-2133",
             "telecomType": "phone",
             "extension": ""
           }
