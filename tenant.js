@@ -1,7 +1,7 @@
 const Faker = require('faker');
 
 module.exports = {
-  getTenants: () => ([
+  tenants: [
     {
       id: Faker.random.uuid(),
       name: 'Discover',
@@ -11,5 +11,5 @@ module.exports = {
       name: 'Diners Club',
       shortCode: 'DCI'
     }
-  ])
+  ]
 };
