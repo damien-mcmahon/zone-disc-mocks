@@ -1,974 +1,2512 @@
 [
     {
-        "name": "Afghanistan",
-        "code": "AF"
-    },
-    {
-        "name": "Åland Islands",
-        "code": "AX"
-    },
-    {
-        "name": "Albania",
-        "code": "AL"
-    },
-    {
-        "name": "Algeria",
-        "code": "DZ"
-    },
-    {
-        "name": "American Samoa",
-        "code": "AS"
-    },
-    {
-        "name": "AndorrA",
-        "code": "AD"
-    },
-    {
-        "name": "Angola",
-        "code": "AO"
-    },
-    {
-        "name": "Anguilla",
-        "code": "AI"
-    },
-    {
-        "name": "Antarctica",
-        "code": "AQ"
-    },
-    {
-        "name": "Antigua and Barbuda",
-        "code": "AG"
-    },
-    {
-        "name": "Argentina",
-        "code": "AR"
-    },
-    {
-        "name": "Armenia",
-        "code": "AM"
-    },
-    {
-        "name": "Aruba",
-        "code": "AW"
-    },
-    {
-        "name": "Australia",
-        "code": "AU"
-    },
-    {
-        "name": "Austria",
-        "code": "AT"
-    },
-    {
-        "name": "Azerbaijan",
-        "code": "AZ"
-    },
-    {
-        "name": "Bahamas",
-        "code": "BS"
-    },
-    {
-        "name": "Bahrain",
-        "code": "BH"
-    },
-    {
-        "name": "Bangladesh",
-        "code": "BD"
-    },
-    {
-        "name": "Barbados",
-        "code": "BB"
-    },
-    {
-        "name": "Belarus",
-        "code": "BY"
-    },
-    {
-        "name": "Belgium",
-        "code": "BE"
-    },
-    {
-        "name": "Belize",
-        "code": "BZ"
-    },
-    {
-        "name": "Benin",
-        "code": "BJ"
-    },
-    {
-        "name": "Bermuda",
-        "code": "BM"
-    },
-    {
-        "name": "Bhutan",
-        "code": "BT"
-    },
-    {
-        "name": "Bolivia",
-        "code": "BO"
-    },
-    {
-        "name": "Bosnia and Herzegovina",
-        "code": "BA"
-    },
-    {
-        "name": "Botswana",
-        "code": "BW"
-    },
-    {
-        "name": "Bouvet Island",
-        "code": "BV"
-    },
-    {
-        "name": "Brazil",
-        "code": "BR"
-    },
-    {
-        "name": "British Indian Ocean Territory",
-        "code": "IO"
-    },
-    {
-        "name": "Brunei Darussalam",
-        "code": "BN"
-    },
-    {
-        "name": "Bulgaria",
-        "code": "BG"
-    },
-    {
-        "name": "Burkina Faso",
-        "code": "BF"
-    },
-    {
-        "name": "Burundi",
-        "code": "BI"
-    },
-    {
-        "name": "Cambodia",
-        "code": "KH"
-    },
-    {
-        "name": "Cameroon",
-        "code": "CM"
-    },
-    {
-        "name": "Canada",
-        "code": "CA"
-    },
-    {
-        "name": "Cape Verde",
-        "code": "CV"
-    },
-    {
-        "name": "Cayman Islands",
-        "code": "KY"
-    },
-    {
-        "name": "Central African Republic",
-        "code": "CF"
-    },
-    {
-        "name": "Chad",
-        "code": "TD"
-    },
-    {
-        "name": "Chile",
-        "code": "CL"
-    },
-    {
-        "name": "China",
-        "code": "CN"
-    },
-    {
-        "name": "Christmas Island",
-        "code": "CX"
-    },
-    {
-        "name": "Cocos (Keeling) Islands",
-        "code": "CC"
-    },
-    {
-        "name": "Colombia",
-        "code": "CO"
-    },
-    {
-        "name": "Comoros",
-        "code": "KM"
-    },
-    {
-        "name": "Congo",
-        "code": "CG"
-    },
-    {
-        "name": "Congo, The Democratic Republic of the",
-        "code": "CD"
-    },
-    {
-        "name": "Cook Islands",
-        "code": "CK"
-    },
-    {
-        "name": "Costa Rica",
-        "code": "CR"
-    },
-    {
-        "name": "Cote D'Ivoire",
-        "code": "CI"
-    },
-    {
-        "name": "Croatia",
-        "code": "HR"
-    },
-    {
-        "name": "Cuba",
-        "code": "CU"
-    },
-    {
-        "name": "Cyprus",
-        "code": "CY"
-    },
-    {
-        "name": "Czech Republic",
-        "code": "CZ"
-    },
-    {
-        "name": "Denmark",
-        "code": "DK"
-    },
-    {
-        "name": "Djibouti",
-        "code": "DJ"
-    },
-    {
-        "name": "Dominica",
-        "code": "DM"
-    },
-    {
-        "name": "Dominican Republic",
-        "code": "DO"
-    },
-    {
-        "name": "Ecuador",
-        "code": "EC"
-    },
-    {
-        "name": "Egypt",
-        "code": "EG"
-    },
-    {
-        "name": "El Salvador",
-        "code": "SV"
-    },
-    {
-        "name": "Equatorial Guinea",
-        "code": "GQ"
-    },
-    {
-        "name": "Eritrea",
-        "code": "ER"
-    },
-    {
-        "name": "Estonia",
-        "code": "EE"
-    },
-    {
-        "name": "Ethiopia",
-        "code": "ET"
-    },
-    {
-        "name": "Falkland Islands (Malvinas)",
-        "code": "FK"
-    },
-    {
-        "name": "Faroe Islands",
-        "code": "FO"
-    },
-    {
-        "name": "Fiji",
-        "code": "FJ"
-    },
-    {
-        "name": "Finland",
-        "code": "FI"
-    },
-    {
-        "name": "France",
-        "code": "FR"
-    },
-    {
-        "name": "French Guiana",
-        "code": "GF"
-    },
-    {
-        "name": "French Polynesia",
-        "code": "PF"
-    },
-    {
-        "name": "French Southern Territories",
-        "code": "TF"
-    },
-    {
-        "name": "Gabon",
-        "code": "GA"
-    },
-    {
-        "name": "Gambia",
-        "code": "GM"
-    },
-    {
-        "name": "Georgia",
-        "code": "GE"
-    },
-    {
-        "name": "Germany",
-        "code": "DE"
-    },
-    {
-        "name": "Ghana",
-        "code": "GH"
-    },
-    {
-        "name": "Gibraltar",
-        "code": "GI"
-    },
-    {
-        "name": "Greece",
-        "code": "GR"
-    },
-    {
-        "name": "Greenland",
-        "code": "GL"
-    },
-    {
-        "name": "Grenada",
-        "code": "GD"
-    },
-    {
-        "name": "Guadeloupe",
-        "code": "GP"
-    },
-    {
-        "name": "Guam",
-        "code": "GU"
-    },
-    {
-        "name": "Guatemala",
-        "code": "GT"
-    },
-    {
-        "name": "Guernsey",
-        "code": "GG"
-    },
-    {
-        "name": "Guinea",
-        "code": "GN"
-    },
-    {
-        "name": "Guinea-Bissau",
-        "code": "GW"
-    },
-    {
-        "name": "Guyana",
-        "code": "GY"
-    },
-    {
-        "name": "Haiti",
-        "code": "HT"
-    },
-    {
-        "name": "Heard Island and Mcdonald Islands",
-        "code": "HM"
-    },
-    {
-        "name": "Holy See (Vatican City State)",
-        "code": "VA"
-    },
-    {
-        "name": "Honduras",
-        "code": "HN"
-    },
-    {
-        "name": "Hong Kong",
-        "code": "HK"
-    },
-    {
-        "name": "Hungary",
-        "code": "HU"
-    },
-    {
-        "name": "Iceland",
-        "code": "IS"
-    },
-    {
-        "name": "India",
-        "code": "IN"
-    },
-    {
-        "name": "Indonesia",
-        "code": "ID"
-    },
-    {
-        "name": "Iran, Islamic Republic Of",
-        "code": "IR"
-    },
-    {
-        "name": "Iraq",
-        "code": "IQ"
-    },
-    {
-        "name": "Ireland",
-        "code": "IE"
-    },
-    {
-        "name": "Isle of Man",
-        "code": "IM"
-    },
-    {
-        "name": "Israel",
-        "code": "IL"
-    },
-    {
-        "name": "Italy",
-        "code": "IT"
-    },
-    {
-        "name": "Jamaica",
-        "code": "JM"
-    },
-    {
-        "name": "Japan",
-        "code": "JP"
-    },
-    {
-        "name": "Jersey",
-        "code": "JE"
-    },
-    {
-        "name": "Jordan",
-        "code": "JO"
-    },
-    {
-        "name": "Kazakhstan",
-        "code": "KZ"
-    },
-    {
-        "name": "Kenya",
-        "code": "KE"
-    },
-    {
-        "name": "Kiribati",
-        "code": "KI"
-    },
-    {
-        "name": "Korea, Democratic People'S Republic of",
-        "code": "KP"
-    },
-    {
-        "name": "Korea, Republic of",
-        "code": "KR"
-    },
-    {
-        "name": "Kuwait",
-        "code": "KW"
-    },
-    {
-        "name": "Kyrgyzstan",
-        "code": "KG"
-    },
-    {
-        "name": "Lao People'S Democratic Republic",
-        "code": "LA"
-    },
-    {
-        "name": "Latvia",
-        "code": "LV"
-    },
-    {
-        "name": "Lebanon",
-        "code": "LB"
-    },
-    {
-        "name": "Lesotho",
-        "code": "LS"
-    },
-    {
-        "name": "Liberia",
-        "code": "LR"
-    },
-    {
-        "name": "Libyan Arab Jamahiriya",
-        "code": "LY"
-    },
-    {
-        "name": "Liechtenstein",
-        "code": "LI"
-    },
-    {
-        "name": "Lithuania",
-        "code": "LT"
-    },
-    {
-        "name": "Luxembourg",
-        "code": "LU"
-    },
-    {
-        "name": "Macao",
-        "code": "MO"
-    },
-    {
-        "name": "Macedonia, The Former Yugoslav Republic of",
-        "code": "MK"
-    },
-    {
-        "name": "Madagascar",
-        "code": "MG"
-    },
-    {
-        "name": "Malawi",
-        "code": "MW"
-    },
-    {
-        "name": "Malaysia",
-        "code": "MY"
-    },
-    {
-        "name": "Maldives",
-        "code": "MV"
-    },
-    {
-        "name": "Mali",
-        "code": "ML"
-    },
-    {
-        "name": "Malta",
-        "code": "MT"
-    },
-    {
-        "name": "Marshall Islands",
-        "code": "MH"
-    },
-    {
-        "name": "Martinique",
-        "code": "MQ"
-    },
-    {
-        "name": "Mauritania",
-        "code": "MR"
-    },
-    {
-        "name": "Mauritius",
-        "code": "MU"
-    },
-    {
-        "name": "Mayotte",
-        "code": "YT"
-    },
-    {
-        "name": "Mexico",
-        "code": "MX"
-    },
-    {
-        "name": "Micronesia, Federated States of",
-        "code": "FM"
-    },
-    {
-        "name": "Moldova, Republic of",
-        "code": "MD"
-    },
-    {
-        "name": "Monaco",
-        "code": "MC"
-    },
-    {
-        "name": "Mongolia",
-        "code": "MN"
-    },
-    {
-        "name": "Montserrat",
-        "code": "MS"
-    },
-    {
-        "name": "Morocco",
-        "code": "MA"
-    },
-    {
-        "name": "Mozambique",
-        "code": "MZ"
-    },
-    {
-        "name": "Myanmar",
-        "code": "MM"
-    },
-    {
-        "name": "Namibia",
-        "code": "NA"
-    },
-    {
-        "name": "Nauru",
-        "code": "NR"
-    },
-    {
-        "name": "Nepal",
-        "code": "NP"
-    },
-    {
-        "name": "Netherlands",
-        "code": "NL"
-    },
-    {
-        "name": "Netherlands Antilles",
-        "code": "AN"
-    },
-    {
-        "name": "New Caledonia",
-        "code": "NC"
-    },
-    {
-        "name": "New Zealand",
-        "code": "NZ"
-    },
-    {
-        "name": "Nicaragua",
-        "code": "NI"
-    },
-    {
-        "name": "Niger",
-        "code": "NE"
-    },
-    {
-        "name": "Nigeria",
-        "code": "NG"
-    },
-    {
-        "name": "Niue",
-        "code": "NU"
-    },
-    {
-        "name": "Norfolk Island",
-        "code": "NF"
-    },
-    {
-        "name": "Northern Mariana Islands",
-        "code": "MP"
-    },
-    {
-        "name": "Norway",
-        "code": "NO"
-    },
-    {
-        "name": "Oman",
-        "code": "OM"
-    },
-    {
-        "name": "Pakistan",
-        "code": "PK"
-    },
-    {
-        "name": "Palau",
-        "code": "PW"
-    },
-    {
-        "name": "Palestinian Territory, Occupied",
-        "code": "PS"
-    },
-    {
-        "name": "Panama",
-        "code": "PA"
-    },
-    {
-        "name": "Papua New Guinea",
-        "code": "PG"
-    },
-    {
-        "name": "Paraguay",
-        "code": "PY"
-    },
-    {
-        "name": "Peru",
-        "code": "PE"
-    },
-    {
-        "name": "Philippines",
-        "code": "PH"
-    },
-    {
-        "name": "Pitcairn",
-        "code": "PN"
-    },
-    {
-        "name": "Poland",
-        "code": "PL"
-    },
-    {
-        "name": "Portugal",
-        "code": "PT"
-    },
-    {
-        "name": "Puerto Rico",
-        "code": "PR"
-    },
-    {
-        "name": "Qatar",
-        "code": "QA"
-    },
-    {
-        "name": "Reunion",
-        "code": "RE"
-    },
-    {
-        "name": "Romania",
-        "code": "RO"
-    },
-    {
-        "name": "Russian Federation",
-        "code": "RU"
-    },
-    {
-        "name": "RWANDA",
-        "code": "RW"
-    },
-    {
-        "name": "Saint Helena",
-        "code": "SH"
-    },
-    {
-        "name": "Saint Kitts and Nevis",
-        "code": "KN"
-    },
-    {
-        "name": "Saint Lucia",
-        "code": "LC"
-    },
-    {
-        "name": "Saint Pierre and Miquelon",
-        "code": "PM"
-    },
-    {
-        "name": "Saint Vincent and the Grenadines",
-        "code": "VC"
-    },
-    {
-        "name": "Samoa",
-        "code": "WS"
-    },
-    {
-        "name": "San Marino",
-        "code": "SM"
-    },
-    {
-        "name": "Sao Tome and Principe",
-        "code": "ST"
-    },
-    {
-        "name": "Saudi Arabia",
-        "code": "SA"
-    },
-    {
-        "name": "Senegal",
-        "code": "SN"
-    },
-    {
-        "name": "Serbia and Montenegro",
-        "code": "CS"
-    },
-    {
-        "name": "Seychelles",
-        "code": "SC"
-    },
-    {
-        "name": "Sierra Leone",
-        "code": "SL"
-    },
-    {
-        "name": "Singapore",
-        "code": "SG"
-    },
-    {
-        "name": "Slovakia",
-        "code": "SK"
-    },
-    {
-        "name": "Slovenia",
-        "code": "SI"
-    },
-    {
-        "name": "Solomon Islands",
-        "code": "SB"
-    },
-    {
-        "name": "Somalia",
-        "code": "SO"
-    },
-    {
-        "name": "South Africa",
-        "code": "ZA"
-    },
-    {
-        "name": "South Georgia and the South Sandwich Islands",
-        "code": "GS"
-    },
-    {
-        "name": "Spain",
-        "code": "ES"
-    },
-    {
-        "name": "Sri Lanka",
-        "code": "LK"
-    },
-    {
-        "name": "Sudan",
-        "code": "SD"
-    },
-    {
-        "name": "Suriname",
-        "code": "SR"
-    },
-    {
-        "name": "Svalbard and Jan Mayen",
-        "code": "SJ"
-    },
-    {
-        "name": "Swaziland",
-        "code": "SZ"
-    },
-    {
-        "name": "Sweden",
-        "code": "SE"
-    },
-    {
-        "name": "Switzerland",
-        "code": "CH"
-    },
-    {
-        "name": "Syrian Arab Republic",
-        "code": "SY"
-    },
-    {
-        "name": "Taiwan, Province of China",
-        "code": "TW"
-    },
-    {
-        "name": "Tajikistan",
-        "code": "TJ"
-    },
-    {
-        "name": "Tanzania, United Republic of",
-        "code": "TZ"
-    },
-    {
-        "name": "Thailand",
-        "code": "TH"
-    },
-    {
-        "name": "Timor-Leste",
-        "code": "TL"
-    },
-    {
-        "name": "Togo",
-        "code": "TG"
-    },
-    {
-        "name": "Tokelau",
-        "code": "TK"
-    },
-    {
-        "name": "Tonga",
-        "code": "TO"
-    },
-    {
-        "name": "Trinidad and Tobago",
-        "code": "TT"
-    },
-    {
-        "name": "Tunisia",
-        "code": "TN"
-    },
-    {
-        "name": "Turkey",
-        "code": "TR"
-    },
-    {
-        "name": "Turkmenistan",
-        "code": "TM"
-    },
-    {
-        "name": "Turks and Caicos Islands",
-        "code": "TC"
-    },
-    {
-        "name": "Tuvalu",
-        "code": "TV"
-    },
-    {
-        "name": "Uganda",
-        "code": "UG"
-    },
-    {
-        "name": "Ukraine",
-        "code": "UA"
-    },
-    {
-        "name": "United Arab Emirates",
-        "code": "AE"
-    },
-    {
-        "name": "United Kingdom",
-        "code": "GB"
-    },
-    {
-        "name": "United States",
-        "code": "US"
-    },
-    {
-        "name": "United States Minor Outlying Islands",
-        "code": "UM"
-    },
-    {
-        "name": "Uruguay",
-        "code": "UY"
-    },
-    {
-        "name": "Uzbekistan",
-        "code": "UZ"
-    },
-    {
-        "name": "Vanuatu",
-        "code": "VU"
-    },
-    {
-        "name": "Venezuela",
-        "code": "VE"
-    },
-    {
-        "name": "Viet Nam",
-        "code": "VN"
-    },
-    {
-        "name": "Virgin Islands, British",
-        "code": "VG"
-    },
-    {
-        "name": "Virgin Islands, U.S.",
-        "code": "VI"
-    },
-    {
-        "name": "Wallis and Futuna",
-        "code": "WF"
-    },
-    {
-        "name": "Western Sahara",
-        "code": "EH"
-    },
-    {
-        "name": "Yemen",
-        "code": "YE"
-    },
-    {
-        "name": "Zambia",
-        "code": "ZM"
-    },
-    {
-        "name": "Zimbabwe",
-        "code": "ZW"
+        "resourceId": "520f4ac8-5f04-4b35-9da1-daf549bd4da2",
+        "isoCountryName": "American Samoa",
+        "isoCountryNumber": "016",
+        "isoCountryCode": "ASM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "7710fb96-d300-4e92-9b91-0b731bbf0b29",
+        "isoCountryName": "Libya",
+        "isoCountryNumber": "434",
+        "isoCountryCode": "LBY",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LY",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "1c573216-8291-479d-bfa9-4ce3a54f611f",
+        "isoCountryName": "Cameroon",
+        "isoCountryNumber": "120",
+        "isoCountryCode": "CMR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "754c7555-41ed-4240-8547-42b87c86bc97",
+        "isoCountryName": "Turkey",
+        "isoCountryNumber": "792",
+        "isoCountryCode": "TUR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e10771bc-0617-44be-ab1a-3a58be0efed3",
+        "isoCountryName": "Belgium",
+        "isoCountryNumber": "056",
+        "isoCountryCode": "BEL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "145b39ae-00e1-485c-bda1-b13f04312572",
+        "isoCountryName": "Montenegro",
+        "isoCountryNumber": "499",
+        "isoCountryCode": "MNE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ME",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "bbca6fa3-c2cf-4bae-a63b-64cdb4013afe",
+        "isoCountryName": "Madagascar",
+        "isoCountryNumber": "450",
+        "isoCountryCode": "MDG",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e2cdee26-8e65-4ef4-9e6f-75663e1bb572",
+        "isoCountryName": "Maldives",
+        "isoCountryNumber": "462",
+        "isoCountryCode": "MDV",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MV",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6bb0277f-315a-49e3-893b-b380e94f4b90",
+        "isoCountryName": "Israel",
+        "isoCountryNumber": "376",
+        "isoCountryCode": "ISR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "IL",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "fe92567d-64ba-4946-b298-ef121c9e4098",
+        "isoCountryName": "Netherlands Antilles",
+        "isoCountryNumber": "530",
+        "isoCountryCode": "ANT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b80dbce3-65dd-4a6f-b915-ecc6f893adf3",
+        "isoCountryName": "Christmas Island",
+        "isoCountryNumber": "162",
+        "isoCountryCode": "CXR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CX",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "630a901c-80c0-4634-94fb-72ab3538614f",
+        "isoCountryName": "Ukraine",
+        "isoCountryNumber": "804",
+        "isoCountryCode": "UKR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "UA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "0c38f19f-dbc0-4e0f-afff-48361e13f148",
+        "isoCountryName": "Bangladesh",
+        "isoCountryNumber": "050",
+        "isoCountryCode": "BGD",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BD",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "89ecd4bb-f1e5-43be-8f84-d6051cdc4c55",
+        "isoCountryName": "Venezuela, Bolivarian Republic of",
+        "isoCountryNumber": "862",
+        "isoCountryCode": "VEN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "VE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "09dda3b1-216b-4a16-8310-0e9c6a0d2641",
+        "isoCountryName": "British Indian Ocean Territory",
+        "isoCountryNumber": "086",
+        "isoCountryCode": "IOT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "IO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "2601b8ed-5288-4b84-be8d-0eb9e60f9cd6",
+        "isoCountryName": "Sao Tome and Principe",
+        "isoCountryNumber": "678",
+        "isoCountryCode": "STP",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ST",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "2c390a90-33dc-44bb-af83-8ed3b80db8a9",
+        "isoCountryName": "Tonga",
+        "isoCountryNumber": "776",
+        "isoCountryCode": "TON",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "74c58e58-5e78-4960-b320-cf76234fcd27",
+        "isoCountryName": "Turkmenistan",
+        "isoCountryNumber": "795",
+        "isoCountryCode": "TKM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "109cfb5a-03cf-459f-9e1a-ce5300048a9d",
+        "isoCountryName": "Indonesia",
+        "isoCountryNumber": "360",
+        "isoCountryCode": "IDN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ID",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3faf3a20-1048-4b9e-8d17-54dc78aab516",
+        "isoCountryName": "Paraguay",
+        "isoCountryNumber": "600",
+        "isoCountryCode": "PRY",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PY",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "85662938-3cba-46de-8256-763efc618bb1",
+        "isoCountryName": "Luxembourg",
+        "isoCountryNumber": "442",
+        "isoCountryCode": "LUX",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "222dd281-0d31-43d9-94e9-c36524f5da1d",
+        "isoCountryName": "Columbia",
+        "isoCountryNumber": "170",
+        "isoCountryCode": "COL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "32714e2e-01a5-455d-93d0-9e91e7fca3d9",
+        "isoCountryName": "Guatemala",
+        "isoCountryNumber": "320",
+        "isoCountryCode": "GTM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "0acffe79-a2e5-433e-978f-b6174fc839a1",
+        "isoCountryName": "Sint Maarten (Dutch Part)",
+        "isoCountryNumber": "534",
+        "isoCountryCode": "SXM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SX",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "11e149c4-144b-46ea-a19b-3a5e5059cce2",
+        "isoCountryName": "Palau",
+        "isoCountryNumber": "585",
+        "isoCountryCode": "PLW",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e5888b65-dea6-4492-8933-c44c89a3c268",
+        "isoCountryName": "Suriname",
+        "isoCountryNumber": "740",
+        "isoCountryCode": "SUR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3cc6b903-5f55-44e5-8aac-a17dde97cf47",
+        "isoCountryName": "Croatia",
+        "isoCountryNumber": "191",
+        "isoCountryCode": "HRV",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "HR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "2c99694a-1cd4-46db-a955-57e6d11b086e",
+        "isoCountryName": "Puerto Rico",
+        "isoCountryNumber": "630",
+        "isoCountryCode": "PRI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "2cda5805-0f36-4c0c-a6f1-89b89a331bd7",
+        "isoCountryName": "Denmark",
+        "isoCountryNumber": "208",
+        "isoCountryCode": "DNK",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "DK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ecf09d81-7a88-43d5-9671-48bbef76e728",
+        "isoCountryName": "Namibia",
+        "isoCountryNumber": "516",
+        "isoCountryCode": "NAM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "34e4408d-46d6-497e-ac9b-9db8793d2787",
+        "isoCountryName": "Saint Kitts and Nevis",
+        "isoCountryNumber": "659",
+        "isoCountryCode": "KNA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b29ad31c-e960-434f-b101-011de63bfb67",
+        "isoCountryName": "Costa Rica",
+        "isoCountryNumber": "188",
+        "isoCountryCode": "CRI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "bc4f37a5-649a-41be-922f-7534e9f7411f",
+        "isoCountryName": "Georgia",
+        "isoCountryNumber": "268",
+        "isoCountryCode": "GEO",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6ef07faf-9120-4087-8e1e-a340dd892a34",
+        "isoCountryName": "Turks and Caicos Islands",
+        "isoCountryNumber": "796",
+        "isoCountryCode": "TCA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TC",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "1511192c-813b-486d-b53b-5e661858d591",
+        "isoCountryName": "Svalbard and Jan Mayen",
+        "isoCountryNumber": "744",
+        "isoCountryCode": "SJM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SJ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "57d551a2-07e7-4fc0-96f8-996ddab8d1e7",
+        "isoCountryName": "Seychelles",
+        "isoCountryNumber": "690",
+        "isoCountryCode": "SYC",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SC",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4e844dfe-99da-4adb-9404-828b27614572",
+        "isoCountryName": "Mauritania",
+        "isoCountryNumber": "478",
+        "isoCountryCode": "MRT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+       "resourceId": "cb1a3fd5-05d5-4e1c-b885-a400e48375a7",
+        "isoCountryName": "Zambia",
+        "isoCountryNumber": "894",
+        "isoCountryCode": "ZMB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ZM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e6d80ab1-fbdf-4d42-a9c7-1097f15c27b7",
+        "isoCountryName": "Netherlands",
+        "isoCountryNumber": "528",
+        "isoCountryCode": "NLD",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NL",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "749e9439-e1e8-43f5-ad4d-2fbcf98a8fbb",
+        "isoCountryName": "Zimbabwe",
+        "isoCountryNumber": "716",
+        "isoCountryCode": "ZWE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ZW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "c6363730-d1b6-4aa3-b7dc-e6ce0d233b00",
+        "isoCountryName": "Guam",
+        "isoCountryNumber": "316",
+        "isoCountryCode": "GUM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6090fc81-e729-400a-b014-aac55ea7a612",
+        "isoCountryName": "Guinea-Bissau",
+        "isoCountryNumber": "624",
+        "isoCountryCode": "GNB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "0561b609-bc00-456f-9afc-c9e532174159",
+        "isoCountryName": "Nauru",
+        "isoCountryNumber": "520",
+        "isoCountryCode": "NRU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "bcfceaac-1304-4924-84e0-f6c6ddf149db",
+        "isoCountryName": "Singapore",
+        "isoCountryNumber": "702",
+        "isoCountryCode": "SGP",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "2bf58bb1-3aca-4a7f-8aff-f496b6d1f24c",
+        "isoCountryName": "Botswana",
+        "isoCountryNumber": "072",
+        "isoCountryCode": "BWA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "8b5115d7-2526-487d-9d2a-f9132b30b6a8",
+        "isoCountryName": "South Sudan",
+        "isoCountryNumber": "728",
+        "isoCountryCode": "SSD",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "c21e8f0a-c2e9-4c3a-903c-87b6ae609866",
+        "isoCountryName": "Kiribati",
+        "isoCountryNumber": "296",
+        "isoCountryCode": "KIR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "de3eee23-06e8-4ea2-8126-b73332e8fb86",
+        "isoCountryName": "Saint Helena",
+        "isoCountryNumber": "654",
+        "isoCountryCode": "SHN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SH",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "5ffa9fb2-aae5-492a-b76d-1d067fa0ef34",
+        "isoCountryName": "Oman",
+        "isoCountryNumber": "512",
+        "isoCountryCode": "OMN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "OM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "c71c477e-943d-40e4-a5f0-d88e3a01a39b",
+        "isoCountryName": "Fiji",
+        "isoCountryNumber": "242",
+        "isoCountryCode": "FJI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "FJ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "39c25e30-44ec-49e3-a8a6-c4be3732c5d0",
+        "isoCountryName": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+        "isoCountryNumber": "807",
+        "isoCountryCode": "MKD",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "875c2680-39c2-424a-b725-8e8313e949d0",
+        "isoCountryName": "Aland Islands",
+        "isoCountryNumber": "248",
+        "isoCountryCode": "ALA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AX",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "af321987-0a73-4ab9-94e5-81039e119f98",
+        "isoCountryName": "Cyprus",
+        "isoCountryNumber": "196",
+        "isoCountryCode": "CYP",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CY",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f2a3d8e8-b5fe-4d72-bbfe-c87a9d7c8346",
+        "isoCountryName": "Northern Mariana Islands",
+        "isoCountryNumber": "580",
+        "isoCountryCode": "MNP",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MP",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "9d29289c-0d4a-40a1-927d-2ad0790f6a74",
+        "isoCountryName": "Europe Economic Union",
+        "isoCountryNumber": "974",
+        "isoCountryCode": "EEU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "EU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "bda62883-2d1c-45b4-9b15-1325a0f8cdb0",
+        "isoCountryName": "Saint Lucia",
+        "isoCountryNumber": "662",
+        "isoCountryCode": "LCA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LC",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3a0c8097-d48b-48f1-986d-770c8706c051",
+        "isoCountryName": "Pakistan",
+        "isoCountryNumber": "586",
+        "isoCountryCode": "PAK",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "c688d331-7a41-429b-bce3-231e0b421e2b",
+        "isoCountryName": "Iceland",
+        "isoCountryNumber": "352",
+        "isoCountryCode": "ISL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "IS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "83db4d8b-7c32-4a4c-9ee3-facc603bfa72",
+        "isoCountryName": "United Kingdom",
+        "isoCountryNumber": "826",
+        "isoCountryCode": "GBR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GB",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "47af0cc5-9947-40ef-90a9-46bff71451b8",
+        "isoCountryName": "Palestine, State of",
+        "isoCountryNumber": "275",
+        "isoCountryCode": "PSE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "2365f944-42a3-4320-869d-7ba84ba8615c",
+        "isoCountryName": "Somalia",
+        "isoCountryNumber": "706",
+        "isoCountryCode": "SOM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "67a2b2ec-35a8-4b21-b34e-98e6eb28fa2e",
+        "isoCountryName": "Hong Kong",
+        "isoCountryNumber": "344",
+        "isoCountryCode": "HKG",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "HK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "bda87500-184d-415d-8df5-d80bd3186020",
+        "isoCountryName": "Bonaire, Sint Eustatius, Saba",
+        "isoCountryNumber": "535",
+        "isoCountryCode": "BES",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BQ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "317283cd-ebda-4a34-8eda-fb0e1bb9fe29",
+        "isoCountryName": "Cuba",
+        "isoCountryNumber": "192",
+        "isoCountryCode": "CUB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ee8c720d-6f92-41ad-a651-63dea57e76b6",
+        "isoCountryName": "Ecuador",
+        "isoCountryNumber": "218",
+        "isoCountryCode": "ECU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "EC",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "a51a599f-dbb3-421d-abba-62251a595680",
+        "isoCountryName": "Korea (the Democratic People's Republic of)",
+        "isoCountryNumber": "408",
+        "isoCountryCode": "PRK",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KP",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "90ff1f99-eabe-41de-9483-cd10009cc480",
+        "isoCountryName": "Djibouti",
+        "isoCountryNumber": "262",
+        "isoCountryCode": "DJI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "DJ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3fdb15be-614f-4275-9f66-04bd887fbf99",
+        "isoCountryName": "Martinique",
+        "isoCountryNumber": "474",
+        "isoCountryCode": "MTQ",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MQ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "bfba93de-7ebf-496c-812b-d0054009024c",
+        "isoCountryName": "United Arab Emirates",
+        "isoCountryNumber": "784",
+        "isoCountryCode": "ARE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "45dd1e8f-2f84-4788-9980-abbf0e65c846",
+        "isoCountryName": "Andorra",
+        "isoCountryNumber": "020",
+        "isoCountryCode": "AND",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AD",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "62cb240c-2703-45a3-b7c6-448d000ecfdf",
+        "isoCountryName": "Bahamas",
+        "isoCountryNumber": "044",
+        "isoCountryCode": "BHS",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "d4071fd4-dfb6-416a-8fe4-15a10559eadd",
+        "isoCountryName": "Equatorial Guinea",
+        "isoCountryNumber": "226",
+        "isoCountryCode": "GNQ",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GQ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "78ecc2eb-7a50-431c-b3e0-eb326d93cbf3",
+        "isoCountryName": "Comoros",
+        "isoCountryNumber": "174",
+        "isoCountryCode": "COM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "31dce99f-6236-4b3f-8e85-3f597a98a726",
+        "isoCountryName": "Moldova, Republic of",
+        "isoCountryNumber": "498",
+        "isoCountryCode": "MDA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MD",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "50fb7a13-108f-451b-aa72-e0b3b3e5fe9b",
+        "isoCountryName": "Mayotte",
+        "isoCountryNumber": "175",
+        "isoCountryCode": "MYT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "YT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e5dbce9d-0d9c-4cb5-a3cb-f67d13f56fe6",
+        "isoCountryName": "Ireland",
+        "isoCountryNumber": "372",
+        "isoCountryCode": "IRL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "IE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "af8359ab-f6d6-4213-9cd3-976f4b987d50",
+        "isoCountryName": "Switzerland",
+        "isoCountryNumber": "756",
+       "isoCountryCode": "CHE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CH",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e77114c3-7fff-4924-8429-b32a1374135c",
+        "isoCountryName": "Senegal",
+        "isoCountryNumber": "686",
+        "isoCountryCode": "SEN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "9797cd89-30cc-4df1-8766-ef17cba33b8d",
+        "isoCountryName": "Swaziland",
+        "isoCountryNumber": "748",
+        "isoCountryCode": "SWZ",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "234014d3-0f2b-4306-8e9f-e347f88b1391",
+        "isoCountryName": "China",
+        "isoCountryNumber": "156",
+        "isoCountryCode": "CHN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f58cd649-360f-4f7a-9892-92a622f8f10e",
+        "isoCountryName": "Congo, Democratic Republic of the",
+        "isoCountryNumber": "180",
+        "isoCountryCode": "COD",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CD",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "75ee2dc6-b41c-4299-ba2a-572529c9c28e",
+        "isoCountryName": "Aruba",
+        "isoCountryNumber": "533",
+        "isoCountryCode": "ABW",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "d2c4f44c-3d86-49fa-8a5f-e25a6edcab5f",
+        "isoCountryName": "The State of Eritrea",
+        "isoCountryNumber": "232",
+        "isoCountryCode": "ERI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ER",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "280b53ef-83dd-40d3-ba13-6bfa892922e0",
+        "isoCountryName": "Haiti",
+        "isoCountryNumber": "332",
+        "isoCountryCode": "HTI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "HT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "a8055b30-a614-4b23-933e-dadf2582ea08",
+        "isoCountryName": "Chad",
+        "isoCountryNumber": "148",
+       "isoCountryCode": "TCD",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TD",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "80a9246c-c4a5-44ee-8613-1fe577781301",
+        "isoCountryName": "Nigeria",
+        "isoCountryNumber": "566",
+        "isoCountryCode": "NGA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "77618369-0c38-43b9-9b57-e8665ab85639",
+        "isoCountryName": "Iraq",
+        "isoCountryNumber": "368",
+        "isoCountryCode": "IRQ",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "IQ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4d19a957-8d9d-4c69-8bc8-6217762ff001",
+        "isoCountryName": "Antarctica",
+        "isoCountryNumber": "010",
+        "isoCountryCode": "ATA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AQ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "0b37ccd6-1d77-4990-917a-514690061ba7",
+        "isoCountryName": "Nicaragua",
+        "isoCountryNumber": "558",
+        "isoCountryCode": "NIC",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b7fe4419-bc0d-4a5f-aaf8-bafdf5fb748b",
+        "isoCountryName": "Hungary",
+        "isoCountryNumber": "348",
+        "isoCountryCode": "HUN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "HU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "57683233-4ef8-4192-ac06-ab68cf951fdc",
+        "isoCountryName": "Jamaica",
+        "isoCountryNumber": "388",
+        "isoCountryCode": "JAM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "JM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e84ecbf8-de2c-4837-8121-59f04d8f602f",
+        "isoCountryName": "Cayman Islands",
+        "isoCountryNumber": "136",
+        "isoCountryCode": "CYM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KY",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f618d3f6-75a2-4a8a-8374-451aa94d715e",
+        "isoCountryName": "Greenland",
+        "isoCountryNumber": "304",
+        "isoCountryCode": "GRL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GL",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "d05fd4ba-08e3-4b74-9481-bc39ed69328d",
+        "isoCountryName": "Bulgaria",
+        "isoCountryNumber": "100",
+        "isoCountryCode": "BGR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f60b5cf8-17ed-438f-a0c9-21188f60fb8d",
+        "isoCountryName": "Mauritius",
+        "isoCountryNumber": "480",
+        "isoCountryCode": "MUS",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "88da523c-469a-4b7a-a979-ffb701452045",
+        "isoCountryName": "Cape Verde",
+        "isoCountryNumber": "132",
+        "isoCountryCode": "CPV",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CV",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "a7e595d7-116e-44d3-9b25-b68e377818b3",
+        "isoCountryName": "British Virgin Islands",
+        "isoCountryNumber": "092",
+        "isoCountryCode": "VGB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "VG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3f3b4e45-c365-4bd4-abdf-fc8863c33c7f",
+        "isoCountryName": "Belarus",
+        "isoCountryNumber": "112",
+        "isoCountryCode": "BLR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BY",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "41e1d817-b8cf-4543-8885-b14fbffe2674",
+        "isoCountryName": "Egypt",
+        "isoCountryNumber": "818",
+        "isoCountryCode": "EGY",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "EG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b96dd2d4-f3a3-42aa-ba11-6d3c8f2ba51c",
+        "isoCountryName": "TAJIKISTAN",
+        "isoCountryNumber": "762",
+        "isoCountryCode": "TJK",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TJ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "12eb34ba-f83f-46de-b3df-e69740b8117f",
+        "isoCountryName": "Honduras",
+        "isoCountryNumber": "340",
+        "isoCountryCode": "HND",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "HN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ec31ca46-9790-426d-9fbf-2e9352e48003",
+        "isoCountryName": "Cambodia",
+        "isoCountryNumber": "116",
+        "isoCountryCode": "KHM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KH",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "be2df71a-ff7a-4e12-9690-e8fe59bda268",
+        "isoCountryName": "Austria",
+        "isoCountryNumber": "040",
+        "isoCountryCode": "AUT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "1ccae478-7d03-47a3-b820-8325e090062d",
+        "isoCountryName": "Saudi Arabia",
+        "isoCountryNumber": "682",
+        "isoCountryCode": "SAU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "052f9285-e9ac-4c55-8db3-e0d54983989d",
+        "isoCountryName": "South Georgia and the South Sandwich Islands",
+        "isoCountryNumber": "239",
+        "isoCountryCode": "SGS",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4dfb844e-6f9d-4e45-ad2e-7d19de5f1b6a",
+        "isoCountryName": "Portugal",
+        "isoCountryNumber": "620",
+        "isoCountryCode": "PRT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b4ef0d72-5161-47cc-ab00-b63eaa56b554",
+        "isoCountryName": "Kyrgyzstan",
+        "isoCountryNumber": "417",
+        "isoCountryCode": "KGZ",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "d27e6670-5454-4ea0-9b2b-569a3aaf8345",
+        "isoCountryName": "Czech Republic",
+        "isoCountryNumber": "203",
+        "isoCountryCode": "CZE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4d1ae75c-05e5-4209-8507-42449a56f7e4",
+        "isoCountryName": "Uganda",
+        "isoCountryNumber": "800",
+        "isoCountryCode": "UGA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "UG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4648b76f-3a09-4a88-8e09-76fdf9780d0e",
+        "isoCountryName": "Rwanda",
+        "isoCountryNumber": "646",
+        "isoCountryCode": "RWA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "RW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "dad68274-cc3b-46df-8651-8e2d87501f59",
+        "isoCountryName": "San Marino",
+        "isoCountryNumber": "674",
+        "isoCountryCode": "SMR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "8f6db9f3-909c-47c3-b3be-8a0c78b511b2",
+        "isoCountryName": "COTE D'IVOIRE (IVORY COAST)",
+        "isoCountryNumber": "384",
+        "isoCountryCode": "CIV",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "63c652e2-55c8-4529-a858-6741850d02f5",
+        "isoCountryName": "Norway",
+        "isoCountryNumber": "578",
+        "isoCountryCode": "NOR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6149eb25-d32c-42d0-9a0b-d650232acf3c",
+        "isoCountryName": "Guinea",
+        "isoCountryNumber": "324",
+        "isoCountryCode": "GIN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "46443abd-2b26-4821-a86e-429fc2a3e2d0",
+        "isoCountryName": "Isle of Man",
+        "isoCountryNumber": "833",
+        "isoCountryCode": "IMN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "IM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4801c4d9-c9b0-4e16-bcdd-ba212217dcf4",
+        "isoCountryName": "Faroe Islands",
+        "isoCountryNumber": "234",
+        "isoCountryCode": "FRO",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "FK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "1fc5651b-952c-4eba-a119-c9c4c2950952",
+        "isoCountryName": "Nepal",
+        "isoCountryNumber": "524",
+        "isoCountryCode": "NPL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NP",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "27977442-2d64-4170-bb24-ab64d948afce",
+        "isoCountryName": "Papua New Guinea",
+        "isoCountryNumber": "598",
+        "isoCountryCode": "PNG",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "fe142c93-83f6-42bf-9ca4-60fd6deb7fcb",
+        "isoCountryName": "Montserrat",
+        "isoCountryNumber": "500",
+        "isoCountryCode": "MSR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "183a6818-3aac-4bf2-8500-a5ebe77f2a75",
+        "isoCountryName": "Australia",
+        "isoCountryNumber": "036",
+        "isoCountryCode": "AUS",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "a593609d-3671-48ee-b57c-24954831d080",
+        "isoCountryName": "Tokelau",
+        "isoCountryNumber": "772",
+        "isoCountryCode": "TKL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6cce681b-3a9a-468d-84e2-f884e9bcd98c",
+        "isoCountryName": "Latvia",
+        "isoCountryNumber": "428",
+        "isoCountryCode": "LVA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LV",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "493f2a9a-5a1a-4a22-a8c9-2751d604c2a4",
+        "isoCountryName": "Thailand",
+        "isoCountryNumber": "764",
+        "isoCountryCode": "THA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TH",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "5400f351-29a4-499b-af6f-9b2c956155b9",
+        "isoCountryName": "Wallis and Futuna Islands",
+        "isoCountryNumber": "876",
+        "isoCountryCode": "WLF",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "WF",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3b7fa4ae-6fa2-4b61-bf5c-f94fc184f4e0",
+        "isoCountryName": "Romania",
+        "isoCountryNumber": "642",
+        "isoCountryCode": "ROU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "RO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "59b740ad-991b-4e35-a33c-fddb980a899c",
+        "isoCountryName": "Liberia",
+        "isoCountryNumber": "430",
+        "isoCountryCode": "LBR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "c2cb539d-6bd6-46c9-8dfb-a3746141ab1b",
+        "isoCountryName": "Spain",
+        "isoCountryNumber": "724",
+        "isoCountryCode": "ESP",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ES",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "81282669-c438-4523-93f0-ae10b5c2f312",
+        "isoCountryName": "Afghanistan",
+        "isoCountryNumber": "004",
+        "isoCountryCode": "AFG",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AF",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "daa8dab2-ae9c-4faa-aad1-437b7dcbf475",
+        "isoCountryName": "Timor-Leste",
+        "isoCountryNumber": "626",
+       "isoCountryCode": "TLS",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TL",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "41428c94-b874-4b2f-8054-2510e7c6c1ff",
+        "isoCountryName": "Taiwan, Province of China",
+        "isoCountryNumber": "158",
+        "isoCountryCode": "TWN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "a24e7465-f25d-4cd5-9688-1be6a8c615d7",
+        "isoCountryName": "Saint Vincent and the Grenadines",
+        "isoCountryNumber": "670",
+        "isoCountryCode": "VCT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "VC",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "89b0628d-3c86-4361-85b5-b28ddc531b6d",
+        "isoCountryName": "Azerbaijan",
+        "isoCountryNumber": "031",
+        "isoCountryCode": "AZE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4bf1e7e2-5db6-41ab-a357-8a15902496b2",
+        "isoCountryName": "Uzbekistan",
+        "isoCountryNumber": "860",
+        "isoCountryCode": "UZB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "UZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "d2c580af-f162-4f01-a38e-efdb2d4f4515",
+        "isoCountryName": "Lao",
+        "isoCountryNumber": "418",
+        "isoCountryCode": "LAO",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "eceefcc7-723c-45b7-8ec3-ec31a462f985",
+        "isoCountryName": "Slovenia",
+        "isoCountryNumber": "705",
+        "isoCountryCode": "SVN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "24929ce7-5597-4fc6-b9b2-03f19f486bea",
+        "isoCountryName": "Saint Martin (French Part)",
+        "isoCountryNumber": "663",
+        "isoCountryCode": "MAF",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MF",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "023de1d6-8e7c-44fa-9ae7-d6519753aacf",
+        "isoCountryName": "Monaco",
+        "isoCountryNumber": "492",
+        "isoCountryCode": "MCO",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MC",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f37a375d-7eda-4384-8dd0-1194a00dbc8f",
+        "isoCountryName": "Benin",
+        "isoCountryNumber": "204",
+        "isoCountryCode": "BEN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BJ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ffae59e6-5733-4759-875f-e1c07f16f981",
+        "isoCountryName": "Bermuda",
+        "isoCountryNumber": "060",
+        "isoCountryCode": "BMU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "52888e7e-98a3-4e71-b676-d9595c64a8aa",
+        "isoCountryName": "Lebanon",
+        "isoCountryNumber": "422",
+        "isoCountryCode": "LBN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LB",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "951e340d-481a-423c-b352-7e6ad26322f5",
+        "isoCountryName": "Dominican Republic",
+        "isoCountryNumber": "214",
+        "isoCountryCode": "DOM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "DO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b96915cd-5efc-4ff1-9a79-1be77d5648f3",
+        "isoCountryName": "Bahrain",
+        "isoCountryNumber": "048",
+        "isoCountryCode": "BHR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BH",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6ea60564-a8a3-4ced-b6e7-6d8eea7dfc70",
+        "isoCountryName": "China, Macao Special Administration Region",
+        "isoCountryNumber": "446",
+        "isoCountryCode": "MAC",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b016f5b5-f10d-4eee-9909-36a50e317ec1",
+        "isoCountryName": "South Africa",
+        "isoCountryNumber": "710",
+        "isoCountryCode": "ZAF",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ZA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "9669f7d4-4c5f-4e34-ab9b-2634a1184ca9",
+        "isoCountryName": "Niger",
+        "isoCountryNumber": "562",
+        "isoCountryCode": "NER",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "59dec76f-cf45-407a-b1f1-90fd2871a87c",
+        "isoCountryName": "Congo",
+        "isoCountryNumber": "178",
+        "isoCountryCode": "COG",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "02b9eb6e-17c0-4f0e-b414-5a34e3a4b468",
+        "isoCountryName": "Tanzania, United Republic of",
+        "isoCountryNumber": "834",
+        "isoCountryCode": "TZA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "83a9edfb-9bcf-4821-888b-d1647b4f765c",
+        "isoCountryName": "India",
+        "isoCountryNumber": "356",
+        "isoCountryCode": "IND",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "IN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "7896d889-c4b8-46a3-ab3c-b4d5ac225193",
+        "isoCountryName": "Togo",
+        "isoCountryNumber": "768",
+       "isoCountryCode": "TGO",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6bca54b8-9ff5-49ad-ab22-8c932aab511f",
+        "isoCountryName": "Virgin Islands, U.S.",
+        "isoCountryNumber": "850",
+        "isoCountryCode": "VIR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "VI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "144ba77e-a2d0-46c2-8225-e3265e5a1b32",
+        "isoCountryName": "New Zealand",
+        "isoCountryNumber": "554",
+       "isoCountryCode": "NZL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "1caf8215-b362-475a-94c6-fef44e809959",
+        "isoCountryName": "Iran (Islamic Republic of)",
+        "isoCountryNumber": "364",
+        "isoCountryCode": "IRN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "IR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f5255f25-e472-45e4-8073-5a360fb03cf3",
+        "isoCountryName": "Trinidad and Tobago",
+        "isoCountryNumber": "780",
+        "isoCountryCode": "TTO",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "fa7ba512-d932-4332-878e-e15c0dce7f3f",
+        "isoCountryName": "Serbia",
+        "isoCountryNumber": "688",
+        "isoCountryCode": "SRB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "RS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "0ecb83ef-ddae-4a90-891a-182b5e0fc0e9",
+        "isoCountryName": "Sri Lanka",
+       "isoCountryNumber": "144",
+        "isoCountryCode": "LKA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "8885db15-bc4e-40e9-96e8-b67493e74684",
+        "isoCountryName": "Ghana",
+        "isoCountryNumber": "288",
+        "isoCountryCode": "GHA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GH",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "24bcf32a-18f8-47eb-b984-837d251c0e2f",
+        "isoCountryName": "Mozambique",
+        "isoCountryNumber": "508",
+        "isoCountryCode": "MOZ",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3ba95a7c-8a43-4b04-9569-a946c6b92d4d",
+        "isoCountryName": "Anguilla",
+        "isoCountryNumber": "660",
+        "isoCountryCode": "AIA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ef97d7d8-b6f4-4239-9550-bd2bab0c3ee7",
+        "isoCountryName": "Burkina Faso",
+        "isoCountryNumber": "854",
+        "isoCountryCode": "BFA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BF",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "d296b613-745e-412b-affc-a8644f43a867",
+        "isoCountryName": "Panama",
+        "isoCountryNumber": "591",
+        "isoCountryCode": "PAN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "97b68213-1480-47df-8e77-34c9378a4f91",
+        "isoCountryName": "Korea, Republic of",
+        "isoCountryNumber": "410",
+        "isoCountryCode": "KOR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f30f11af-7f81-4c90-8ee1-6dcc48567eec",
+        "isoCountryName": "Russian Federation",
+        "isoCountryNumber": "643",
+        "isoCountryCode": "RUS",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "RU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "39eb8675-dd10-4210-9f95-b9406e89f872",
+        "isoCountryName": "Jersey",
+        "isoCountryNumber": "832",
+        "isoCountryCode": "JEY",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "JE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e808f3cb-2caf-4f47-a331-5ca8ac8ab115",
+        "isoCountryName": "Central African Republic",
+        "isoCountryNumber": "140",
+        "isoCountryCode": "CAF",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CF",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "428bee1b-c548-4baf-aa1b-27ba8238f700",
+        "isoCountryName": "Malawi",
+        "isoCountryNumber": "454",
+        "isoCountryCode": "MWI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "57e1d22c-720f-4af3-b15a-4f00a9473e98",
+        "isoCountryName": "Bouvet Island",
+        "isoCountryNumber": "074",
+        "isoCountryCode": "BVT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "7459e7df-56ad-4d3c-9437-09358edebcf7",
+        "isoCountryName": "Syrian Arab Republic",
+        "isoCountryNumber": "760",
+        "isoCountryCode": "SYR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SY",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6c87f0a0-dde3-4add-b0a3-d9d7f06372bd",
+        "isoCountryName": "Niue",
+        "isoCountryNumber": "570",
+        "isoCountryCode": "NIU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4638a0dd-e2fc-4ed0-8a32-fcd26f2ec07f",
+        "isoCountryName": "Poland",
+        "isoCountryNumber": "616",
+        "isoCountryCode": "POL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PL",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3d10227b-7006-42dc-a5a8-e6595f3fd51b",
+        "isoCountryName": "El Salvador",
+        "isoCountryNumber": "222",
+        "isoCountryCode": "SLV",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SV",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e4511218-6f49-4fa7-b843-ea2e5520b917",
+        "isoCountryName": "Bosnia and Herzegovina",
+        "isoCountryNumber": "070",
+        "isoCountryCode": "BIH",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "27c5ad11-7171-4bed-abdc-7acb788bd4e4",
+        "isoCountryName": "Slovakia",
+        "isoCountryNumber": "703",
+        "isoCountryCode": "SVK",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "cb8b9552-3a49-446e-89d7-3d1d3ac97c3d",
+        "isoCountryName": "Saint Pierre and Miquelon",
+        "isoCountryNumber": "666",
+        "isoCountryCode": "SPM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b92a0b53-18d5-4bfe-ad68-858df22ba127",
+        "isoCountryName": "Italy",
+        "isoCountryNumber": "380",
+        "isoCountryCode": "ITA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "IT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3b92154c-233d-4585-b386-b2f3bc0e5503",
+        "isoCountryName": "Canada",
+        "isoCountryNumber": "124",
+        "isoCountryCode": "CAN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "67c8d38b-cfb4-4e0b-a116-aac79c333bf9",
+        "isoCountryName": "Gibraltar",
+        "isoCountryNumber": "292",
+        "isoCountryCode": "GIB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "c78736ce-0527-4b44-9c4d-ea1975cb2cea",
+        "isoCountryName": "Bolivia, Plurinational State of",
+        "isoCountryNumber": "068",
+        "isoCountryCode": "BOL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "2c7c0f29-82ed-4a00-be17-4575dfc16e03",
+        "isoCountryName": "Guyana",
+        "isoCountryNumber": "328",
+        "isoCountryCode": "GUY",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GY",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "94d53873-958a-490a-8aa4-4f81094e06b8",
+        "isoCountryName": "Mongolia",
+        "isoCountryNumber": "496",
+        "isoCountryCode": "MNG",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "bce65f02-093b-42fe-8355-06959a45eee5",
+        "isoCountryName": "Samoa",
+        "isoCountryNumber": "882",
+        "isoCountryCode": "WSM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "WS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b8198ee8-32b8-4bf4-87b1-9faadedcbe6c",
+        "isoCountryName": "Lithuania",
+        "isoCountryNumber": "440",
+        "isoCountryCode": "LTU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "c787f805-fdac-410b-88b0-4ee854a6a714",
+        "isoCountryName": "Cook Islands",
+        "isoCountryNumber": "184",
+        "isoCountryCode": "COK",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CK",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ee5d3239-8d47-4ba2-85b3-69ac6aa813ab",
+        "isoCountryName": "Curacao",
+        "isoCountryNumber": "531",
+        "isoCountryCode": "CUW",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "0ec99ad2-c0f6-4129-8bfc-f87af045889b",
+        "isoCountryName": "Ethiopia",
+        "isoCountryNumber": "231",
+        "isoCountryCode": "ETH",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ET",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f5049b5f-a875-4b58-a043-1fa983c6bbc3",
+        "isoCountryName": "Guadeloupe",
+        "isoCountryNumber": "312",
+        "isoCountryCode": "GLP",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GP",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ac9f034d-d6e6-44cd-9a50-4d1dab03e2ab",
+        "isoCountryName": "Lesotho",
+        "isoCountryNumber": "426",
+        "isoCountryCode": "LSO",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LS",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "49613477-6c01-4688-92c2-adfcd59de5e4",
+        "isoCountryName": "United States Minor Outlying Islands",
+        "isoCountryNumber": "581",
+        "isoCountryCode": "UMI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "UM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "35cc800a-3743-4f44-bff1-8601c4d4c01b",
+        "isoCountryName": "Falkland Islands (Malvinas)",
+        "isoCountryNumber": "238",
+        "isoCountryCode": "FLK",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "FO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "34506756-d596-4ee0-a88d-3e3997e81ba6",
+        "isoCountryName": "Kenya",
+        "isoCountryNumber": "404",
+        "isoCountryCode": "KEN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "22c329ae-9ffc-429f-9eb3-d0e409742e1a",
+        "isoCountryName": "Bhutan",
+        "isoCountryNumber": "064",
+        "isoCountryCode": "BTN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "384bc82a-e3de-4d11-a626-1a6ec3dff3e4",
+        "isoCountryName": "Reunion",
+        "isoCountryNumber": "638",
+        "isoCountryCode": "REU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "RE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "d7af8342-db7f-45c1-8938-7d838505bc5b",
+        "isoCountryName": "Gambia",
+        "isoCountryNumber": "270",
+        "isoCountryCode": "GMB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "d1512aec-e5e8-43fb-bede-e9cfa8dc4a09",
+        "isoCountryName": "Peru",
+        "isoCountryNumber": "604",
+        "isoCountryCode": "PER",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "a609e461-3e0a-44f1-aa8a-9618703912ad",
+        "isoCountryName": "Pitcairn",
+        "isoCountryNumber": "612",
+        "isoCountryCode": "PCN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "1f6c7cd7-3d4a-4d12-b066-7763ea2ade17",
+        "isoCountryName": "Uruguay",
+        "isoCountryNumber": "858",
+        "isoCountryCode": "URY",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "UY",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "be458329-607e-4ee4-abb7-65d2a20e5d20",
+        "isoCountryName": "Mexico",
+        "isoCountryNumber": "484",
+        "isoCountryCode": "MEX",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MX",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "a62b269d-b564-45f6-9222-1878c7705d36",
+        "isoCountryName": "Armenia",
+        "isoCountryNumber": "051",
+        "isoCountryCode": "ARM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6162b81b-625c-4736-9d10-0b9c22de2b8e",
+        "isoCountryName": "Belize",
+        "isoCountryNumber": "084",
+        "isoCountryCode": "BLZ",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "c4614bea-8448-4bfc-b3f5-71a0745e9ee4",
+        "isoCountryName": "French Southern Territories",
+        "isoCountryNumber": "260",
+        "isoCountryCode": "ATF",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TF",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e98619c4-8998-4236-a454-e6df29030edd",
+        "isoCountryName": "Heard Island and McDonald Islands",
+        "isoCountryNumber": "334",
+        "isoCountryCode": "HMD",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "HM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "12fe1078-71c8-498c-894c-e3092abc4671",
+        "isoCountryName": "New Caledonia",
+        "isoCountryNumber": "540",
+        "isoCountryCode": "NCL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NC",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4c274bee-db07-44e1-bba1-618c3fae82fc",
+        "isoCountryName": "Holy See (Vatican City State)",
+        "isoCountryNumber": "336",
+        "isoCountryCode": "VAT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "VA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "03145b75-5b48-4cfd-afad-a416ad43cc4b",
+        "isoCountryName": "Algeria",
+        "isoCountryNumber": "012",
+        "isoCountryCode": "DZA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "DZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "0643592c-89dd-4938-895f-9095f2666692",
+        "isoCountryName": "Brazil",
+        "isoCountryNumber": "076",
+        "isoCountryCode": "BRA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "12ad4032-d4dd-44c2-8a2a-c9d4757a7db8",
+        "isoCountryName": "Norfolk Island",
+        "isoCountryNumber": "574",
+        "isoCountryCode": "NFK",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "NF",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "85d8fa4a-2b62-4858-9aad-3b038d4f7d06",
+        "isoCountryName": "Greece",
+        "isoCountryNumber": "300",
+        "isoCountryCode": "GRC",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e97b8cc1-708d-44f9-b0cd-d97b254ef9fa",
+        "isoCountryName": "Marshall Islands",
+        "isoCountryNumber": "584",
+        "isoCountryCode": "MHL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MH",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "235739de-175f-4f0a-ab33-c0b0b0b0306e",
+        "isoCountryName": "Cocos (Keeling) Island",
+        "isoCountryNumber": "166",
+        "isoCountryCode": "CCK",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CC",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "fbb0bd10-ce05-45bb-ac4a-05fa8d2d1bac",
+        "isoCountryName": "Liechtenstein",
+        "isoCountryNumber": "438",
+        "isoCountryCode": "LIE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "LI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "5f315e79-2f00-4780-9853-dc4a580ef481",
+        "isoCountryName": "Brunei Darussalam",
+        "isoCountryNumber": "096",
+        "isoCountryCode": "BRN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "17a022ee-0b9f-4f6d-b39c-e45daebe37f8",
+        "isoCountryName": "Micronesia, Federated States of",
+       "isoCountryNumber": "583",
+        "isoCountryCode": "FSM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "FM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "cc283cf5-94f1-49c2-9cb5-7e6b6b47f123",
+        "isoCountryName": "Malta",
+        "isoCountryNumber": "470",
+        "isoCountryCode": "MLT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MT",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ba7b0602-ea6e-4081-9fcd-002988657b17",
+        "isoCountryName": "Chile",
+        "isoCountryNumber": "152",
+        "isoCountryCode": "CHL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "CL",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "109ebdde-0ce7-4223-be01-c7f8dc52e8a7",
+        "isoCountryName": "Tuvalu",
+        "isoCountryNumber": "798",
+        "isoCountryCode": "TUV",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TV",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ecce130f-8761-405e-aa8c-fff68546304a",
+        "isoCountryName": "Finland",
+        "isoCountryNumber": "246",
+        "isoCountryCode": "FIN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "FI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "a12c1107-07fe-434f-a0bf-ef748ed908bd",
+        "isoCountryName": "Western Sahara",
+        "isoCountryNumber": "732",
+        "isoCountryCode": "ESH",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "EH",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e40f5ab5-41cb-4b37-bbbe-1097f9cf7c95",
+        "isoCountryName": "Estonia",
+        "isoCountryNumber": "233",
+        "isoCountryCode": "EST",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "EE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "505f8bcb-1bad-4d62-8a6f-2a0f4b45d0e8",
+        "isoCountryName": "Gabon",
+        "isoCountryNumber": "266",
+        "isoCountryCode": "GAB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "11ad4613-4a90-4739-b991-580566ddf171",
+        "isoCountryName": "United States",
+        "isoCountryNumber": "840",
+        "isoCountryCode": "USA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "US",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "4a50fd97-ea11-4ed6-b4f1-10549cbeb0fd",
+        "isoCountryName": "Burundi",
+        "isoCountryNumber": "108",
+        "isoCountryCode": "BDI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BI",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "a8136157-8bb9-431e-9cf7-b36429af110b",
+        "isoCountryName": "PHILIPPINES",
+        "isoCountryNumber": "608",
+        "isoCountryCode": "PHL",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PH",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "be914f3f-8c05-49f5-a6d6-150836b74387",
+        "isoCountryName": "French Polynesia",
+        "isoCountryNumber": "258",
+        "isoCountryCode": "PYF",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "PF",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "0d9ccaf0-6092-4d89-85b3-c26f70f1cb8b",
+        "isoCountryName": "Kazakhstan",
+        "isoCountryNumber": "398",
+        "isoCountryCode": "KAZ",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KZ",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "b582f97c-be42-460e-a85a-e6c78fda22d6",
+        "isoCountryName": "Dominica",
+        "isoCountryNumber": "212",
+        "isoCountryCode": "DMA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "DM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "30249997-5c86-41a3-97f9-edbbbdc05b16",
+        "isoCountryName": "France",
+        "isoCountryNumber": "250",
+        "isoCountryCode": "FRA",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "FR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "c69bd1c4-4bc4-48a7-b91b-ec6f281ede96",
+        "isoCountryName": "Vanuatu",
+        "isoCountryNumber": "548",
+        "isoCountryCode": "VUT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "VU",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "783cba8f-2a68-46f8-b2d3-084f41e7669e",
+        "isoCountryName": "Solomon Islands",
+        "isoCountryNumber": "090",
+        "isoCountryCode": "SLB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SB",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "d60dba2d-0234-48c4-9078-8bd785bd23fd",
+        "isoCountryName": "Angola",
+        "isoCountryNumber": "024",
+        "isoCountryCode": "AGO",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e6df37c2-22ab-449f-bd7e-8e6cc2d5bd1d",
+        "isoCountryName": "Viet Nam",
+        "isoCountryNumber": "704",
+        "isoCountryCode": "VNM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "VN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "94ecfc39-dc6c-4167-acec-ca719a34515d",
+        "isoCountryName": "Malaysia",
+        "isoCountryNumber": "458",
+        "isoCountryCode": "MYS",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MY",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "629db983-aa6c-4fa1-9eff-f815ed1256ae",
+        "isoCountryName": "Myanmar",
+        "isoCountryNumber": "104",
+        "isoCountryCode": "MMR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MM",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "dd8f2708-fab5-403b-b8b2-d18f53114365",
+        "isoCountryName": "Morocco",
+        "isoCountryNumber": "504",
+        "isoCountryCode": "MAR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "MA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "382c9208-23df-4f22-aa67-049a756e5c3e",
+        "isoCountryName": "Germany",
+        "isoCountryNumber": "276",
+        "isoCountryCode": "DEU",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "DE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "5f2204ca-78cc-4604-ba07-b20372353d19",
+        "isoCountryName": "Tunisia",
+        "isoCountryNumber": "788",
+        "isoCountryCode": "TUN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "TN",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "5de7e0c3-1808-4766-ad35-a6e22ebc8a49",
+        "isoCountryName": "Sudan",
+        "isoCountryNumber": "729",
+        "isoCountryCode": "SDN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SD",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f7dbc032-7a44-4fca-9722-f71b4e2ff660",
+        "isoCountryName": "Kuwait",
+        "isoCountryNumber": "414",
+        "isoCountryCode": "KWT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "KW",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ace44e54-396a-49df-9fcb-9489e4eb8765",
+        "isoCountryName": "Grenada",
+        "isoCountryNumber": "308",
+        "isoCountryCode": "GRD",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GD",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "81c6bc24-2a27-40bc-850b-cafad8a85517",
+        "isoCountryName": "Japan",
+        "isoCountryNumber": "392",
+        "isoCountryCode": "JPN",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "JP",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "747f9f52-1e85-40f7-8178-59b6bcefad40",
+        "isoCountryName": "Sweden",
+        "isoCountryNumber": "752",
+        "isoCountryCode": "SWE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f85b2c76-625d-44b1-a11b-21e7240e95a8",
+        "isoCountryName": "Barbados",
+        "isoCountryNumber": "052",
+        "isoCountryCode": "BRB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BB",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "ae442cf4-4f74-41df-b20d-4fe1a5abf358",
+        "isoCountryName": "Mali",
+        "isoCountryNumber": "466",
+        "isoCountryCode": "MLI",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "ML",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "729afa73-5017-44ce-a9d7-053157a0c453",
+        "isoCountryName": "Albania",
+        "isoCountryNumber": "008",
+        "isoCountryCode": "ALB",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AL",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "2c0e9009-1cd8-42d4-8c3d-fb4928469284",
+        "isoCountryName": "Sierra Leone",
+        "isoCountryNumber": "694",
+        "isoCountryCode": "SLE",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "SL",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "04665885-36e3-431c-a8fc-94394a639996",
+        "isoCountryName": "Jordan",
+        "isoCountryNumber": "400",
+        "isoCountryCode": "JOR",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "JO",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "3c70fa1c-e1d8-4e99-875d-f34b9d0fb9b3",
+        "isoCountryName": "Qatar",
+        "isoCountryNumber": "634",
+        "isoCountryCode": "QAT",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "QA",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "50205e53-89ff-48d3-a4af-a67df7f1c5fb",
+        "isoCountryName": "Guernsey",
+        "isoCountryNumber": "831",
+        "isoCountryCode": "GGY",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "9e36bbbd-0c59-4883-8997-5a5a62704b18",
+        "isoCountryName": "Antigua & Barbuda",
+        "isoCountryNumber": "028",
+        "isoCountryCode": "ATG",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AG",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "5ac453f4-d3d7-4b18-939b-52ddbe58610b",
+        "isoCountryName": "Saint Bartelemy",
+        "isoCountryNumber": "652",
+        "isoCountryCode": "BLM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "BL",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "6c1aba9a-a226-4997-934b-492599589f5a",
+        "isoCountryName": "Yemen",
+        "isoCountryNumber": "887",
+        "isoCountryCode": "YEM",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "YE",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "e52f11fc-32a2-4281-bda6-be1cfdbfab05",
+        "isoCountryName": "French Guiana",
+        "isoCountryNumber": "254",
+        "isoCountryCode": "GUF",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "GF",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
+    },
+    {
+        "resourceId": "f0f11507-72d7-45ad-8b55-37dba8aa11d9",
+        "isoCountryName": "Argentina",
+        "isoCountryNumber": "032",
+        "isoCountryCode": "ARG",
+        "isoCountryLocalName": null,
+        "isoCountryShortCode": "AR",
+        "independentIndicator": null,
+        "isoCountryRemarksText": null
     }
 ]

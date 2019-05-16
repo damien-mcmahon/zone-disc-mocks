@@ -1,1064 +1,1330 @@
-{
-    "USD": {
-        "symbol": "$",
-        "name": "US Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "USD",
-        "name_plural": "US dollars"
-    },
-    "CAD": {
-        "symbol": "CA$",
-        "name": "Canadian Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "CAD",
-        "name_plural": "Canadian dollars"
-    },
-    "EUR": {
-        "symbol": "€",
-        "name": "Euro",
-        "symbol_native": "€",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "EUR",
-        "name_plural": "euros"
-    },
-    "AED": {
-        "symbol": "AED",
-        "name": "United Arab Emirates Dirham",
-        "symbol_native": "د.إ.‏",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "AED",
-        "name_plural": "UAE dirhams"
-    },
-    "AFN": {
-        "symbol": "Af",
-        "name": "Afghan Afghani",
-        "symbol_native": "؋",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "AFN",
-        "name_plural": "Afghan Afghanis"
-    },
-    "ALL": {
-        "symbol": "ALL",
-        "name": "Albanian Lek",
-        "symbol_native": "Lek",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "ALL",
-        "name_plural": "Albanian lekë"
-    },
-    "AMD": {
-        "symbol": "AMD",
-        "name": "Armenian Dram",
-        "symbol_native": "դր.",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "AMD",
-        "name_plural": "Armenian drams"
-    },
-    "ARS": {
-        "symbol": "AR$",
-        "name": "Argentine Peso",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "ARS",
-        "name_plural": "Argentine pesos"
-    },
-    "AUD": {
-        "symbol": "AU$",
-        "name": "Australian Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "AUD",
-        "name_plural": "Australian dollars"
-    },
-    "AZN": {
-        "symbol": "man.",
-        "name": "Azerbaijani Manat",
-        "symbol_native": "ман.",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "AZN",
-        "name_plural": "Azerbaijani manats"
-    },
-    "BAM": {
-        "symbol": "KM",
-        "name": "Bosnia-Herzegovina Convertible Mark",
-        "symbol_native": "KM",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "BAM",
-        "name_plural": "Bosnia-Herzegovina convertible marks"
-    },
-    "BDT": {
-        "symbol": "Tk",
-        "name": "Bangladeshi Taka",
-        "symbol_native": "৳",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "BDT",
-        "name_plural": "Bangladeshi takas"
-    },
-    "BGN": {
-        "symbol": "BGN",
-        "name": "Bulgarian Lev",
-        "symbol_native": "лв.",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "BGN",
-        "name_plural": "Bulgarian leva"
-    },
-    "BHD": {
-        "symbol": "BD",
-        "name": "Bahraini Dinar",
-        "symbol_native": "د.ب.‏",
-        "decimal_digits": 3,
-        "rounding": 0,
-        "code": "BHD",
-        "name_plural": "Bahraini dinars"
-    },
-    "BIF": {
-        "symbol": "FBu",
-        "name": "Burundian Franc",
-        "symbol_native": "FBu",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "BIF",
-        "name_plural": "Burundian francs"
-    },
-    "BND": {
-        "symbol": "BN$",
-        "name": "Brunei Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "BND",
-        "name_plural": "Brunei dollars"
-    },
-    "BOB": {
-        "symbol": "Bs",
-        "name": "Bolivian Boliviano",
-        "symbol_native": "Bs",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "BOB",
-        "name_plural": "Bolivian bolivianos"
-    },
-    "BRL": {
-        "symbol": "R$",
-        "name": "Brazilian Real",
-        "symbol_native": "R$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "BRL",
-        "name_plural": "Brazilian reals"
-    },
-    "BWP": {
-        "symbol": "BWP",
-        "name": "Botswanan Pula",
-        "symbol_native": "P",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "BWP",
-        "name_plural": "Botswanan pulas"
-    },
-    "BYR": {
-        "symbol": "BYR",
-        "name": "Belarusian Ruble",
-        "symbol_native": "BYR",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "BYR",
-        "name_plural": "Belarusian rubles"
-    },
-    "BZD": {
-        "symbol": "BZ$",
-        "name": "Belize Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "BZD",
-        "name_plural": "Belize dollars"
-    },
-    "CDF": {
-        "symbol": "CDF",
-        "name": "Congolese Franc",
-        "symbol_native": "FrCD",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "CDF",
-        "name_plural": "Congolese francs"
-    },
-    "CHF": {
-        "symbol": "CHF",
-        "name": "Swiss Franc",
-        "symbol_native": "CHF",
-        "decimal_digits": 2,
-        "rounding": 0.05,
-        "code": "CHF",
-        "name_plural": "Swiss francs"
-    },
-    "CLP": {
-        "symbol": "CL$",
-        "name": "Chilean Peso",
-        "symbol_native": "$",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "CLP",
-        "name_plural": "Chilean pesos"
-    },
-    "CNY": {
-        "symbol": "CN¥",
-        "name": "Chinese Yuan",
-        "symbol_native": "CN¥",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "CNY",
-        "name_plural": "Chinese yuan"
-    },
-    "COP": {
-        "symbol": "CO$",
-        "name": "Colombian Peso",
-        "symbol_native": "$",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "COP",
-        "name_plural": "Colombian pesos"
-    },
-    "CRC": {
-        "symbol": "₡",
-        "name": "Costa Rican Colón",
-        "symbol_native": "₡",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "CRC",
-        "name_plural": "Costa Rican colóns"
-    },
-    "CVE": {
-        "symbol": "CV$",
-        "name": "Cape Verdean Escudo",
-        "symbol_native": "CV$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "CVE",
-        "name_plural": "Cape Verdean escudos"
-    },
-    "CZK": {
-        "symbol": "Kč",
-        "name": "Czech Republic Koruna",
-        "symbol_native": "Kč",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "CZK",
-        "name_plural": "Czech Republic korunas"
-    },
-    "DJF": {
-        "symbol": "Fdj",
-        "name": "Djiboutian Franc",
-        "symbol_native": "Fdj",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "DJF",
-        "name_plural": "Djiboutian francs"
-    },
-    "DKK": {
-        "symbol": "Dkr",
-        "name": "Danish Krone",
-        "symbol_native": "kr",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "DKK",
-        "name_plural": "Danish kroner"
-    },
-    "DOP": {
-        "symbol": "RD$",
-        "name": "Dominican Peso",
-        "symbol_native": "RD$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "DOP",
-        "name_plural": "Dominican pesos"
-    },
-    "DZD": {
-        "symbol": "DA",
-        "name": "Algerian Dinar",
-        "symbol_native": "د.ج.‏",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "DZD",
-        "name_plural": "Algerian dinars"
-    },
-    "EEK": {
-        "symbol": "Ekr",
-        "name": "Estonian Kroon",
-        "symbol_native": "kr",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "EEK",
-        "name_plural": "Estonian kroons"
-    },
-    "EGP": {
-        "symbol": "EGP",
-        "name": "Egyptian Pound",
-        "symbol_native": "ج.م.‏",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "EGP",
-        "name_plural": "Egyptian pounds"
-    },
-    "ERN": {
-        "symbol": "Nfk",
-        "name": "Eritrean Nakfa",
-        "symbol_native": "Nfk",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "ERN",
-        "name_plural": "Eritrean nakfas"
-    },
-    "ETB": {
-        "symbol": "Br",
-        "name": "Ethiopian Birr",
-        "symbol_native": "Br",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "ETB",
-        "name_plural": "Ethiopian birrs"
-    },
-    "GBP": {
-        "symbol": "£",
-        "name": "British Pound Sterling",
-        "symbol_native": "£",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "GBP",
-        "name_plural": "British pounds sterling"
-    },
-    "GEL": {
-        "symbol": "GEL",
-        "name": "Georgian Lari",
-        "symbol_native": "GEL",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "GEL",
-        "name_plural": "Georgian laris"
-    },
-    "GHS": {
-        "symbol": "GH₵",
-        "name": "Ghanaian Cedi",
-        "symbol_native": "GH₵",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "GHS",
-        "name_plural": "Ghanaian cedis"
-    },
-    "GNF": {
-        "symbol": "FG",
-        "name": "Guinean Franc",
-        "symbol_native": "FG",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "GNF",
-        "name_plural": "Guinean francs"
-    },
-    "GTQ": {
-        "symbol": "GTQ",
-        "name": "Guatemalan Quetzal",
-        "symbol_native": "Q",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "GTQ",
-        "name_plural": "Guatemalan quetzals"
-    },
-    "HKD": {
-        "symbol": "HK$",
-        "name": "Hong Kong Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "HKD",
-        "name_plural": "Hong Kong dollars"
-    },
-    "HNL": {
-        "symbol": "HNL",
-        "name": "Honduran Lempira",
-        "symbol_native": "L",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "HNL",
-        "name_plural": "Honduran lempiras"
-    },
-    "HRK": {
-        "symbol": "kn",
-        "name": "Croatian Kuna",
-        "symbol_native": "kn",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "HRK",
-        "name_plural": "Croatian kunas"
-    },
-    "HUF": {
-        "symbol": "Ft",
-        "name": "Hungarian Forint",
-        "symbol_native": "Ft",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "HUF",
-        "name_plural": "Hungarian forints"
-    },
-    "IDR": {
-        "symbol": "Rp",
-        "name": "Indonesian Rupiah",
-        "symbol_native": "Rp",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "IDR",
-        "name_plural": "Indonesian rupiahs"
-    },
-    "ILS": {
-        "symbol": "₪",
-        "name": "Israeli New Sheqel",
-        "symbol_native": "₪",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "ILS",
-        "name_plural": "Israeli new sheqels"
-    },
-    "INR": {
-        "symbol": "Rs",
-        "name": "Indian Rupee",
-        "symbol_native": "টকা",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "INR",
-        "name_plural": "Indian rupees"
-    },
-    "IQD": {
-        "symbol": "IQD",
-        "name": "Iraqi Dinar",
-        "symbol_native": "د.ع.‏",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "IQD",
-        "name_plural": "Iraqi dinars"
-    },
-    "IRR": {
-        "symbol": "IRR",
-        "name": "Iranian Rial",
-        "symbol_native": "﷼",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "IRR",
-        "name_plural": "Iranian rials"
-    },
-    "ISK": {
-        "symbol": "Ikr",
-        "name": "Icelandic Króna",
-        "symbol_native": "kr",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "ISK",
-        "name_plural": "Icelandic krónur"
-    },
-    "JMD": {
-        "symbol": "J$",
-        "name": "Jamaican Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "JMD",
-        "name_plural": "Jamaican dollars"
-    },
-    "JOD": {
-        "symbol": "JD",
-        "name": "Jordanian Dinar",
-        "symbol_native": "د.أ.‏",
-        "decimal_digits": 3,
-        "rounding": 0,
-        "code": "JOD",
-        "name_plural": "Jordanian dinars"
-    },
-    "JPY": {
-        "symbol": "¥",
-        "name": "Japanese Yen",
-        "symbol_native": "￥",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "JPY",
-        "name_plural": "Japanese yen"
-    },
-    "KES": {
-        "symbol": "Ksh",
-        "name": "Kenyan Shilling",
-        "symbol_native": "Ksh",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "KES",
-        "name_plural": "Kenyan shillings"
-    },
-    "KHR": {
-        "symbol": "KHR",
-        "name": "Cambodian Riel",
-        "symbol_native": "៛",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "KHR",
-        "name_plural": "Cambodian riels"
-    },
-    "KMF": {
-        "symbol": "CF",
-        "name": "Comorian Franc",
-        "symbol_native": "FC",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "KMF",
-        "name_plural": "Comorian francs"
-    },
-    "KRW": {
-        "symbol": "₩",
-        "name": "South Korean Won",
-        "symbol_native": "₩",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "KRW",
-        "name_plural": "South Korean won"
-    },
-    "KWD": {
-        "symbol": "KD",
-        "name": "Kuwaiti Dinar",
-        "symbol_native": "د.ك.‏",
-        "decimal_digits": 3,
-        "rounding": 0,
-        "code": "KWD",
-        "name_plural": "Kuwaiti dinars"
-    },
-    "KZT": {
-        "symbol": "KZT",
-        "name": "Kazakhstani Tenge",
-        "symbol_native": "тңг.",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "KZT",
-        "name_plural": "Kazakhstani tenges"
-    },
-    "LBP": {
-        "symbol": "LB£",
-        "name": "Lebanese Pound",
-        "symbol_native": "ل.ل.‏",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "LBP",
-        "name_plural": "Lebanese pounds"
-    },
-    "LKR": {
-        "symbol": "SLRs",
-        "name": "Sri Lankan Rupee",
-        "symbol_native": "SL Re",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "LKR",
-        "name_plural": "Sri Lankan rupees"
-    },
-    "LTL": {
-        "symbol": "Lt",
-        "name": "Lithuanian Litas",
-        "symbol_native": "Lt",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "LTL",
-        "name_plural": "Lithuanian litai"
-    },
-    "LVL": {
-        "symbol": "Ls",
-        "name": "Latvian Lats",
-        "symbol_native": "Ls",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "LVL",
-        "name_plural": "Latvian lati"
-    },
-    "LYD": {
-        "symbol": "LD",
-        "name": "Libyan Dinar",
-        "symbol_native": "د.ل.‏",
-        "decimal_digits": 3,
-        "rounding": 0,
-        "code": "LYD",
-        "name_plural": "Libyan dinars"
-    },
-    "MAD": {
-        "symbol": "MAD",
-        "name": "Moroccan Dirham",
-        "symbol_native": "د.م.‏",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "MAD",
-        "name_plural": "Moroccan dirhams"
-    },
-    "MDL": {
-        "symbol": "MDL",
-        "name": "Moldovan Leu",
-        "symbol_native": "MDL",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "MDL",
-        "name_plural": "Moldovan lei"
-    },
-    "MGA": {
-        "symbol": "MGA",
-        "name": "Malagasy Ariary",
-        "symbol_native": "MGA",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "MGA",
-        "name_plural": "Malagasy Ariaries"
-    },
-    "MKD": {
-        "symbol": "MKD",
-        "name": "Macedonian Denar",
-        "symbol_native": "MKD",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "MKD",
-        "name_plural": "Macedonian denari"
-    },
-    "MMK": {
-        "symbol": "MMK",
-        "name": "Myanma Kyat",
-        "symbol_native": "K",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "MMK",
-        "name_plural": "Myanma kyats"
-    },
-    "MOP": {
-        "symbol": "MOP$",
-        "name": "Macanese Pataca",
-        "symbol_native": "MOP$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "MOP",
-        "name_plural": "Macanese patacas"
-    },
-    "MUR": {
-        "symbol": "MURs",
-        "name": "Mauritian Rupee",
-        "symbol_native": "MURs",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "MUR",
-        "name_plural": "Mauritian rupees"
-    },
-    "MXN": {
-        "symbol": "MX$",
-        "name": "Mexican Peso",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "MXN",
-        "name_plural": "Mexican pesos"
-    },
-    "MYR": {
-        "symbol": "RM",
-        "name": "Malaysian Ringgit",
-        "symbol_native": "RM",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "MYR",
-        "name_plural": "Malaysian ringgits"
-    },
-    "MZN": {
-        "symbol": "MTn",
-        "name": "Mozambican Metical",
-        "symbol_native": "MTn",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "MZN",
-        "name_plural": "Mozambican meticals"
-    },
-    "NAD": {
-        "symbol": "N$",
-        "name": "Namibian Dollar",
-        "symbol_native": "N$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "NAD",
-        "name_plural": "Namibian dollars"
-    },
-    "NGN": {
-        "symbol": "₦",
-        "name": "Nigerian Naira",
-        "symbol_native": "₦",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "NGN",
-        "name_plural": "Nigerian nairas"
-    },
-    "NIO": {
-        "symbol": "C$",
-        "name": "Nicaraguan Córdoba",
-        "symbol_native": "C$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "NIO",
-        "name_plural": "Nicaraguan córdobas"
-    },
-    "NOK": {
-        "symbol": "Nkr",
-        "name": "Norwegian Krone",
-        "symbol_native": "kr",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "NOK",
-        "name_plural": "Norwegian kroner"
-    },
-    "NPR": {
-        "symbol": "NPRs",
-        "name": "Nepalese Rupee",
-        "symbol_native": "नेरू",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "NPR",
-        "name_plural": "Nepalese rupees"
-    },
-    "NZD": {
-        "symbol": "NZ$",
-        "name": "New Zealand Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "NZD",
-        "name_plural": "New Zealand dollars"
-    },
-    "OMR": {
-        "symbol": "OMR",
-        "name": "Omani Rial",
-        "symbol_native": "ر.ع.‏",
-        "decimal_digits": 3,
-        "rounding": 0,
-        "code": "OMR",
-        "name_plural": "Omani rials"
-    },
-    "PAB": {
-        "symbol": "B/.",
-        "name": "Panamanian Balboa",
-        "symbol_native": "B/.",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "PAB",
-        "name_plural": "Panamanian balboas"
-    },
-    "PEN": {
-        "symbol": "S/.",
-        "name": "Peruvian Nuevo Sol",
-        "symbol_native": "S/.",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "PEN",
-        "name_plural": "Peruvian nuevos soles"
-    },
-    "PHP": {
-        "symbol": "₱",
-        "name": "Philippine Peso",
-        "symbol_native": "₱",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "PHP",
-        "name_plural": "Philippine pesos"
-    },
-    "PKR": {
-        "symbol": "PKRs",
-        "name": "Pakistani Rupee",
-        "symbol_native": "₨",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "PKR",
-        "name_plural": "Pakistani rupees"
-    },
-    "PLN": {
-        "symbol": "zł",
-        "name": "Polish Zloty",
-        "symbol_native": "zł",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "PLN",
-        "name_plural": "Polish zlotys"
-    },
-    "PYG": {
-        "symbol": "₲",
-        "name": "Paraguayan Guarani",
-        "symbol_native": "₲",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "PYG",
-        "name_plural": "Paraguayan guaranis"
-    },
-    "QAR": {
-        "symbol": "QR",
-        "name": "Qatari Rial",
-        "symbol_native": "ر.ق.‏",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "QAR",
-        "name_plural": "Qatari rials"
-    },
-    "RON": {
-        "symbol": "RON",
-        "name": "Romanian Leu",
-        "symbol_native": "RON",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "RON",
-        "name_plural": "Romanian lei"
-    },
-    "RSD": {
-        "symbol": "din.",
-        "name": "Serbian Dinar",
-        "symbol_native": "дин.",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "RSD",
-        "name_plural": "Serbian dinars"
-    },
-    "RUB": {
-        "symbol": "RUB",
-        "name": "Russian Ruble",
-        "symbol_native": "руб.",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "RUB",
-        "name_plural": "Russian rubles"
-    },
-    "RWF": {
-        "symbol": "RWF",
-        "name": "Rwandan Franc",
-        "symbol_native": "FR",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "RWF",
-        "name_plural": "Rwandan francs"
-    },
-    "SAR": {
-        "symbol": "SR",
-        "name": "Saudi Riyal",
-        "symbol_native": "ر.س.‏",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "SAR",
-        "name_plural": "Saudi riyals"
-    },
-    "SDG": {
-        "symbol": "SDG",
-        "name": "Sudanese Pound",
-        "symbol_native": "SDG",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "SDG",
-        "name_plural": "Sudanese pounds"
-    },
-    "SEK": {
-        "symbol": "Skr",
-        "name": "Swedish Krona",
-        "symbol_native": "kr",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "SEK",
-        "name_plural": "Swedish kronor"
-    },
-    "SGD": {
-        "symbol": "S$",
-        "name": "Singapore Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "SGD",
-        "name_plural": "Singapore dollars"
-    },
-    "SOS": {
-        "symbol": "Ssh",
-        "name": "Somali Shilling",
-        "symbol_native": "Ssh",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "SOS",
-        "name_plural": "Somali shillings"
-    },
-    "SYP": {
-        "symbol": "SY£",
-        "name": "Syrian Pound",
-        "symbol_native": "ل.س.‏",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "SYP",
-        "name_plural": "Syrian pounds"
-    },
-    "THB": {
-        "symbol": "฿",
-        "name": "Thai Baht",
-        "symbol_native": "฿",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "THB",
-        "name_plural": "Thai baht"
-    },
-    "TND": {
-        "symbol": "DT",
-        "name": "Tunisian Dinar",
-        "symbol_native": "د.ت.‏",
-        "decimal_digits": 3,
-        "rounding": 0,
-        "code": "TND",
-        "name_plural": "Tunisian dinars"
-    },
-    "TOP": {
-        "symbol": "T$",
-        "name": "Tongan Paʻanga",
-        "symbol_native": "T$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "TOP",
-        "name_plural": "Tongan paʻanga"
-    },
-    "TRY": {
-        "symbol": "TL",
-        "name": "Turkish Lira",
-        "symbol_native": "TL",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "TRY",
-        "name_plural": "Turkish Lira"
-    },
-    "TTD": {
-        "symbol": "TT$",
-        "name": "Trinidad and Tobago Dollar",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "TTD",
-        "name_plural": "Trinidad and Tobago dollars"
-    },
-    "TWD": {
-        "symbol": "NT$",
-        "name": "New Taiwan Dollar",
-        "symbol_native": "NT$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "TWD",
-        "name_plural": "New Taiwan dollars"
-    },
-    "TZS": {
-        "symbol": "TSh",
-        "name": "Tanzanian Shilling",
-        "symbol_native": "TSh",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "TZS",
-        "name_plural": "Tanzanian shillings"
-    },
-    "UAH": {
-        "symbol": "₴",
-        "name": "Ukrainian Hryvnia",
-        "symbol_native": "₴",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "UAH",
-        "name_plural": "Ukrainian hryvnias"
-    },
-    "UGX": {
-        "symbol": "USh",
-        "name": "Ugandan Shilling",
-        "symbol_native": "USh",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "UGX",
-        "name_plural": "Ugandan shillings"
-    },
-    "UYU": {
-        "symbol": "$U",
-        "name": "Uruguayan Peso",
-        "symbol_native": "$",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "UYU",
-        "name_plural": "Uruguayan pesos"
-    },
-    "UZS": {
-        "symbol": "UZS",
-        "name": "Uzbekistan Som",
-        "symbol_native": "UZS",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "UZS",
-        "name_plural": "Uzbekistan som"
-    },
-    "VEF": {
-        "symbol": "Bs.F.",
-        "name": "Venezuelan Bolívar",
-        "symbol_native": "Bs.F.",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "VEF",
-        "name_plural": "Venezuelan bolívars"
-    },
-    "VND": {
-        "symbol": "₫",
-        "name": "Vietnamese Dong",
-        "symbol_native": "₫",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "VND",
-        "name_plural": "Vietnamese dong"
-    },
-    "XAF": {
-        "symbol": "FCFA",
-        "name": "CFA Franc BEAC",
-        "symbol_native": "FCFA",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "XAF",
-        "name_plural": "CFA francs BEAC"
-    },
-    "XOF": {
-        "symbol": "CFA",
-        "name": "CFA Franc BCEAO",
-        "symbol_native": "CFA",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "XOF",
-        "name_plural": "CFA francs BCEAO"
-    },
-    "YER": {
-        "symbol": "YR",
-        "name": "Yemeni Rial",
-        "symbol_native": "ر.ي.‏",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "YER",
-        "name_plural": "Yemeni rials"
-    },
-    "ZAR": {
-        "symbol": "R",
-        "name": "South African Rand",
-        "symbol_native": "R",
-        "decimal_digits": 2,
-        "rounding": 0,
-        "code": "ZAR",
-        "name_plural": "South African rand"
-    },
-    "ZMK": {
-        "symbol": "ZK",
-        "name": "Zambian Kwacha",
-        "symbol_native": "ZK",
-        "decimal_digits": 0,
-        "rounding": 0,
-        "code": "ZMK",
-        "name_plural": "Zambian kwachas"
+[
+    {
+        "isoCurrencyName": "Trinidad & Tobago Dollar",
+        "resourceId": "32e852db-e722-4f4c-84bf-a29c226e7ac5",
+        "isoCurrencyNumber": "780",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "TTD"
+    },
+    {
+        "isoCurrencyName": "Hungarian Forint",
+        "resourceId": "3d67aa15-9ba5-4a72-94d4-588895c1cf49",
+        "isoCurrencyNumber": "348",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "HUF"
+    },
+    {
+        "isoCurrencyName": "Cape Verde Escudo",
+        "resourceId": "3564e4b3-efb0-4cf2-8994-bd6c6eaddddf",
+        "isoCurrencyNumber": "132",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CVE"
+    },
+    {
+        "isoCurrencyName": "Slovak Koruna",
+        "resourceId": "df6e6079-b70a-4105-9c3a-b1f1d1503d53",
+        "isoCurrencyNumber": "703",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SKK"
+    },
+    {
+        "isoCurrencyName": "Bhutan Ngultrum",
+        "resourceId": "7df57b32-7b8b-4994-8409-1a500d6826b4",
+        "isoCurrencyNumber": "064",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BTN"
+    },
+    {
+        "isoCurrencyName": "Lire italiene",
+        "resourceId": "e184a2d2-f768-45d8-8647-5e8dcba04144",
+        "isoCurrencyNumber": "380",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ITL"
+    },
+    {
+        "isoCurrencyName": "Norwegian Krone",
+        "resourceId": "a4240b93-29e3-4bae-9a0d-3cb8dfffa143",
+        "isoCurrencyNumber": "578",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "NOK"
+    },
+    {
+        "isoCurrencyName": "Indonesia Rupiah",
+        "resourceId": "ee591a49-0f88-4277-828b-1185894586ad",
+        "isoCurrencyNumber": "360",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "IDR"
+    },
+    {
+        "isoCurrencyName": "Kyrgyzstan Som",
+        "resourceId": "195ddf86-3175-47cf-8f29-ef203f4e490b",
+        "isoCurrencyNumber": "417",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "KGS"
+    },
+    {
+        "isoCurrencyName": "Laos Kip",
+        "resourceId": "2100ace5-da32-4e7c-ae2a-54af2c4046e9",
+        "isoCurrencyNumber": "418",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "LAK"
+    },
+    {
+        "isoCurrencyName": "Gambia Dalasi",
+        "resourceId": "1c40d3b6-b7d4-4b99-a035-a39b61eb5dd5",
+        "isoCurrencyNumber": "270",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "GMD"
+    },
+    {
+        "isoCurrencyName": "Hong Kong Dollar",
+        "resourceId": "a1373d39-4e4f-480b-8bdf-47dd7b54a921",
+        "isoCurrencyNumber": "344",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "HKD"
+    },
+    {
+        "isoCurrencyName": "Haiti Gourde",
+        "resourceId": "bdf21b8e-4ae7-463d-b40a-11fd982a1e48",
+        "isoCurrencyNumber": "332",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "HTG"
+    },
+    {
+        "isoCurrencyName": "Saudi Riyal",
+        "resourceId": "465c3a36-c509-4654-8b53-2c20f3db5025",
+        "isoCurrencyNumber": "682",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SAR"
+    },
+    {
+        "isoCurrencyName": "Boliviano",
+        "resourceId": "bb9f0ea3-21d9-4b21-8e2a-939a0774090b",
+        "isoCurrencyNumber": "068",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BOB"
+    },
+    {
+        "isoCurrencyName": "Unidad de fomento",
+        "resourceId": "714188e5-a340-41a3-b445-f0921ee98067",
+        "isoCurrencyNumber": "990",
+        "minorUnitNumber": 4,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CLF"
+    },
+    {
+        "isoCurrencyName": "Guatemala Quetzal",
+        "resourceId": "333bfde2-625f-417b-a84d-9cb4ad26e623",
+        "isoCurrencyNumber": "320",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "GTQ"
+    },
+    {
+        "isoCurrencyName": "Swaziland Lilangeni",
+        "resourceId": "6832b0ce-fbd1-47f6-84b0-f32862e53660",
+        "isoCurrencyNumber": "748",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SZL"
+    },
+    {
+        "isoCurrencyName": "Danish Krone",
+        "resourceId": "657f5f0d-a9c1-4c9a-8cb0-8e9667d2c225",
+        "isoCurrencyNumber": "208",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "DKK"
+    },
+    {
+        "isoCurrencyName": "Nigeria Naira",
+        "resourceId": "cd4a1998-5aad-4b29-b24d-926a9ee5b078",
+        "isoCurrencyNumber": "566",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "NGN"
+    },
+    {
+        "isoCurrencyName": "Uruguay Peso de Unidades",
+        "resourceId": "a944e18b-72ae-4ef6-a718-36061b6852fe",
+        "isoCurrencyNumber": "940",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "UYI"
+    },
+    {
+        "isoCurrencyName": "Japan Yen",
+        "resourceId": "61fb1930-6b05-4ba0-87e3-284018df21fe",
+        "isoCurrencyNumber": "392",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+       "isoCurrencyCode": "JPY"
+    },
+    {
+        "isoCurrencyName": "Bermudian Dollar",
+        "resourceId": "fba9c961-3308-4523-b7f0-0109a9ef9d3d",
+        "isoCurrencyNumber": "060",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BMD"
+    },
+    {
+        "isoCurrencyName": "Albania Lek",
+        "resourceId": "1fbafd24-f600-485d-be99-fedb73b7e8cf",
+        "isoCurrencyNumber": "008",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ALL"
+    },
+    {
+        "isoCurrencyName": "Rwanda Franc",
+        "resourceId": "891af8b3-ff0b-47d1-a069-8bf392c395b0",
+        "isoCurrencyNumber": "646",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "RWF"
+    },
+    {
+        "isoCurrencyName": "Panama Balboa",
+        "resourceId": "9c9c35f3-8a29-4a05-9484-e90612a535ea",
+        "isoCurrencyNumber": "590",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "PAB"
+    },
+    {
+        "isoCurrencyName": "Guinea - Franc",
+        "resourceId": "1dd449d4-25dd-4e7d-91b6-6e0afdf685f8",
+       "isoCurrencyNumber": "324",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "GNF"
+    },
+    {
+        "isoCurrencyName": "Taka(Bangladesh)",
+        "resourceId": "1dc65a44-4d80-4c2d-9c23-ac32861baf0c",
+        "isoCurrencyNumber": "050",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BDT"
+    },
+    {
+        "isoCurrencyName": "Brunei Dollar",
+       "resourceId": "0429dad5-5eae-4586-9a6a-9a6c2159a01d",
+        "isoCurrencyNumber": "096",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BND"
+    },
+    {
+        "isoCurrencyName": "Maldive Rufiyaa",
+        "resourceId": "4a9aaca1-5196-4879-aa30-4df5805e4db0",
+        "isoCurrencyNumber": "462",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MVR"
+    },
+    {
+        "isoCurrencyName": "Moroccan Dirham",
+        "resourceId": "58a991bd-74a2-45b0-9fd6-ac7ef6b9209e",
+        "isoCurrencyNumber": "504",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MAD"
+    },
+    {
+        "isoCurrencyName": "Seychelles Rupee",
+        "resourceId": "53d02c5e-6f62-4221-9a51-4f330d9ad575",
+        "isoCurrencyNumber": "690",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SCR"
+    },
+    {
+        "isoCurrencyName": "Peru Nuevo Sol",
+        "resourceId": "bebe2534-ba47-456c-9a6e-a4b8823ffb68",
+        "isoCurrencyNumber": "604",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "PEN"
+    },
+    {
+        "isoCurrencyName": "Algerian Dinar",
+        "resourceId": "0fb66ed1-5fa7-4cce-b53a-d73c0f6391cb",
+        "isoCurrencyNumber": "012",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "DZD"
+    },
+    {
+        "isoCurrencyName": "El Salvador Colon",
+        "resourceId": "421dbfee-bc01-4ff9-801c-5b7de1c10198",
+        "isoCurrencyNumber": "222",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SVC"
+    },
+    {
+        "isoCurrencyName": "Samoa Tala",
+        "resourceId": "68ae9b3f-eaa7-49ec-aaad-f3700b081fd9",
+       "isoCurrencyNumber": "882",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "WST"
+    },
+    {
+        "isoCurrencyName": "Mvdol (Bolivia)",
+        "resourceId": "a225714d-e2ba-4b79-a471-f1a45f01d692",
+        "isoCurrencyNumber": "984",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BOV"
+    },
+    {
+        "isoCurrencyName": "Myanmar Kyat",
+        "resourceId": "1dd141eb-5ef6-494a-bff5-7846374e96ce",
+        "isoCurrencyNumber": "104",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MMK"
+    },
+    {
+        "isoCurrencyName": "Lebanese Pound",
+        "resourceId": "2ca1bea9-b825-4f73-a900-b859127a25da",
+        "isoCurrencyNumber": "422",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "LBP"
+    },
+    {
+        "isoCurrencyName": "Belarussian Ruble",
+        "resourceId": "809193d8-7d81-42c5-bb4e-937d2944ce5d",
+        "isoCurrencyNumber": "974",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BYR"
+   },
+    {
+        "isoCurrencyName": "New Zealand Dollar",
+        "resourceId": "370e8915-c641-43cd-8430-00b0735fbacc",
+        "isoCurrencyNumber": "554",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "NZD"
+    },
+    {
+        "isoCurrencyName": "Comoro Franc",
+        "resourceId": "ff076416-ccf3-4999-b04d-127a825698dd",
+        "isoCurrencyNumber": "174",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "KMF"
+    },
+    {
+        "isoCurrencyName": "Ukraine Hryvnia",
+        "resourceId": "54d6d5af-b6f6-4f51-b4fc-4e5c0b537d20",
+        "isoCurrencyNumber": "980",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "UAH"
+    },
+    {
+        "isoCurrencyName": "Sucre Ecuador Currency",
+        "resourceId": "d0b63f40-e3ed-453a-8fe5-7c8c20665421",
+        "isoCurrencyNumber": "218",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SUC"
+    },
+    {
+        "isoCurrencyName": "Philippine Peso",
+        "resourceId": "5548704a-a553-44c9-8bc2-37bf79f5f141",
+        "isoCurrencyNumber": "608",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "PHP"
+    },
+    {
+        "isoCurrencyName": "Latvian Lats",
+        "resourceId": "889d5736-cccb-4489-96b5-2bbc7009a2ef",
+        "isoCurrencyNumber": "428",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "LVL"
+    },
+    {
+        "isoCurrencyName": "Tunisian Dinar",
+        "resourceId": "4877ac88-a12e-4849-b0a8-86253a9dd92f",
+        "isoCurrencyNumber": "788",
+        "minorUnitNumber": 3,
+        "otherEntityName": "",
+        "isoCurrencyCode": "TND"
+    },
+    {
+        "isoCurrencyName": "Canadian Dollar",
+        "resourceId": "2a71a415-553a-43c0-99b2-3cda60db61bd",
+        "isoCurrencyNumber": "124",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CAD"
+    },
+    {
+        "isoCurrencyName": "South Sudanese Pound",
+        "resourceId": "0ffa95ac-06ef-4837-bbdc-362cfa2c8364",
+        "isoCurrencyNumber": "728",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SSP"
+    },
+    {
+        "isoCurrencyName": "Argentine Peso",
+        "resourceId": "149931fd-73f4-4d18-bd61-f4300daa0c0e",
+        "isoCurrencyNumber": "032",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ARS"
+    },
+    {
+        "isoCurrencyName": "Uruguay Peso",
+        "resourceId": "035418ce-6b04-4679-a98a-7fd3cd2aa82a",
+        "isoCurrencyNumber": "858",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "UYU"
+    },
+    {
+        "isoCurrencyName": "Australian Dollar",
+        "resourceId": "017c5e47-cf19-42f3-b458-9d7f030020b1",
+        "isoCurrencyNumber": "036",
+       "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "AUD"
+    },
+    {
+        "isoCurrencyName": "Libyan Dinar",
+        "resourceId": "21ce467b-8521-4b63-bf1e-06f98d18c6f8",
+        "isoCurrencyNumber": "434",
+        "minorUnitNumber": 3,
+        "otherEntityName": "",
+        "isoCurrencyCode": "LYD"
+    },
+    {
+        "isoCurrencyName": "South African Rand",
+        "resourceId": "b2bef80a-52e9-4f88-b815-7845d774fb5a",
+        "isoCurrencyNumber": "710",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ZAR"
+    },
+    {
+        "isoCurrencyName": "Burundi Franc",
+        "resourceId": "db43c5cf-0b9c-4fb3-976f-9e832cd8b936",
+        "isoCurrencyNumber": "108",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BIF"
+    },
+    {
+        "isoCurrencyName": "Mozambique Metical",
+        "resourceId": "26e9ad42-c63e-4f5a-86b9-402e5bce842e",
+        "isoCurrencyNumber": "943",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MZN"
+    },
+    {
+        "isoCurrencyName": "Mongolian Tugrik",
+        "resourceId": "5757b171-8ca4-4a9b-b1a7-44658d203797",
+        "isoCurrencyNumber": "496",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MNT"
+    },
+    {
+        "isoCurrencyName": "Chilean Peso",
+        "resourceId": "d48fea2c-45b3-4a58-82fa-581b4f7b4544",
+        "isoCurrencyNumber": "152",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CLP"
+    },
+    {
+        "isoCurrencyName": "Mauritius Rupee",
+        "resourceId": "e9e18e4e-37cc-43d8-9514-17fb6b84e51a",
+        "isoCurrencyNumber": "480",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MUR"
+    },
+    {
+        "isoCurrencyName": "Cambodia Riel",
+        "resourceId": "5ebbcdd4-e53e-4bc2-a99a-330091bf4151",
+        "isoCurrencyNumber": "116",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "KHR"
+    },
+    {
+        "isoCurrencyName": "Liberian Dollar",
+        "resourceId": "168d8522-9778-4c44-aa26-20b0b1458acd",
+        "isoCurrencyNumber": "430",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "LRD"
+    },
+    {
+        "isoCurrencyName": "Azerbaijanian Manat",
+        "resourceId": "1ee1bd75-3f31-4ac2-b6e7-4fd8fe6b96a2",
+        "isoCurrencyNumber": "944",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "AZN"
+    },
+    {
+        "isoCurrencyName": "Vanuatu Vatu",
+        "resourceId": "3cd0d9b2-68cb-48be-8337-bf755827866e",
+        "isoCurrencyNumber": "548",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "VUV"
+    },
+    {
+        "isoCurrencyName": "CFA Franc BCEAO",
+        "resourceId": "bf3afceb-2f80-42d9-83a1-2323318d7be6",
+        "isoCurrencyNumber": "952",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "XOF"
+    },
+    {
+        "isoCurrencyName": "Polish Zloty",
+        "resourceId": "17052e03-c258-4630-9c8e-653a584afefa",
+        "isoCurrencyNumber": "985",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "PLN"
+   },
+    {
+        "isoCurrencyName": "Kenyan Shilling",
+        "resourceId": "3161fc0b-4079-4c42-a50b-62074766b346",
+        "isoCurrencyNumber": "404",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "KES"
+    },
+    {
+        "isoCurrencyName": "Swedish Krona",
+        "resourceId": "073555f8-fdf1-4006-86c5-5d1cc5ec7353",
+        "isoCurrencyNumber": "752",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SEK"
+    },
+    {
+        "isoCurrencyName": "Nakfa",
+        "resourceId": "81db5bab-6cbe-44ca-969e-9caa8b1ba255",
+        "isoCurrencyNumber": "232",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ERN"
+    },
+    {
+        "isoCurrencyName": "French Franc",
+        "resourceId": "3ade1160-6ec6-4aaa-b6ec-86cdfc3c62d4",
+        "isoCurrencyNumber": "250",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "FRF"
+    },
+    {
+        "isoCurrencyName": "Indian Rupee",
+        "resourceId": "db434111-30ab-46dc-a1c5-16887f4cea37",
+        "isoCurrencyNumber": "356",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "INR"
+    },
+    {
+        "isoCurrencyName": "BRAZILIAN REAL",
+        "resourceId": "3f788a2e-a949-482b-aeeb-fda78c44e289",
+        "isoCurrencyNumber": "986",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BRL"
+    },
+    {
+        "isoCurrencyName": "Turkish Lira",
+        "resourceId": "310ceda7-4b3a-43ec-86e8-d82a0ea30255",
+        "isoCurrencyNumber": "949",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "TRY"
+    },
+    {
+        "isoCurrencyName": "Tanzanian Shilling",
+        "resourceId": "482ba9fa-5e89-4a20-b6fe-eb7ca568bd42",
+        "isoCurrencyNumber": "834",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "TZS"
+    },
+    {
+        "isoCurrencyName": "Fiji Dollar",
+        "resourceId": "8c67b29b-633b-4b04-9b40-c6ce293ca195",
+        "isoCurrencyNumber": "242",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "FJD"
+    },
+    {
+        "isoCurrencyName": "Afghani",
+        "resourceId": "94f607cf-fbab-4dda-a7dc-69d190021aa3",
+        "isoCurrencyNumber": "971",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "AFN"
+    },
+    {
+        "isoCurrencyName": "Belize Dollar",
+        "resourceId": "f1040b49-f356-4128-9e8c-84a2d2037d5c",
+        "isoCurrencyNumber": "084",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BZD"
+    },
+    {
+        "isoCurrencyName": "Egyptian Pound",
+        "resourceId": "80528d92-113d-47d1-a36f-c4d2fac4f63f",
+        "isoCurrencyNumber": "818",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "EGP"
+    },
+    {
+        "isoCurrencyName": "WIR Franc (Switzerland)",
+        "resourceId": "fdb96151-f78d-4151-b5c4-bbfc5c63c781",
+        "isoCurrencyNumber": "948",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CHW"
+    },
+    {
+        "isoCurrencyName": "Yemeni Rial",
+        "resourceId": "78d5fc09-6022-478a-8cd7-6bc699cdcf2f",
+        "isoCurrencyNumber": "886",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "YER"
+    },
+    {
+        "isoCurrencyName": "Kazakhstan Tenge",
+        "resourceId": "5d20a1e9-01f3-4f5f-a6d7-4c9de29b419f",
+        "isoCurrencyNumber": "398",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "KZT"
+    },
+    {
+        "isoCurrencyName": "Falkland Islands Pound",
+        "resourceId": "0097f9a5-2571-441a-8d5b-7118ec2f7148",
+        "isoCurrencyNumber": "238",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "FKP"
+    },
+    {
+        "isoCurrencyName": "Nepalese Rupee",
+        "resourceId": "5d20341c-3f1b-4984-9f6c-68ab0f57a440",
+        "isoCurrencyNumber": "524",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "NPR"
+    },
+    {
+        "isoCurrencyName": "Kwacha (Malawi)",
+        "resourceId": "e5f6e715-5ae3-4bb2-ae46-2fdcbc415769",
+        "isoCurrencyNumber": "454",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MWK"
+    },
+    {
+        "isoCurrencyName": "Dominican Peso",
+        "resourceId": "1c360021-91e6-4aa3-bf43-58e55096dea4",
+        "isoCurrencyNumber": "214",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "DOP"
+    },
+    {
+        "isoCurrencyName": "Bolivar",
+        "resourceId": "0c8932ec-a608-4739-9ce8-f9cf431ed97d",
+        "isoCurrencyNumber": "937",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "VEF"
+    },
+    {
+        "isoCurrencyName": "Sao Tome Dobra",
+        "resourceId": "addfa434-8804-41a6-a4fa-2672b55b267a",
+        "isoCurrencyNumber": "678",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "STD"
+    },
+    {
+        "isoCurrencyName": "Tajikistan Somoni",
+        "resourceId": "77bc34e3-438e-4780-9abc-887b2b3dba3b",
+        "isoCurrencyNumber": "972",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "TJS"
+    },
+    {
+        "isoCurrencyName": "Bulgarian LEV",
+        "resourceId": "4fdaa323-b2d0-48c8-83c9-2acdab98f514",
+        "isoCurrencyNumber": "975",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BGN"
+    },
+    {
+        "isoCurrencyName": "Colombian Peso",
+        "resourceId": "c0411f3f-b004-457b-9fa3-77ae15324c8b",
+        "isoCurrencyNumber": "170",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "COP"
+    },
+    {
+        "isoCurrencyName": "Croatia Kuna",
+        "resourceId": "a64e1817-2745-4765-8aeb-7ec650c7baa2",
+        "isoCurrencyNumber": "191",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "HRK"
+    },
+    {
+        "isoCurrencyName": "Cayman Dollar",
+        "resourceId": "64f8350d-e744-4a3f-ac07-54ae8e04008a",
+        "isoCurrencyNumber": "136",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "KYD"
+    },
+    {
+        "isoCurrencyName": "Slovenia Tolar",
+        "resourceId": "db8e30e8-2f0f-48e8-b6d9-3a73c2a8afb4",
+        "isoCurrencyNumber": "705",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SIT"
+    },
+    {
+        "isoCurrencyName": "Israeli Sheqel",
+        "resourceId": "4dff273d-a0e3-442f-aa28-8c55a85f1e53",
+        "isoCurrencyNumber": "376",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ILS"
+    },
+    {
+        "isoCurrencyName": "Mexican Unidad de Inv(UDI)",
+        "resourceId": "fbcbc692-230c-43e4-afce-ee9f475173a3",
+        "isoCurrencyNumber": "979",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MXV"
+    },
+    {
+        "isoCurrencyName": "Moldovan Leu",
+        "resourceId": "b36b2bda-7319-4a85-9113-9cc69eb6dfd9",
+        "isoCurrencyNumber": "498",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MDL"
+    },
+    {
+        "isoCurrencyName": "Zimbabwe Dollar",
+        "resourceId": "1288ce05-9a82-4343-b6a5-a31615635bed",
+        "isoCurrencyNumber": "932",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ZWD"
+    },
+    {
+        "isoCurrencyName": "Sierra Leone Leone",
+        "resourceId": "8a68e884-30f5-4212-bc13-7e5f68ce0099",
+        "isoCurrencyNumber": "694",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SLL"
+    },
+    {
+        "isoCurrencyName": "Solomon Islands Dollar",
+        "resourceId": "58cffce6-8285-4715-99aa-4bd654a2a70d",
+        "isoCurrencyNumber": "090",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SBD"
+    },
+    {
+        "isoCurrencyName": "Costa Rican Colon",
+        "resourceId": "1710971d-bc74-4a1e-8c4d-54c83774d8ab",
+        "isoCurrencyNumber": "188",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CRC"
+    },
+    {
+        "isoCurrencyName": "CFA Franc BEAC",
+        "resourceId": "7127cbac-5597-4f99-9dea-c82793be8555",
+        "isoCurrencyNumber": "950",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "XAF"
+    },
+    {
+        "isoCurrencyName": "Papua N Guinea Kina",
+        "resourceId": "224b6ba6-a31b-449a-a9e7-11ead7fa68a0",
+        "isoCurrencyNumber": "598",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "PGK"
+    },
+    {
+        "isoCurrencyName": "Macau Pataca",
+        "resourceId": "63d1592f-1ffc-48ba-bb31-e17f4c625096",
+        "isoCurrencyNumber": "446",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MOP"
+    },
+    {
+        "isoCurrencyName": "Armenian Dram",
+        "resourceId": "0f284385-b96b-4cde-8ac5-d86808a23747",
+        "isoCurrencyNumber": "051",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "AMD"
+    },
+    {
+        "isoCurrencyName": "Korea Won",
+        "resourceId": "c00fcc60-f433-4fc6-b8b5-a6c7e2a0c554",
+        "isoCurrencyNumber": "410",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "KRW"
+    },
+    {
+        "isoCurrencyName": "Zambian Kwacha",
+        "resourceId": "ffafaa81-ffdb-4f4e-87f5-6700925eed48",
+        "isoCurrencyNumber": "967",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ZMW"
+    },
+    {
+        "isoCurrencyName": "U.S. Dollar",
+        "resourceId": "995b1629-6a41-4c6b-90a7-c538337eca7e",
+        "isoCurrencyNumber": "840",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "USD"
+    },
+    {
+        "isoCurrencyName": "Pound Sterling",
+        "resourceId": "591937d3-7474-4678-986c-f8c4c20ca418",
+        "isoCurrencyNumber": "826",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "GBP"
+    },
+    {
+        "isoCurrencyName": "Bahamian Dollar",
+        "resourceId": "ff91005a-4f0d-4f2e-a13e-c09b3a952c8e",
+        "isoCurrencyNumber": "044",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BSD"
+    },
+    {
+        "isoCurrencyName": "Yuan Renmimbi",
+        "resourceId": "d7aea55e-e254-4f29-949b-7fd94bdad2c5",
+        "isoCurrencyNumber": "156",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CNY"
+    },
+    {
+        "isoCurrencyName": "Uganda Shilling",
+        "resourceId": "dee7a570-9f62-46eb-a475-5ea479f5b7ce",
+        "isoCurrencyNumber": "800",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "UGX"
+    },
+    {
+        "isoCurrencyName": "Russian Ruble",
+        "resourceId": "9e003fed-5f33-43c1-94fd-87a968e7e75b",
+        "isoCurrencyNumber": "643",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "RUB"
+    },
+    {
+        "isoCurrencyName": "Iceland Krona",
+        "resourceId": "401c8f58-9d74-4a49-b736-c97b641118d7",
+        "isoCurrencyNumber": "352",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ISK"
+    },
+    {
+        "isoCurrencyName": "Eastern Caribbean Dollar",
+        "resourceId": "80b6cb82-d4db-421f-b954-8e150c65fbaf",
+        "isoCurrencyNumber": "951",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "XCD"
+    },
+    {
+        "isoCurrencyName": "Mauritania Ouguiya",
+        "resourceId": "6eb5134c-5b18-4eb1-8519-5c8665eaf1ce",
+        "isoCurrencyNumber": "478",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MRO"
+    },
+    {
+        "isoCurrencyName": "Congolese Franc",
+        "resourceId": "f1bd57e3-ac77-4966-9946-b20f076fb1b7",
+        "isoCurrencyNumber": "976",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CDF"
+    },
+    {
+        "isoCurrencyName": "Paraguay Guarani",
+        "resourceId": "8a407141-c59e-4b57-93ea-31d4b68ab126",
+        "isoCurrencyNumber": "600",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "PYG"
+    },
+    {
+        "isoCurrencyName": "Malaysian Ringgit",
+        "resourceId": "7e5ef1c9-7143-48d7-a657-c24f3bb43d0c",
+        "isoCurrencyNumber": "458",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MYR"
+    },
+    {
+        "isoCurrencyName": "Qatari Rial",
+        "resourceId": "2fbebef6-620b-45dd-98e8-ef76f626fdb1",
+        "isoCurrencyNumber": "634",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "QAR"
+    },
+    {
+        "isoCurrencyName": "WIR Euro (Switzerland)",
+        "resourceId": "02fb9ac4-feb6-4d1b-880e-60d86b2330a5",
+        "isoCurrencyNumber": "947",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CHE"
+    },
+    {
+        "isoCurrencyName": "Convertible Mark",
+        "resourceId": "5b94be67-f354-4846-b616-73afe66570b6",
+        "isoCurrencyNumber": "977",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BAM"
+    },
+    {
+        "isoCurrencyName": "Viet Nam Dong",
+        "resourceId": "4a7e2c24-76b0-48f9-b3d5-fb7f1372a840",
+        "isoCurrencyNumber": "704",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "VND"
+    },
+    {
+        "isoCurrencyName": "Kuwaiti Dinar",
+        "resourceId": "485edb31-7f7c-4a32-9885-84d8d0d4708f",
+        "isoCurrencyNumber": "414",
+        "minorUnitNumber": 3,
+        "otherEntityName": "",
+        "isoCurrencyCode": "KWD"
+    },
+    {
+        "isoCurrencyName": "Czech Koruna",
+        "resourceId": "89d80a48-8394-4bdc-862f-154b12536756",
+        "isoCurrencyNumber": "203",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CZK"
+    },
+    {
+        "isoCurrencyName": "Bahraini Dinar",
+        "resourceId": "08ee94cd-045b-44ad-b7f9-7c8648a7adcd",
+        "isoCurrencyNumber": "048",
+        "minorUnitNumber": 3,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BHD"
+    },
+    {
+        "isoCurrencyName": "Angolan Kwanza",
+        "resourceId": "be7e4130-8d91-4fe4-8fc4-9914d1dad2cb",
+        "isoCurrencyNumber": "973",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "AOA"
+    },
+    {
+        "isoCurrencyName": "Barbados Dollar",
+        "resourceId": "686651c4-1154-487d-a9a0-e789fb7920a1",
+        "isoCurrencyNumber": "052",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BBD"
+    },
+    {
+        "isoCurrencyName": "Mexican Peso",
+        "resourceId": "6e0ad681-f68b-4450-baa1-d0152b4b8688",
+        "isoCurrencyNumber": "484",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MXN"
+    },
+    {
+        "isoCurrencyName": "Serbian Dinar",
+        "resourceId": "8a63e145-530d-4840-95bb-308494e01318",
+        "isoCurrencyNumber": "941",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "RSD"
+    },
+    {
+        "isoCurrencyName": "Uzbekistan Sum",
+        "resourceId": "21e85f79-148d-4158-bf6d-5427362fc70e",
+        "isoCurrencyNumber": "860",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "UZS"
+    },
+    {
+        "isoCurrencyName": "Unidad de Valor Real",
+        "resourceId": "1b2a33f1-f901-418d-81ea-59bf7bd87704",
+        "isoCurrencyNumber": "970",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "COU"
+    },
+    {
+        "isoCurrencyName": "CFP Franc",
+        "resourceId": "d2834389-6a36-4bfa-a346-3e7e7e51594f",
+        "isoCurrencyNumber": "953",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "XPF"
+    },
+    {
+        "isoCurrencyName": "Lesotho Loti",
+        "resourceId": "e9168db5-bb70-4ce1-b76a-90247d64d8a9",
+        "isoCurrencyNumber": "426",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "LSL"
+    },
+    {
+        "isoCurrencyName": "Namibia Dollar",
+        "resourceId": "aa55c242-2f31-426a-9472-a3f473624ad8",
+        "isoCurrencyNumber": "516",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "NAD"
+    },
+    {
+        "isoCurrencyName": "Macedonia Denar",
+        "resourceId": "0731b050-23dc-4b72-be12-abbd990b5ac3",
+        "isoCurrencyNumber": "807",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MKD"
+    },
+    {
+        "isoCurrencyName": "Botswana Pula",
+        "resourceId": "4dd8a58a-4edd-48a2-b200-296392396a17",
+        "isoCurrencyNumber": "072",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "BWP"
+    },
+    {
+        "isoCurrencyName": "Swiss Franc",
+        "resourceId": "bba94611-816d-4467-aca2-151baeaaac64",
+        "isoCurrencyNumber": "756",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "CHF"
+    },
+    {
+        "isoCurrencyName": "Antillian Guilder",
+        "resourceId": "917c5cee-6217-4b81-93c4-5ed0a0af23be",
+        "isoCurrencyNumber": "532",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ANG"
+    },
+    {
+        "isoCurrencyName": "Iraqi Dinar",
+        "resourceId": "cfdb07a9-5c01-4daf-8736-513d5d09bb37",
+        "isoCurrencyNumber": "368",
+        "minorUnitNumber": 3,
+        "otherEntityName": "",
+        "isoCurrencyCode": "IQD"
+    },
+    {
+        "isoCurrencyName": "Honduras Lempira",
+        "resourceId": "322237ec-4bec-43c7-b591-8cc865e65d66",
+        "isoCurrencyNumber": "340",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "HNL"
+    },
+    {
+        "isoCurrencyName": "St Helena Pound",
+        "resourceId": "42f34b90-2df0-421e-a445-19010539705c",
+        "isoCurrencyNumber": "654",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SHP"
+    },
+    {
+        "isoCurrencyName": "Leu (Romania)",
+        "resourceId": "f229cdc3-f265-45cd-8f70-383cff5db38c",
+        "isoCurrencyNumber": "946",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "RON"
+    },
+    {
+        "isoCurrencyName": "Pa'anga",
+        "resourceId": "2291b5f7-7f48-4be9-b493-b81718ae2a84",
+        "isoCurrencyNumber": "776",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "TOP"
+    },
+    {
+        "isoCurrencyName": "New Manat",
+        "resourceId": "15256345-1a9f-4f6f-a056-5c5cd75beac3",
+        "isoCurrencyNumber": "934",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "TMT"
+    },
+    {
+        "isoCurrencyName": "Gibraltar Pound",
+        "resourceId": "ae511310-5e74-4913-a84a-2301f187c7d9",
+        "isoCurrencyNumber": "292",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "GIP"
+    },
+    {
+        "isoCurrencyName": "Djibouti Franc",
+        "resourceId": "4a00554f-9342-4be4-94e1-122dd9f52f21",
+        "isoCurrencyNumber": "262",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "DJF"
+    },
+    {
+        "isoCurrencyName": "Euro",
+        "resourceId": "354034e5-f0c1-4a55-b48b-a75f9448c0cd",
+        "isoCurrencyNumber": "978",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "EUR"
+    },
+    {
+        "isoCurrencyName": "Jamaican Dollar",
+        "resourceId": "e3d9ee92-99c9-4694-a4db-554f18e3acc2",
+        "isoCurrencyNumber": "388",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "JMD"
+    },
+    {
+        "isoCurrencyName": "Taiwan New Dollar",
+        "resourceId": "a47d9dd3-9518-4933-955c-b61d40829bbd",
+        "isoCurrencyNumber": "901",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "TWD"
+    },
+    {
+        "isoCurrencyName": "Georgian Lari",
+        "resourceId": "15c8c926-8841-472c-8959-6a95259c363b",
+        "isoCurrencyNumber": "981",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "GEL"
+    },
+    {
+        "isoCurrencyName": "Singapore Dollar",
+        "resourceId": "8c9cb72c-23d6-4058-bcee-c075d56e0306",
+        "isoCurrencyNumber": "702",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SGD"
+    },
+    {
+        "isoCurrencyName": "Guyana Dollar",
+        "resourceId": "0db528c1-84fc-4ea7-a411-0f0ee3aecb19",
+        "isoCurrencyNumber": "328",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "GYD"
+    },
+    {
+        "isoCurrencyName": "Thailand Baht",
+        "resourceId": "b3d929e2-e05a-47ba-bae3-fb928f2382a2",
+        "isoCurrencyNumber": "764",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "THB"
+    },
+    {
+        "isoCurrencyName": "Portuguese Escudo",
+        "resourceId": "7a7861aa-717d-4431-9ec4-032c3666de39",
+        "isoCurrencyNumber": "620",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "PTE"
+    },
+    {
+        "isoCurrencyName": "Suriname Dollar",
+        "resourceId": "03657fb8-7fda-4645-9da3-57d487935c51",
+        "isoCurrencyNumber": "968",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SRD"
+    },
+    {
+        "isoCurrencyName": "Malagasy Ariary",
+        "resourceId": "798c1a4c-0dea-4384-956b-d90f4a24b2b2",
+        "isoCurrencyNumber": "969",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "MGA"
+    },
+    {
+        "isoCurrencyName": "Ethiopian Birr",
+        "resourceId": "5d9f2f00-f167-477d-aca2-72c217fe47af",
+        "isoCurrencyNumber": "230",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "ETB"
+    },
+    {
+        "isoCurrencyName": "Pakistan Rupee",
+        "resourceId": "ac53a787-1fea-46dd-8786-88144e0eb9d8",
+        "isoCurrencyNumber": "586",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "PKR"
+    },
+    {
+        "isoCurrencyName": "Jordanian Dinar",
+        "resourceId": "734feb9e-0ad8-4bd3-820a-6a55799b4ac2",
+        "isoCurrencyNumber": "400",
+        "minorUnitNumber": 3,
+        "otherEntityName": "",
+        "isoCurrencyCode": "JOD"
+    },
+    {
+        "isoCurrencyName": "Somali Shilling",
+        "resourceId": "7f0a0be7-990f-46a9-9eb8-99f92cb08688",
+        "isoCurrencyNumber": "706",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "SOS"
+    },
+    {
+        "isoCurrencyName": "Rial Omani",
+        "resourceId": "98b1a54e-3fbf-4ec7-a79a-75c714d382ea",
+        "isoCurrencyNumber": "512",
+        "minorUnitNumber": 3,
+        "otherEntityName": "",
+        "isoCurrencyCode": "OMR"
+    },
+    {
+        "isoCurrencyName": "Nicaragua Cordoba Oro",
+        "resourceId": "2b59751b-873a-490a-b168-a01a6e2b6632",
+        "isoCurrencyNumber": "558",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "NIO"
+    },
+    {
+        "isoCurrencyName": "Sri Lanka Rupee",
+        "resourceId": "073ab866-da08-41dd-92b9-e421534da8ba",
+        "isoCurrencyNumber": "144",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "LKR"
+    },
+    {
+        "isoCurrencyName": "Aruban Florin",
+        "resourceId": "75212887-360d-4a3b-a5dc-84b4c4082a6e",
+        "isoCurrencyNumber": "533",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "AWG"
+    },
+    {
+        "isoCurrencyName": "Guinea - Bissau Peso",
+        "resourceId": "5938ec0f-5228-4724-b515-e4f366a89dd9",
+        "isoCurrencyNumber": "624",
+        "minorUnitNumber": 0,
+        "otherEntityName": "",
+        "isoCurrencyCode": "GWP"
+    },
+    {
+        "isoCurrencyName": "Ghana Cedi",
+        "resourceId": "5dd2590a-cb23-4e03-b13f-c04e96d716aa",
+        "isoCurrencyNumber": "936",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "GHS"
+    },
+    {
+        "isoCurrencyName": "UAE Dirham",
+        "resourceId": "30996156-4c09-4577-8940-d18e24c06826",
+        "isoCurrencyNumber": "784",
+        "minorUnitNumber": 2,
+        "otherEntityName": "",
+        "isoCurrencyCode": "AED"
     }
-}
+]
