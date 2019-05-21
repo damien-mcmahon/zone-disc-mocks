@@ -35,7 +35,8 @@ module.exports =  {
         networkId: tenant.shortCode,
         partyName,
         statusName,
-        contactDetails
+        contactDetails,
+        currencyCode: ['USD']
       };
   })
 };

@@ -20,9 +20,9 @@ module.exports = () => {
     "countries": standardResp('countries', countries),
     "currencies": standardResp('currencies', currencies),
     "parties": standardResp('parties', createParties(10, tenants)),
-    "queue": standardResp('queue', createParties(5, tenants)),
+    "queue": standardResp('queue', createParties(10, tenants)),
     "states": standardResp('states', states),
-    "tenants": standardResp('tenants', tenants),
+    "networks": standardResp('networks', tenants),
     "users": standardResp('users',createUsers(10)),
   };
 
