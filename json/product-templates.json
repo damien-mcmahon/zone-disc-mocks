@@ -1,0 +1,119 @@
+[
+    {
+        "resourceId": "296b4ffe-54c8-4fab-bbfe-08663258d54a",
+        "prdctNm": "DN Acquirer Contract",
+        "prdctCde": "XX0001",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Acquirer Contract parties"
+    },
+    {
+        "resourceId": "54f8206f-4efd-49d1-a0b1-58d8fa11f6d4",
+        "prdctNm": "DN Sales Channel",
+        "prdctCde": "XX0002",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for itsSales Channel parties"
+    },
+    {
+        "resourceId": "1662bd62-0954-4a16-a916-2ec75fe5e394",
+        "prdctNm": "DN Acquirer",
+        "prdctCde": "XX0003",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Acquirer parties",
+        "prdctFeatures": {
+            "prdctClssCdeRules": [
+                {
+                    "prdctClssCde": "24",
+                    "minOccurs": 1,
+                    "maxOccurs": 3
+                }
+            ],
+            "permittedPlatformProducts": [
+                {
+                    "scope": "mandatory",
+                    "prdctCde": "HY0001",
+                    "prdctClssCde": "24",
+                    "prdctRef": "ce82a1a3-a457-46b2-a37b-48ed906424c2",
+                    "prdctNm": "Hydra Indicator",
+                    "prdctDesc": "This Product acts as a filter so that Hydra can get just the data profiles that it needs"
+                },
+                {
+                    "scope": "default",
+                    "prdctCde": "D200",
+                    "prdctClssCde": "24",
+                    "prdctRef": "ee926488-be52-488c-b9d4-7a67db84477e",
+                    "prdctNm": "Product Name 2",
+                    "prdctDesc": "This is a second test product"
+                },
+                {
+                    "scope": "default",
+                    "prdctCde": "D300",
+                    "prdctClssCde": "24",
+                    "prdctRef": "eed8d5be-762d-4aa3-a6c1-8b8ac5980a8c",
+                    "prdctNm": "Product Name 3",
+                    "prdctDesc": "This is a third test product"
+                },
+                {
+                    "scope": "optional",
+                    "prdctCde": "D400",
+                    "prdctClssCde": "24",
+                    "prdctRef": "ce7391c0-85e6-4266-9588-0c51aee3879a",
+                    "prdctNm": "Product Name 4",
+                    "prdctDesc": "This is a forth test product"
+                },
+                {
+                    "scope": "optional",
+                    "prdctCde": "D500",
+                    "prdctClssCde": "24",
+                    "prdctRef": "8cab532a-26d1-499b-822e-2a92a312813a",
+                    "prdctNm": "Product Name 5",
+                    "prdctDesc": "This is a fifth test product"
+                }
+            ]
+        }
+    },
+    {
+        "resourceId": "a0512d71-95ed-46b5-af87-3770bbc52ba9",
+        "prdctNm": "DN Independent Sales Organisation (ISO)",
+        "prdctCde": "XX0004",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Independent Sales Organisation (ISO) parties"
+    },
+    {
+        "resourceId": "a3929fbf-0ce4-495f-821e-1e89da0b63d5",
+        "prdctNm": "DN Acquirer Processor Contract",
+        "prdctCde": "XX0005",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Acquirer Processor Contract parties"
+    },
+    {
+        "resourceId": "c8c6bbb1-8297-4b29-893d-62fe297a6985",
+        "prdctNm": "DN Platform Party",
+        "prdctCde": "XX0006",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Platform parties"
+    },
+    {
+        "resourceId": "f2930330-26cf-4298-8030-f693a575ba5d",
+        "prdctNm": "DN Acquirer Processor",
+        "prdctCde": "XX0007",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Acquirer Contract parties"
+    },
+    {
+        "resourceId": "6c1b55b6-7c1b-4259-906c-453845ea83a2",
+        "prdctNm": "DN Issuer",
+        "prdctCde": "XX0008",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Issuer parties"
+    },
+    {
+        "resourceId": "ff138dfd-fa51-4c9b-a67b-6fa08a9b1b52",
+        "prdctNm": "DN Issuer Processor",
+        "prdctCde": "XX0009",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Issuer Processor parties"
+    },
+    {
+        "resourceId": "7616bae4-b3e7-4a3b-a193-45214b3955b6",
+        "prdctNm": "DN Program Manager",
+        "prdctCde": "XX0010",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Program Manager parties"
+    },
+    {
+        "resourceId": "6284cacc-bd79-4c32-859d-a3cf4c398170",
+        "prdctNm": "DN B2B (Commercial Payments)",
+        "prdctCde": "XX0011",
+        "prdctDesc": "The Product Template that DN uses to manage the capabilities that are applicable for its Business to Business (Commercial Payments) parties"
+    }
+]
