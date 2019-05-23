@@ -4,7 +4,7 @@ const { createParties } = require('./party');
 const currencies = require('./json/currencies');
 const countries = require('./json/countries');
 const states = require('./json/states');
-const productTemplates = require('./json/product-templates');
+const productTemplates = require('./json/dci-product-templates');
 
 const standardResp = (key, data) => ({
   "status": [{
