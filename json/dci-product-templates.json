@@ -8,8 +8,8 @@
             "prdctClssCdeRules": [
                 {
                     "prdctClssCde": "24",
-                    "minOccurs": 1,
-                    "maxOccurs": 3
+                    "minOccurs": 3,
+                    "maxOccurs": 5
                 }
             ],
             "permittedPlatformProducts": [
@@ -30,7 +30,7 @@
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
-                    "scope": "default",
+                    "scope": "optional",
                     "prdctCde": "TBC003",
                     "prdctClssCde": "24",
                     "prdctRef": "eed8d5be-762d-4aa3-a6c1-8b8ac5980a8c",
