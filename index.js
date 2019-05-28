@@ -5,6 +5,7 @@ const currencies = require('./json/currencies');
 const countries = require('./json/countries');
 const states = require('./json/states');
 const productTemplates = require('./json/dci-product-templates');
+const checklist = require('./json/dn-checklist');
 
 const standardResp = (key, data) => ({
   "status": [{
@@ -18,6 +19,7 @@ const standardResp = (key, data) => ({
 
 module.exports = () => {
   const data = {
+    "checklist": standardResp('checklist', checklist),
     "countries": standardResp('countries', countries),
     "currencies": standardResp('currencies', currencies),
     "parties": standardResp('parties', createParties(10, tenants)),

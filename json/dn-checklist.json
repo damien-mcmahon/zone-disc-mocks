@@ -1,0 +1,280 @@
+[
+    {
+        "header": "Participant Engagement",
+        "tasks": [
+            {
+                "taskCde": "TSK001",
+                "taskDesc": "Send applicable program documents to Client",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "done": "true",
+                "dateCompleted": "2019-05-06T12:26:10.452-00:00"
+            },
+            {
+                "taskCde": "TSK002",
+                "taskDesc": "Send DN Merchant Acquiring Regristration Form to Client",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "done": "false",
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK003",
+                "taskDesc": "Confirm w DNMAP that DN Registration form received from client email adddress",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK004",
+                "taskDesc": "Host project kick-off meeting with Client",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK005",
+                "taskDesc": "Create Issues Log",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK006",
+                "taskDesc": "Share and capture contact information for project teams",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "System Configurations",
+        "tasks": [
+            {
+                "taskCde": "TSK011",
+                "taskDesc": "Host internal kick off call (if necessary for custom or unique boarding projects)",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK012",
+                "taskDesc": "Request/Recieved Acquirer MID Range from DNMAP",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK013",
+                "taskDesc": "Build profile in Dforce",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK014",
+                "taskDesc": "Receive assigned Acquirer MID range from DNMAP",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK015",
+                "taskDesc": "Notify Participant of External ID (IIC or ALT ID)",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK016",
+                "taskDesc": "Notify Participant of  MID Range Assignment",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "File Transfer Connectivity",
+        "tasks": [
+            {
+                "taskCde": "TSK021",
+                "taskDesc": "Identify preferred connectivity protocol and relevant file types needed",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "Authorization Connectivity (CPN or VPN)",
+        "tasks": [
+            {
+                "taskCde": "TSK031",
+                "taskDesc": "Confirm Site Survey form received from Participant",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "RCT Connectivity",
+        "tasks": [
+            {
+                "taskCde": "TSK041",
+                "taskDesc": "Create client/User profile in RCT",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "Management Approval 1",
+        "tasks": [
+            {
+                "taskCde": "TSK061",
+                "taskDesc": "Submit for manager review/approval of project status",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK062",
+                "taskDesc": "Receive email approval from manager and upload to repository",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "PIN Key Management",
+        "tasks": []
+    },
+    {
+        "header": "Core Certification",
+        "tasks": [
+            {
+                "taskCde": "TSK121",
+                "taskDesc": "Submit Waiver or Exception requests thru Dforce",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "Other Certification - DPAS - Contact, Contactless, Dual Interface",
+        "tasks": [
+            {
+                "taskCde": "TSK131",
+                "taskDesc": "Review tests and provide Participant with results",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "Other Certification - ProtectBuy",
+        "tasks": []
+    },
+    {
+        "header": "Participant Reporting",
+        "tasks": []
+    },
+    {
+        "header": "Websites/Portals",
+        "tasks": [
+            {
+                "taskCde": "TSK161",
+                "taskDesc": "International Merchant Registration - Complete certification testing",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "Management Approval 2",
+        "tasks": [
+            {
+                "taskCde": "TSK171",
+                "taskDesc": "Submit for manager review/approval of project status",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK172",
+                "taskDesc": "Receive email approval from manager and upload to repository",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "Pre-Production",
+        "tasks": [
+            {
+                "taskCde": "TSK301",
+                "taskDesc": "Confirm Certification letter has been sent to client",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    },
+    {
+        "header": "Implementation",
+        "tasks": []
+    },
+    {
+        "header": "Final Management Approval 3",
+        "tasks": [
+            {
+                "taskCde": "TSK331",
+                "taskDesc": "Submit for manager review/approval of project status",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            },
+            {
+                "taskCde": "TSK332",
+                "taskDesc": "Receive email approval from manager and upload to repository",
+                "checkbox": true,
+                "serviceNowTicket": false,
+                "addComments": true,
+                "dateCompleted": "1900-01-01T00:00:00.000-00:00"
+            }
+        ]
+    }
+]
