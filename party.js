@@ -4,9 +4,7 @@ const { range, randomInt } = require('./utils');
 const STATUSES = ['Active', 'Rejected', 'Awaiting Approval'];
 
 module.exports =  {
-  createParties: (count, tenants) => range(0,count).map(() => {
-      const randTenant = Math.max(0, randomInt(0, tenants.length - 1));
-      const tenant = tenants[randTenant];
+  createParties: (count, tenant) => range(0,count).map(() => {
       const partyName = Faker.company.companyName();
       const statusName = STATUSES[randomInt(0, STATUSES.length - 1)];
 

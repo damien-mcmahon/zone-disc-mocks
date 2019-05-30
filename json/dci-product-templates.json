@@ -34,7 +34,7 @@
                     "prdctCde": "TBC003",
                     "prdctClssCde": "24",
                     "prdctRef": "eed8d5be-762d-4aa3-a6c1-8b8ac5980a8c",
-                    "prdctNm": "Airline Institution",
+                    "prdctNm": "EIX Destination Franchise",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -42,7 +42,7 @@
                     "prdctCde": "TBC004",
                     "prdctClssCde": "24",
                     "prdctRef": "ce7391c0-85e6-4266-9588-0c51aee3879a",
-                    "prdctNm": "All",
+                    "prdctNm": "Xpress",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -50,7 +50,7 @@
                     "prdctCde": "TBC005",
                     "prdctClssCde": "24",
                     "prdctRef": "8cab532a-26d1-499b-822e-2a92a312813a",
-                    "prdctNm": "Amoco",
+                    "prdctNm": "Interchange",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -58,7 +58,7 @@
                     "prdctCde": "TBC006",
                     "prdctClssCde": "24",
                     "prdctRef": "ce7391c0-85e6-4266-9588-0c51aee3879a",
-                    "prdctNm": "Club Cash",
+                    "prdctNm": "Airline Institution",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -66,7 +66,7 @@
                     "prdctCde": "TBC007",
                     "prdctClssCde": "24",
                     "prdctRef": "8cab532a-26d1-499b-822e-2a92a312813a",
-                    "prdctNm": "DCI Fee",
+                    "prdctNm": "Amoco",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -74,7 +74,7 @@
                     "prdctCde": "TBC008",
                     "prdctClssCde": "24",
                     "prdctRef": "ce7391c0-85e6-4266-9588-0c51aee3879a",
-                    "prdctNm": "DCSP HQ",
+                    "prdctNm": "Club Cash",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -82,7 +82,7 @@
                     "prdctCde": "TBC009",
                     "prdctClssCde": "24",
                     "prdctRef": "8cab532a-26d1-499b-822e-2a92a312813a",
-                    "prdctNm": "Diners Club Franchise",
+                    "prdctNm": "DCI Fee",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -90,7 +90,7 @@
                     "prdctCde": "TBC010",
                     "prdctClssCde": "24",
                     "prdctRef": "ce7391c0-85e6-4266-9588-0c51aee3879a",
-                    "prdctNm": "Discover Network",
+                    "prdctNm": "DCSP HQ",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -98,7 +98,7 @@
                     "prdctCde": "TBC011",
                     "prdctClssCde": "24",
                     "prdctRef": "8cab532a-26d1-499b-822e-2a92a312813a",
-                    "prdctNm": "DXS",
+                    "prdctNm": "Diners Club Franchise",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -106,7 +106,7 @@
                     "prdctCde": "TBC012",
                     "prdctClssCde": "24",
                     "prdctRef": "ce7391c0-85e6-4266-9588-0c51aee3879a",
-                    "prdctNm": "Internal Accounts",
+                    "prdctNm": "Discover Network",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -114,7 +114,7 @@
                     "prdctCde": "TBC013",
                     "prdctClssCde": "24",
                     "prdctRef": "8cab532a-26d1-499b-822e-2a92a312813a",
-                    "prdctNm": "Issuer",
+                    "prdctNm": "DXS",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -122,7 +122,7 @@
                     "prdctCde": "TBC014",
                     "prdctClssCde": "24",
                     "prdctRef": "ce7391c0-85e6-4266-9588-0c51aee3879a",
-                    "prdctNm": "MasterCard",
+                    "prdctNm": "Internal Accounts",
                     "prdctDesc": "This Product acts as a sample product"
                 },
                 {
@@ -148,7 +148,42 @@
         "resourceId": "c93ce9e6-f831-49f8-86bf-b99b04548962",
         "prdctNm": "DCI Issuer",
         "prdctCde": "XX0102",
-        "prdctDesc": "The Product Template that DCI uses to manage the capabilities that are applicable for its Issuer parties"
+        "prdctDesc": "The Product Template that DCI uses to manage the capabilities that are applicable for its Issuer parties",
+        "prdctFeatures": {
+            "prdctClssCdeRules": [
+                {
+                    "prdctClssCde": "24",
+                    "minOccurs": 2,
+                    "maxOccurs": 2
+                }
+            ],
+            "permittedPlatformProducts": [
+                {
+                    "scope": "mandatory",
+                    "prdctCde": "TBC001",
+                    "prdctClssCde": "24",
+                    "prdctRef": "ce82a1a3-a457-46b2-a37b-48ed906424c2",
+                    "prdctNm": "Issuer Auth",
+                    "prdctDesc": "This Product acts as a sample product"
+                },
+                {
+                    "scope": "optional",
+                    "prdctCde": "TBC002",
+                    "prdctClssCde": "24",
+                    "prdctRef": "ee926488-be52-488c-b9d4-7a67db84477e",
+                    "prdctNm": "Issuer Interchange",
+                    "prdctDesc": "This Product acts as a sample product"
+                },
+                {
+                    "scope": "optional",
+                    "prdctCde": "TBC002",
+                    "prdctClssCde": "24",
+                    "prdctRef": "ee926488-be52-488c-b9d4-7a67db84477e",
+                    "prdctNm": "Issuer Interchange Type B",
+                    "prdctDesc": "This Product acts as a sample product"
+                }
+            ]
+        }
     },
     {
         "resourceId": "d23d7041-1d0d-48c1-b183-34b3e26d7fea",
@@ -157,8 +192,8 @@
         "prdctDesc": "The Product Template that DCI uses to manage the capabilities that are applicable for its Processor parties"
     },
     {
-        "resourceId": "d23d7041-1d0d-48c1-b183-34b3e26d7fea",
-        "prdctNm": "DCI Platform",
+        "resourceId": "d23d7041-1d0d-48c1-b183-34b3e26d7fed",
+        "prdctNm": "DCI Merchant",
         "prdctCde": "XX0104",
         "prdctDesc": "The Product Template that DCI uses to manage the capabilities that are applicable for its Plateform parties"
     },
